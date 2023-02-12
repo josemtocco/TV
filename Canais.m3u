@@ -3,23 +3,11 @@
 http://168.205.87.198:8555/live/1438/123456/32.ts
 #EXTINF:0 type="stream" channelId="2467", TV Cultura
 http://boxtv.uniredes.com.br:80/123456789/123456789/79
-#EXTINF:0 type="stream" channelId="-1",TV Cultura HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/374286
 
-#EXTINF:0 type="stream" channelId="-1", Record RS HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/35165
-#EXTINF:0 type="stream" channelId="-1", Band RS HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/892776
-#EXTINF:0 type="stream" channelId="-1", SBT RS HD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/1002415
-#EXTINF:0 type="stream" channelId="-1", SBT RS
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", SBT RS
-http://uva.bccdn.xyz:80/Eliezer1756/998471756/347
 #EXTINF:0 type="stream" channelId="-1", SBT
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:0 type="stream" channelId="2628", TVE RS,
+#EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
 #EXTINF:0 type="stream" channelId="2628", TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
@@ -279,9 +267,9 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Travel Box Brazil FHD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/384894
+http://186.237.99.202:8000/play/TravelBox/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Modo Viagem FHD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/475671
+http://186.237.99.202:8000/play/MaisGlobosat/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", NATGEO WILD FHD
 http://axr.life:80/eltonamigo/XmFaQMh6qYMb/923829
 #EXTINF:0 type="stream" channelId="-1", NATIONAL GEOGRAPHIC FHD
@@ -331,7 +319,3 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 #EXTINF:0 type="stream" channelId="-1", OX TV
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
 
-#EXTINF:0 type="stream" channelId="-1",Travel Box Brazil HD
-http://186.237.99.202:8000/play/TravelBox/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Modo Viagem HD
-http://186.237.99.202:8000/play/MaisGlobosat/index.m3u8
