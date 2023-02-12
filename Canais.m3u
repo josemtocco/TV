@@ -108,7 +108,7 @@ http://168.205.87.198:8555/live/1438/123456/198.ts
 #EXTINF:0 type="stream" channelId="5107", TV Imperial
 https://alanza.iptv2022.com/IMPERIAL_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Jornal do Nordeste
-https://alanza.iptv2022.com/TV_JORNAL_DO_NORDESTE/tracks-v1a1/mono.m3u8
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1312522424.m3u8
 #EXTINF:0 type="stream" channelId="-1", AWTV
 https://alanza.iptv2022.com/AWTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 29
@@ -149,8 +149,6 @@ https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w333847997.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Natal
 https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w765867555.m3u8
-#EXTINF:0 type="stream" channelId="-1", Christmas TV
-https://stmv1.srvif.com/cristmastv/cristmastv/chunklist_w408722586.m3u8
 
 #EXTINF:0 type="stream" channelId="5102", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -169,18 +167,12 @@ https://tvaovivo.sites.ufsc.br/hls/1_hi.m3u8
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
 #EXTINF:0 type="stream" channelId="-1", BR Super TV
 https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Central TV
-https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Central TV
-https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w1018050766.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Gazeta
 https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w767522095.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Gazeta
 http://boxtv.uniredes.com.br:80/123456789/123456789/161
 #EXTINF:0 type="stream" channelId="-1", Rede Vida
 http://boxtv.uniredes.com.br:80/123456789/123456789/109
-#EXTINF:0 type="stream" channelId="-1", TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TBO
