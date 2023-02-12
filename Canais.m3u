@@ -307,3 +307,5 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 #EXTINF:0 type="stream" channelId="-1", OX TV
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
 
+#EXTINF:0 type="stream" channelId="-1", NGT Rio
+https://acesso.ecast.site:3922/live/redengtlive-54759.ts
