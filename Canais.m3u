@@ -1,0 +1,337 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2467", TV Cultura
+http://168.205.87.198:8555/live/1438/123456/32.ts
+#EXTINF:0 type="stream" channelId="2467", TV Cultura
+http://boxtv.uniredes.com.br:80/123456789/123456789/79
+#EXTINF:0 type="stream" channelId="-1",TV Cultura HD
+http://axr.life:80/eltonamigo/XmFaQMh6qYMb/374286
+
+#EXTINF:0 type="stream" channelId="-1", Record RS HD
+http://axr.life:80/eltonamigo/XmFaQMh6qYMb/35165
+#EXTINF:0 type="stream" channelId="-1", Band RS HD
+http://axr.life:80/eltonamigo/XmFaQMh6qYMb/892776
+#EXTINF:0 type="stream" channelId="-1", SBT RS HD
+http://axr.life:80/eltonamigo/XmFaQMh6qYMb/1002415
+#EXTINF:0 type="stream" channelId="-1", SBT RS
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBT RS
+http://uva.bccdn.xyz:80/Eliezer1756/998471756/347
+#EXTINF:0 type="stream" channelId="-1", SBT
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="2628", TVE RS,
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
+#EXTINF:0 type="stream" channelId="2628", TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
+https://livefocamundo.com:8081/redesul/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede Sul TV
+https://livefocamundo.com:8081/redesul/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2613", TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w341711511.m3u8
+#EXTINF:0 type="stream" channelId="-1", RDC
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bah! TV
+https://streaming03.zas.media:1936/bahtv/bahtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Conecta web TV
+http://189.14.239.62:1935/webtv/livestream1/chunklist_w633831762.m3u8
+#EXTINF:0 type="stream" channelId="-1", Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Passo Fundo
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/chunklist_w1587811884.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Santa Maria
+https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nova TV Agrotour
+http://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nova TV Agrotour
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Lagoa TV
+https://alanza.iptv2022.com/LAGOA_TV/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Lagoa TV
+https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w542222955.m3u8
+
+#EXTINF:0 type="stream" channelId="2035", Love Nature
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:0 type="stream" channelId="-1", Rakuten-documentaries
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", Rakuten Family (PT)
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", TOON GOGGLE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+#EXTINF:0 type="stream" channelId="-1", Toon Goggle HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+
+#EXTINF:0 type="stream" channelId="-1", TV JPNews
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
+#EXTINF:0 type="stream" channelId="-1", Band News
+http://boxtv.uniredes.com.br:80/123456789/123456789/53
+#EXTINF:0 type="stream" channelId="-1", GLOBO NEWS FHD
+http://axr.life:80/eltonamigo/XmFaQMh6qYMb/45264
+
+#EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2645", SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Run Time Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=95926e843ec7970ed65dd54a0edbd88e&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%20America&timestamp=1651100850&id=4676&ip=2804%3A14c%3A6580%3A5d0e%3A11ee%3Ab353%3Acc54%3A1c61&override_expiration=1500&sign=tsqt7ApnwgucpA5uTxrXfAKYENmJSPB67bs2bLIl7%2Bs%3D7
+#EXTINF:0 type="stream" channelId="-1", Run Time Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
+#EXTINF:0 type="stream" channelId="-1", Run Time
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=66b9a14e2839b8c1dafbc777691e8c4b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
+
+#EXTINF:0 type="stream" channelId="-1", CLUBINHO FAN
+http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", ClubinhoFun
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ENTRETENDO 
+http://cdn.connectbr.com.br:80/Entretendo/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Entretendo
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Fronteira Movies
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", CinePIX
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CLC CINE LIFE CLASSIC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:0 type="stream" channelId="-1", TV Tremembe
+https://livefocamundo.com:8081/tvtremembe/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede QDM
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+#EXTINF:0 type="stream" channelId="5100", TV Clube
+https://5c483b9d1019c.streamlock.net:443/8186/8186/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", GLN TV
+http://boxtv.uniredes.com.br:80/123456789/123456789/213
+#EXTINF:0 type="stream" channelId="-1", CLC FILMES CLÁSSICOS
+http://168.205.87.198:8555/live/1438/123456/198.ts
+#EXTINF:0 type="stream" channelId="5107", TV Imperial
+https://alanza.iptv2022.com/IMPERIAL_TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Jornal do Nordeste
+https://alanza.iptv2022.com/TV_JORNAL_DO_NORDESTE/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", AWTV
+https://alanza.iptv2022.com/AWTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal 29
+https://alanza.iptv2022.com/CANAL_29/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", X Plus TV
+https://alanza.iptv2022.com/X_PLUS_TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Gallo HD
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", Channel 1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w192471995.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede TV Sul
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
+#EXTINF:0 type="stream" channelId="-1", LASSTV
+https://streaming03.zas.media:1936/lasstv/lasstv/chunklist_w574669255.m3u8
+#EXTINF:0 type="stream" channelId="-1", CineLivre
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1", CineLivre 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1", Nova Manchete
+https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist_w1354425719.m3u8
+#EXTINF:0 type="stream" channelId="-1", Carioca Net
+https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w1536715481.m3u8
+#EXTINF:0 type="stream" channelId="-1", WEB TV Clássicos do Cinema
+https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Sonata
+https://stmv1.srvstm.com/tiago4617/tiago4617/chunklist_w1454621499.m3u8
+#EXTINF:0 type="stream" channelId="-1", ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", WEB TVCINE
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1943440238.m3u8
+#EXTINF:0 type="stream" channelId="-1", MAX90 TV
+https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal 107 Passos
+https://stmv5.samcast.com.br/deivid2889/deivid2889/chunklist_w1052023396.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tv Xtreme
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tv Top Mix Filmes
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w333847997.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Natal
+https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w765867555.m3u8
+#EXTINF:0 type="stream" channelId="-1", Christmas TV
+https://stmv1.srvif.com/cristmastv/cristmastv/chunklist_w408722586.m3u8
+
+#EXTINF:0 type="stream" channelId="5102", TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede Minas
+http://168.205.87.198:8555/live/1438/123456/101.ts
+#EXTINF:0 type="stream" channelId="2466", TV Brasil
+http://168.205.87.198:8555/live/1438/123456/134.ts
+#EXTINF:0 type="stream" channelId="-1", CaTVE
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Futuro
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w300430421.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV UFSC
+https://tvaovivo.sites.ufsc.br/hls/1_hi.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", REDE FAMILIA HD
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR Super TV
+https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Central TV
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Central TV
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w1018050766.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Gazeta
+https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w767522095.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Gazeta
+http://boxtv.uniredes.com.br:80/123456789/123456789/161
+#EXTINF:0 type="stream" channelId="-1", Rede Vida
+http://boxtv.uniredes.com.br:80/123456789/123456789/109
+#EXTINF:0 type="stream" channelId="-1", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TBO
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Via morena
+https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Urban TV Brasil HD
+http://200.194.238.229:8383/live/urbantv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban Movies HD
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban Series HD
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Kids HD
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Docs HD
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Turbo HD
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Retro HD
+http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Travel HD
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Urban Kids
+https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", Urban Docs
+https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", URBAN TRAVEL
+https://5ad482a77183d.streamlock.net/urbantvtravelgmail.com/urbantvtravelgmail.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban Movies
+https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", Urban TV
+https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", Urban Séries
+https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:0 type="stream" channelId="-1", Cartoon Network
+http://boxtv.uniredes.com.br:80/123456789/123456789/219
+#EXTINF:0 type="stream" channelId="-1", Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Kids
+http://168.205.87.198:8555/live/1438/123456/143.ts
+#EXTINF:0 type="stream" channelId="-1", DC Kids Brasil
+http://boxtv.uniredes.com.br:80/123456789/123456789/112
+#EXTINF:0 type="stream" channelId="2614", TV Rá-Tim-Bum
+http://168.205.87.198:8555/live/1438/123456/84.ts
+#EXTINF:0 type="stream" channelId="-1", Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fronteira Kids
+https://alanza.iptv2022.com/FRONTEIRA_KIDS/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Jetson TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w904395745.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Comédia Brasil
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", MULTISHOW FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31617
+
+#EXTINF:0, FUTURA
+http://168.205.87.198:8555/live/1438/123456/67.ts
+#EXTINF:0, CANAL SAÚDE
+http://168.205.87.198:8555/live/1438/123456/165.ts
+#EXTINF:0 type="stream" channelId="-1", TV BRICS HD
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="2619", Cine Brasil
+http://168.205.87.198:8555/live/1438/123456/145.ts
+#EXTINF:0 type="stream" channelId="1201", History 2
+http://cdn.connectbr.com.br/h2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", AmazonSat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BraziTV
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal Plural
+https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
+#EXTINF:0 type="stream" channelId="-1", Viajando Pelo Brasil
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Universidade da Pessoa
+http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Travel Box Brazil FHD
+http://axr.life:80/eltonamigo/XmFaQMh6qYMb/384894
+#EXTINF:0 type="stream" channelId="-1", Modo Viagem FHD
+http://axr.life:80/eltonamigo/XmFaQMh6qYMb/475671
+#EXTINF:0 type="stream" channelId="-1", NATGEO WILD FHD
+http://axr.life:80/eltonamigo/XmFaQMh6qYMb/923829
+#EXTINF:0 type="stream" channelId="-1", NATIONAL GEOGRAPHIC FHD
+http://axr.life:80/eltonamigo/XmFaQMh6qYMb/104677
+
+#EXTINF:0 type="stream" channelId="-1", Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w576732257_b2596000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1", Notícias Agrícolas
+https://video01.soultv.com.br/noticiasagricolas/noticiasagricolas/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", TV R
+https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Erga Omnes
+https://video01.kshost.com.br:4443/erga9862/erga9862/chunklist_w2008369392.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Educar
+https://v1.comunicabh.com.br/tveducar/tveducar/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1",HELLO TV
+http://cdn.connectbr.com.br:80/Hello/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", INSPIRE 
+http://cdn.connectbr.com.br:80/Inspire/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1",REDE MOSAICO 
+http://cdn.connectbr.com.br:80/Mosaico/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1",UP CHANNEL 
+http://cdn.connectbr.com.br:80/UPChannel/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1",YES LIFE 
+http://cdn.connectbr.com.br:80/Life/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Flórida
+https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV CNB
+https://livefocamundo.com:8081/tvcnb/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bem Melhor
+https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Araruna TV
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nova TV Regional
+http://187.95.95.241:7988/regional/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede UTV Brasil
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", D+ TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV VideoNews
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", OX TV
+https://cdn2.connectbr.com.br/oxtv/video.m3u8
+
+#EXTINF:0 type="stream" channelId="-1",Travel Box Brazil HD
+http://186.237.99.202:8000/play/TravelBox/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Modo Viagem HD
+http://186.237.99.202:8000/play/MaisGlobosat/index.m3u8
