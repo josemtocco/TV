@@ -307,5 +307,11 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 #EXTINF:0 type="stream" channelId="-1", OX TV
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", NGT Rio
-https://acesso.ecast.site:3922/live/redengtlive-54759.ts
+#EXTINF:0 type="stream" channelId="-1", CSN
+https://acesso.ecast.site:3613/live/csnlive.m3u8
+#EXTINF:0 type="stream" channelId="-1", Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
+#EXTINF:0 type="stream" channelId="-1", ABC Brasil
+https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w8261459.m3u8
+#EXTINF:0 type="stream" channelId="-1", ASCAME TV
+https://livefocamundo.com:8081/ascametv/tracks-v1a1/mono.m3u8
