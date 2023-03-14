@@ -2,7 +2,7 @@
 #EXTINF:0 type="stream" channelId="2467", TV Cultura
 http://168.205.87.198:8555/live/1438/123456/32.ts
 #EXTINF:0 type="stream" channelId="2467", TV Cultura
-http://boxtv.uniredes.com.br:80/123456789/123456789/79
+https://list.iptvcat.com/my_list/s/86eed627e993f6ea36787fa27f168685.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -106,9 +106,9 @@ http://boxtv.uniredes.com.br:80/123456789/123456789/213
 #EXTINF:0 type="stream" channelId="-1", CLC FILMES CLÁSSICOS
 http://168.205.87.198:8555/live/1438/123456/198.ts
 #EXTINF:0 type="stream" channelId="5107", TV Imperial
-https://alanza.iptv2022.com/IMPERIAL_TV/tracks-v1a1/mono.m3u8
+https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w559918696.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Jornal do Nordeste
-https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1312522424.m3u8
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w307601825.m3u8
 #EXTINF:0 type="stream" channelId="-1", AWTV
 https://alanza.iptv2022.com/AWTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 29
@@ -293,3 +293,6 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.
 https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w8261459.m3u8
 #EXTINF:0 type="stream" channelId="-1", ASCAME TV
 https://livefocamundo.com:8081/ascametv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Rede Livre TV
+https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1100067141.m3u8
