@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="2467", TV Cultura
-http://168.205.87.198:8555/live/1438/123456/32.ts
-#EXTINF:0 type="stream" channelId="2467", TV Cultura
-https://list.iptvcat.com/my_list/s/86eed627e993f6ea36787fa27f168685.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
@@ -61,10 +56,6 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
-#EXTINF:0 type="stream" channelId="-1", Band News
-http://boxtv.uniredes.com.br:80/123456789/123456789/53
-#EXTINF:0 type="stream" channelId="-1", GLOBO NEWS FHD
-http://axr.life:80/eltonamigo/XmFaQMh6qYMb/45264
 
 #EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
@@ -240,9 +231,6 @@ https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", Travel Box Brazil FHD
-http://186.237.99.202:8000/play/TravelBox/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w576732257_b2596000_sleng.m3u8
