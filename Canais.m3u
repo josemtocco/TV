@@ -121,13 +121,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f
 #EXTINF:0 type="stream" channelId="-1", Nova Manchete
 https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist_w1354425719.m3u8
 #EXTINF:0 type="stream" channelId="-1", Carioca Net
-https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w1536715481.m3u8
+https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/chunklist_w522912978.m3u8
 #EXTINF:0 type="stream" channelId="-1", WEB TV Clássicos do Cinema
 https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sonata
 https://stmv1.srvstm.com/tiago4617/tiago4617/chunklist_w1454621499.m3u8
 #EXTINF:0 type="stream" channelId="-1", ISTV
-https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", WEB TVCINE
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1943440238.m3u8
 #EXTINF:0 type="stream" channelId="-1", MAX90 TV
@@ -284,3 +284,13 @@ https://livefocamundo.com:8081/ascametv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Rede Livre TV
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1100067141.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", KID Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV CEI
+https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
+#EXTINF:0 type="stream" channelId="-1", Central TV
+https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w772275062.m3u8
+#EXTINF:0 type="stream" channelId="-1", Capos Web TV
+https://stm1.rbsystv.com/joseroberto9307/joseroberto9307/chunklist_w546678306.m3u8
+
