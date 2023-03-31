@@ -281,10 +281,8 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.
 https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w8261459.m3u8
 #EXTINF:0 type="stream" channelId="-1", ASCAME TV
 https://livefocamundo.com:8081/ascametv/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", Rede Livre TV
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1100067141.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", KID Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV CEI
@@ -293,4 +291,6 @@ https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w772275062.m3u8
 #EXTINF:0 type="stream" channelId="-1", Campos Web TV
 https://stm1.rbsystv.com/joseroberto9307/joseroberto9307/chunklist_w546678306.m3u8
+#EXTINF:0 type="stream" channelId="-1", Pantera Cor de Rosa
+https://stmv1.painelvideo.top/pinktv/pinktv/chunklist_w2127979962.m3u8
 
