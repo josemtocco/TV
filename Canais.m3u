@@ -7,19 +7,15 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
 #EXTINF:0 type="stream" channelId="2628", TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
-https://livefocamundo.com:8081/redesul/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Sul TV
-https://livefocamundo.com:8081/redesul/tracks-v1a1/mono.m3u8
+https://video05.logicahost.com.br/tvurbana/tvurbana/chunklist_w1638664372.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2613", TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w341711511.m3u8
-#EXTINF:0 type="stream" channelId="-1", RDC
-https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Bah! TV
-https://streaming03.zas.media:1936/bahtv/bahtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", RDC TV
+https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/chunklist_w1386424674.m3u8
 #EXTINF:0 type="stream" channelId="-1", Conecta web TV
 http://189.14.239.62:1935/webtv/livestream1/chunklist_w633831762.m3u8
 #EXTINF:0 type="stream" channelId="-1", Adesso TV
@@ -32,8 +28,6 @@ https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
 http://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova TV Agrotour
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Lagoa TV
-https://alanza.iptv2022.com/LAGOA_TV/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Lagoa TV
 https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w542222955.m3u8
 
@@ -81,7 +75,7 @@ http://cdn.connectbr.com.br/Entretendo/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fronteira Movies
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", CinePIX
-https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
+https://stmv1.painelvideo.top/channel1/channel1/chunklist_w1628751425.m3u8
 #EXTINF:0 type="stream" channelId="-1", CLC CINE LIFE CLASSIC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:0 type="stream" channelId="-1", TV Tremembe
@@ -101,9 +95,9 @@ https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w5599
 #EXTINF:0 type="stream" channelId="-1", TV Jornal do Nordeste
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w307601825.m3u8
 #EXTINF:0 type="stream" channelId="-1", AWTV
-https://alanza.iptv2022.com/AWTV/tracks-v1a1/mono.m3u8
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 29
-https://alanza.iptv2022.com/CANAL_29/tracks-v1a1/mono.m3u8
+https://stmv1.srvif.com/canal29/canal29/chunklist_w600857113.m3u8
 #EXTINF:0 type="stream" channelId="-1", X Plus TV
 https://alanza.iptv2022.com/X_PLUS_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Gallo HD
