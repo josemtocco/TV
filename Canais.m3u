@@ -143,6 +143,8 @@ http://168.205.87.198:8555/live/1438/123456/101.ts
 http://168.205.87.198:8555/live/1438/123456/134.ts
 #EXTINF:0 type="stream" channelId="-1", CaTVE
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Cultura do Pará
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Futuro
 https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w300430421.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV UFSC
