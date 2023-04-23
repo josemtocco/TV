@@ -56,12 +56,19 @@ https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2645", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
+#EXTINF:0 type="stream" channelId="-1", Run Time
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=66b9a14e2839b8c1dafbc777691e8c4b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 #EXTINF:0 type="stream" channelId="-1", Run Time Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=95926e843ec7970ed65dd54a0edbd88e&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%20America&timestamp=1651100850&id=4676&ip=2804%3A14c%3A6580%3A5d0e%3A11ee%3Ab353%3Acc54%3A1c61&override_expiration=1500&sign=tsqt7ApnwgucpA5uTxrXfAKYENmJSPB67bs2bLIl7%2Bs%3D7
 #EXTINF:0 type="stream" channelId="-1", Run Time Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
-#EXTINF:0 type="stream" channelId="-1", Run Time
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=66b9a14e2839b8c1dafbc777691e8c4b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
+#EXTINF:0 type="stream" channelId="-1", Run Time Crime
+https://stream.ads.ottera.tv/cl/230406cgnc8l574iogverdo6kg/1280x720_3071200_0_f.m3u8?i=475_4864
+3&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
+#EXTINF:0 type="stream" channelId="-1", RUN TIME CINE ESPANTO
+https://stream.ads.ottera.tv/cl/230406cgncjt4l7lmg6854s5gg/1280x720_3071200_0_f.m3u8?i=475_4865
+#EXTINF:0 type="stream" channelId="-1", RUN TIME ROMANCE
+https://stream.ads.ottera.tv/cl/230406cgnc9aie3s2g9j93rgpg/1280x720_3071200_0_f.m3u8?i=475_4866
 
 #EXTINF:0 type="stream" channelId="-1", CLUBINHO FAN
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8
@@ -134,6 +141,14 @@ https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w333847997.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Natal
 https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w765867555.m3u8
+#EXTINF:0 type="stream" channelId="-1", Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
+#EXTINF:0 type="stream" channelId="-1", ABC Brasil
+https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w8261459.m3u8
+#EXTINF:0 type="stream" channelId="-1", ASCAME TV
+https://livefocamundo.com:8081/ascametv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV CEI
+https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
 
 #EXTINF:0 type="stream" channelId="5102", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -204,6 +219,15 @@ https://alanza.iptv2022.com/FRONTEIRA_KIDS/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Jetson TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w904395745.m3u8
 
+#EXTINF:0 type="stream" channelId="-1",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", JETSONS TV
+https://stmv1.painelvideo.top/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", THE FLINTSTONES TV
+https://stmv4.voxtvhd.com.br/flintstones/flintstones/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",A PANTERA COR DE ROSA
+https://stmv1.painelvideo.top/pinktv/pinktv/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Comédia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", MULTISHOW FULLHD
@@ -271,22 +295,17 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
 #EXTINF:0 type="stream" channelId="-1", CSN
 https://acesso.ecast.site:3613/live/csnlive.m3u8
-#EXTINF:0 type="stream" channelId="-1", Petlovers TV
-https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
-#EXTINF:0 type="stream" channelId="-1", ABC Brasil
-https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w8261459.m3u8
-#EXTINF:0 type="stream" channelId="-1", ASCAME TV
-https://livefocamundo.com:8081/ascametv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Livre TV
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1100067141.m3u8
 #EXTINF:0 type="stream" channelId="-1", KID Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV CEI
-https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
 #EXTINF:0 type="stream" channelId="-1", Central TV
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w772275062.m3u8
 #EXTINF:0 type="stream" channelId="-1", Campos Web TV
 https://stm1.rbsystv.com/joseroberto9307/joseroberto9307/chunklist_w546678306.m3u8
-#EXTINF:0 type="stream" channelId="-1", Pantera Cor de Rosa
-https://stmv1.painelvideo.top/pinktv/pinktv/chunklist_w2127979962.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Novelando
+http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
+
+
 
