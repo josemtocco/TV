@@ -81,66 +81,38 @@ http://cdn.connectbr.com.br/Entretendo/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Fronteira Movies
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
-#EXTINF:0 type="stream" channelId="-1", CinePIX
-https://stmv1.painelvideo.top/channel1/channel1/chunklist_w1628751425.m3u8
 #EXTINF:0 type="stream" channelId="-1", CLC CINE LIFE CLASSIC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:0 type="stream" channelId="-1", TV Tremembe
-https://livefocamundo.com:8081/tvtremembe/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede QDM
-https://video01.logicahost.com.br/tvkidmais/tvkidmais/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:0 type="stream" channelId="5100", TV Clube
 https://5c483b9d1019c.streamlock.net:443/8186/8186/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", GLN TV
-http://boxtv.uniredes.com.br:80/123456789/123456789/213
-#EXTINF:0 type="stream" channelId="-1", CLC FILMES CLÁSSICOS
-http://168.205.87.198:8555/live/1438/123456/198.ts
-#EXTINF:0 type="stream" channelId="5107", TV Imperial
-https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w559918696.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Jornal do Nordeste
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w307601825.m3u8
 #EXTINF:0 type="stream" channelId="-1", AWTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w600857113.m3u8
-#EXTINF:0 type="stream" channelId="-1", X Plus TV
-https://alanza.iptv2022.com/X_PLUS_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Gallo HD
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", Channel 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w192471995.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede TV Sul
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
-#EXTINF:0 type="stream" channelId="-1", LASSTV
-https://streaming03.zas.media:1936/lasstv/lasstv/chunklist_w574669255.m3u8
 #EXTINF:0 type="stream" channelId="-1", CineLivre
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1", CineLivre 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1", Nova Manchete
-https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist_w1354425719.m3u8
 #EXTINF:0 type="stream" channelId="-1", Carioca Net
 https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/chunklist_w522912978.m3u8
-#EXTINF:0 type="stream" channelId="-1", WEB TV Clássicos do Cinema
-https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sonata
 https://stmv1.srvstm.com/tiago4617/tiago4617/chunklist_w1454621499.m3u8
 #EXTINF:0 type="stream" channelId="-1", ISTV
 https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", WEB TVCINE
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1943440238.m3u8
-#EXTINF:0 type="stream" channelId="-1", MAX90 TV
-https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal 107 Passos
-https://stmv5.samcast.com.br/deivid2889/deivid2889/chunklist_w1052023396.m3u8
-#EXTINF:0 type="stream" channelId="-1", Tv Xtreme
-https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Top Mix Filmes
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w333847997.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Natal
-https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w765867555.m3u8
 #EXTINF:0 type="stream" channelId="-1", Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
 #EXTINF:0 type="stream" channelId="-1", ABC Brasil
@@ -216,17 +188,11 @@ http://168.205.87.198:8555/live/1438/123456/84.ts
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fronteira Kids
 https://alanza.iptv2022.com/FRONTEIRA_KIDS/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Jetson TV
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w904395745.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", JETSONS TV
-https://stmv1.painelvideo.top/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", THE FLINTSTONES TV
 https://stmv4.voxtvhd.com.br/flintstones/flintstones/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1",A PANTERA COR DE ROSA
-https://stmv1.painelvideo.top/pinktv/pinktv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Comédia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
@@ -279,12 +245,8 @@ http://cdn.connectbr.com.br:80/Life/tracks-v1a1/mono.m3u8
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Flórida
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV CNB
-https://livefocamundo.com:8081/tvcnb/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bem Melhor
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Araruna TV
-https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova TV Regional
 http://187.95.95.241:7988/regional/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede UTV Brasil
@@ -293,20 +255,13 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", OX TV
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
-#EXTINF:0 type="stream" channelId="-1", CSN
-https://acesso.ecast.site:3613/live/csnlive.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Livre TV
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1100067141.m3u8
 #EXTINF:0 type="stream" channelId="-1", KID Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
 #EXTINF:0 type="stream" channelId="-1", Central TV
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w772275062.m3u8
-#EXTINF:0 type="stream" channelId="-1", Campos Web TV
-https://stm1.rbsystv.com/joseroberto9307/joseroberto9307/chunklist_w546678306.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", Novelando
-http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", ULB YV
+#EXTINF:0 type="stream" channelId="-1", ULB TV
 https://video01.kshost.com.br/alan4876/alan4876/chunklist_w1683136967.m3u8
 
 
