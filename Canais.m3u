@@ -137,16 +137,8 @@ https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w300430421.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV UFSC
 https://tvaovivo.sites.ufsc.br/hls/1_hi.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", REDE FAMILIA HD
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
-#EXTINF:0 type="stream" channelId="-1", BR Super TV
-https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Gazeta
 https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w767522095.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Gazeta
-http://boxtv.uniredes.com.br:80/123456789/123456789/161
-#EXTINF:0 type="stream" channelId="-1", Rede Vida
-http://boxtv.uniredes.com.br:80/123456789/123456789/109
 #EXTINF:0 type="stream" channelId="-1", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TBO
