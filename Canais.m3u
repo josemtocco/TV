@@ -97,6 +97,8 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w600857113.m3u8
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", Channel 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w192471995.m3u8
+#EXTINF:0 type="stream" channelId="-1", CINEPIX
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1851422607.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede TV Sul
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
 #EXTINF:0 type="stream" channelId="-1", CineLivre
