@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Cultura
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35967
+
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
@@ -264,8 +267,13 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16713
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16745
 #EXTINF:0 type="stream" channelId="-1", Cartoon Network HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36055
+#EXTINF:0 type="stream" channelId="-1", Cartoonito HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16699
 #EXTINF:0 type="stream" channelId="-1", TRAVEL BOX BRAZIL
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36031
-
+#EXTINF:0 type="stream" channelId="-1", Modo Viagem
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16737
+#EXTINF:0 type="stream" channelId="-1", ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16693
 
 
