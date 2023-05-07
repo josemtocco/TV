@@ -260,6 +260,8 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w772275062.m3u8
 #EXTINF:0 type="stream" channelId="-1", ULB TV
 https://video01.kshost.com.br/alan4876/alan4876/chunklist_w1683136967.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV RBC
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Disney Channel HD+
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16713
@@ -275,5 +277,6 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36031
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16737
 #EXTINF:0 type="stream" channelId="-1", ANIMAL PLANET HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16693
+
 
 
