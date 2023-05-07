@@ -257,8 +257,16 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w772275062.m3u8
 #EXTINF:0 type="stream" channelId="-1", ULB TV
 https://video01.kshost.com.br/alan4876/alan4876/chunklist_w1683136967.m3u8
-#EXTINF:0 type="stream" channelId="-1", Wording TV
-https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1422041880.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Disney Channel HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16713
+#EXTINF:0 type="stream" channelId="-1", Nickelodeon HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16745
+#EXTINF:0 type="stream" channelId="-1", Cartoon Network HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36055
+#EXTINF:0 type="stream" channelId="-1", TRAVEL BOX BRAZIL
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31130
+
 
 
 
