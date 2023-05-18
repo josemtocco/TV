@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", TV Cultura
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35967
+#EXTINF:0 type="stream" channelId="-1", TV Cultura FHD
+http://bgp054.online:80/play/cevuhoshhQRjTOuHbvoe2ogZ98-krk0WtCLQhLOtwKun8eI_SjrJVSWqf4LE_wZ3
+#EXTINF:0 type="stream" channelId="-1", TV Cultura HD
+http://bgp054.online:80/play/cevuhoshhQRjTOuHbvoe2ogZ98-krk0WtCLQhLOtwKuqg_ZMyzpqN1NKkta-XfzD
 
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
