@@ -10,6 +10,8 @@ http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/48981.ts
 http://bgp054.online:80/play/cevuhoshhQRjTOuHbvoe2ogZ98-krk0WtCLQhLOtwKuqg_ZMyzpqN1NKkta-XfzD
 #EXTINF:0 type="stream" channelId="-1", Travel Box Brazil FHD
 http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/62828.ts
+#EXTINF:0 type="stream" channelId="-1", Band RS
+http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/119047.ts
 
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
