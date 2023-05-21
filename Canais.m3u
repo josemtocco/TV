@@ -3,11 +3,10 @@
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35967
 
 #EXTINF:0 type="stream" channelId="-1", TV Cultura FHD
+
 http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/49587.ts
 #EXTINF:0 type="stream" channelId="-1", TV Cultura HD
-http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/48981.ts
-#EXTINF:0 type="stream" channelId="-1", TV Cultura HD
-http://bgp054.online:80/play/cevuhoshhQRjTOuHbvoe2ogZ98-krk0WtCLQhLOtwKuqg_ZMyzpqN1NKkta-XfzD
+
 #EXTINF:0 type="stream" channelId="-1", Travel Box Brazil FHD
 http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/62828.ts
 #EXTINF:0 type="stream" channelId="-1", Band RS
