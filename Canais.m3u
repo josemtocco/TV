@@ -8,6 +8,12 @@ http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/49587.ts
 http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/62828.ts
 #EXTINF:0 type="stream" channelId="-1", Band RS
 http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/119047.ts
+#EXTINF:0 type="stream" channelId="-1", Cartoon Network FHD
+http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/3860.ts
+#EXTINF:0 type="stream" channelId="-1", Cartoonito FHD
+http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/3862.ts
+#EXTINF:0 type="stream" channelId="-1",Nickelodeon FHD [H265]
+http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/71082.ts
 
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
