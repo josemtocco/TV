@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", TV Cultura
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35967
-
-#EXTINF:0 type="stream" channelId="-1", TV Cultura FHD
-http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/49587.ts
-#EXTINF:0 type="stream" channelId="-1", Travel Box Brazil FHD
-http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/62828.ts
-#EXTINF:0 type="stream" channelId="-1", Band RS
-http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/119047.ts
-#EXTINF:0 type="stream" channelId="-1", Cartoon Network FHD
-http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/3860.ts
-#EXTINF:0 type="stream" channelId="-1", Cartoonito FHD
-http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/3862.ts
-#EXTINF:0 type="stream" channelId="-1",Nickelodeon FHD [H265]
-http://162.251.62.55:80/live/8pbu56wr/9b1mqgu3/71082.ts
-
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
@@ -79,7 +63,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat
 #EXTINF:0 type="stream" channelId="-1", Run Time Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 #EXTINF:0 type="stream" channelId="-1", Run Time Crime
-https://stream.ads.ottera.tv/cl/230406cgnc8l574iogverdo6kg/1280x720_3071200_0_f.m3u8?i=475_4864
+https://stream.ads.ottera.tv/cl/230528chpljde752gjbgu9h9og/1280x720_3071200_0_f.m3u8?i=475_4864
 3&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 #EXTINF:0 type="stream" channelId="-1", RUN TIME CINE ESPANTO
 https://stream.ads.ottera.tv/cl/230406cgncjt4l7lmg6854s5gg/1280x720_3071200_0_f.m3u8?i=475_4865
