@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", TV CULTURA
-http://meuplay.shop:80/476294928340pw/872387287348pw/568
-
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
@@ -62,16 +59,15 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:0 type="stream" channelId="-1", Run Time
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=66b9a14e2839b8c1dafbc777691e8c4b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 #EXTINF:0 type="stream" channelId="-1", Run Time Ação
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=95926e843ec7970ed65dd54a0edbd88e&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%20America&timestamp=1651100850&id=4676&ip=2804%3A14c%3A6580%3A5d0e%3A11ee%3Ab353%3Acc54%3A1c61&override_expiration=1500&sign=tsqt7ApnwgucpA5uTxrXfAKYENmJSPB67bs2bLIl7%2Bs%3D7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:0 type="stream" channelId="-1", Run Time Comédia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:0 type="stream" channelId="-1", Run Time Crime
-https://stream.ads.ottera.tv/cl/230604chu9h2a753pq2lrh73og/1280x720_3071200_0_f.m3u8?i=475_2153
-3&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
-#EXTINF:0 type="stream" channelId="-1", RUN TIME CINE ESPANTO
-https://stream.ads.ottera.tv/cl/230406cgncjt4l7lmg6854s5gg/1280x720_3071200_0_f.m3u8?i=475_4865
-#EXTINF:0 type="stream" channelId="-1", RUN TIME ROMANCE
-https://stream.ads.ottera.tv/cl/230604chu9h2a753pq2lrh73og/1280x720_3071200_0_f.m3u8?i=475_2153
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:0 type="stream" channelId="-1", Run Time Cine Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:0 type="stream" channelId="-1", Run Time Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 
 #EXTINF:0 type="stream" channelId="-1", CLUBINHO FAN
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8
@@ -262,6 +258,10 @@ https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w772275062.m3u8
 https://video01.kshost.com.br/alan4876/alan4876/chunklist_w1683136967.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV RBC
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", NGT
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Vila TV
+https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Disney Channel HD+
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16713
