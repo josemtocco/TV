@@ -4,6 +4,12 @@ http://dns.acaidopara.net:8080/Gesronweb/Gerson@conde/1909
 
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBT
+https://server101.online/sbt/tracks-v1a1/mono.m3u8?remote=189.14.227.196&token=0cd9f507d2d02e25cdf29f04621fd0a0d60cfb69-5524c05c11d11e27f296161381852be0-1687274399-1687270799
+#EXTINF:0 type="stream" channelId="-1", Band
+https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-cHP7gl91nmljSiESjtJsNekxairx46vnnZeLGxwvdL1)/cloud/3/x82cxbb/s/live-4.m3u8#cell=lnyc
+#EXTINF:0 type="stream" channelId="-1", Band
+https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-R7hol03iUDdkiPlNnqKpO2qN5RGkwCVXodHshz_LuqV)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
@@ -283,11 +289,10 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16737
 #EXTINF:0 type="stream" channelId="-1", ANIMAL PLANET HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16693
 
-#EXTINF:0 type="stream" channelId="-1", TRAVEL BOX BRAZIL
-http://axr.life:80/02c073f8/8f370c20/1263418
 
-#EXTINF:0 type="stream" channelId="-1", For Man
-http://axr.life:80/02c073f8/8f370c20/1532045
+#EXTINF:0 type="stream" channelId="-1", 
+
+#EXTINF:0 type="stream" channelId="-1", 
 
 #EXTINF:0 type="stream" channelId="-1",  FAP G HD
 http://piglo.re:80/Nuvens48/N050546sk/53857
