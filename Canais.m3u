@@ -285,11 +285,11 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16737
 #EXTINF:0 type="stream" channelId="-1", ANIMAL PLANET HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16693
 
-
 #EXTINF:0 type="stream" channelId="-1", 
 
 #EXTINF:0 type="stream" channelId="-1", 
 
 #EXTINF:0 type="stream" channelId="-1",  FAP G HD
 http://piglo.re:80/Nuvens48/N050546sk/53857
-
+#EXTINF:0 type="stream" channelId="-1",  FAP G HD
+http://piglo.re:80/live/Nuvens48/N050546sk/53857.ts
