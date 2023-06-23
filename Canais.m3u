@@ -4,8 +4,10 @@ http://piglo.re:80/live/Nuvens47/N050546sk/54726.ts
 
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", SBT Rede Massa
+#EXTINF:0 type="stream" channelId="-1", Rede Massa
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w579744590.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
@@ -127,6 +129,8 @@ https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w8261459.m3u8
 https://livefocamundo.com:8081/ascametv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV CEI
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fandon TV
+http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="5102", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -142,6 +146,8 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w300430421.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV UFSC
 https://tvaovivo.sites.ufsc.br/hls/1_hi.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVE MS
+http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV Gazeta
 https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w767522095.m3u8
@@ -178,8 +184,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Kids
 http://168.205.87.198:8555/live/1438/123456/143.ts
-#EXTINF:0 type="stream" channelId="-1", DC Kids Brasil
-http://boxtv.uniredes.com.br:80/123456789/123456789/112
 #EXTINF:0 type="stream" channelId="2614", TV Rá-Tim-Bum
 http://168.205.87.198:8555/live/1438/123456/84.ts
 #EXTINF:0 type="stream" channelId="-1", Retro Cartoon
@@ -215,6 +219,10 @@ https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Viva e Eduque
+https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w576732257_b2596000_sleng.m3u8
@@ -269,6 +277,8 @@ https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u8
 #EXTINF:0 type="stream" channelId="-1", TeleWeb TV
 https://video01.kshost.com.br/acessweb7837/acessweb7837/chunklist_w1766179938.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Chroma
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Disney Channel HD+
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16713
