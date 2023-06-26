@@ -129,7 +129,7 @@ https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w8261459.m3u8
 https://livefocamundo.com:8081/ascametv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV CEI
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
-#EXTINF:0 type="stream" channelId="-1", Fandon TV
+#EXTINF:0 type="stream" channelId="-1", Fandom TV
 http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="5102", TVE Bahia
