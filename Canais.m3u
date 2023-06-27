@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", TV Cultura
 http://piglo.re:80/live/Nuvens47/N050546sk/54726.ts
+#EXTINF:0 type="stream" channelId="-1", TV Cultura
+http://cdn7.live:80/fabinhobar2046/98143401xc/883.ts
 
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -8,6 +10,10 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w579744590.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBT RS
+http://cdn7.live:80/fabinhobar2046/98143401xc/85890.ts
+#EXTINF:0 type="stream" channelId="-1", Record RS
+http://cdn7.live:80/fabinhobar2046/98143401xc/779588.ts
 
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
