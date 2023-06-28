@@ -16,6 +16,8 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 http://cdn7.live:80/fabinhobar2046/98143401xc/85890.ts
 #EXTINF:0 type="stream" channelId="-1", Record RS
 http://cdn7.live:80/fabinhobar2046/98143401xc/779588.ts
+#EXTINF:0 type="stream" channelId="-1", Band RS
+http://cdn7.live:80/fabinhobar2046/98143401xc/796768.ts
 
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
