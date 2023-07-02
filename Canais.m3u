@@ -62,6 +62,8 @@ https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 #EXTINF:0 type="stream" channelId="-1", Toon Goggle HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+#EXTINF:0 type="stream" channelId="-1", Toon Goggle HD
+https://stream.ads.ottera.tv/cl/230702cignl21ra6jcm66ffoo0/1280x720_3071200_0_f.m3u8?i=475_2153
 
 #EXTINF:0 type="stream" channelId="-1", TV JPNews
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
@@ -71,6 +73,8 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record News
+https://stream.ads.ottera.tv/cl/230702cignlatt4sqh5e63ac2g/1280x720_3071200_0_f.m3u8?i=475_5431
 
 #EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
@@ -304,6 +308,10 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1", Xtreme TV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1052696223.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tela Viva TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944972315.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cine Tv Hits
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Disney Channel HD+
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16713
