@@ -61,13 +61,8 @@ https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", TOON GOGGLE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 #EXTINF:0 type="stream" channelId="-1", Toon Goggle HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
-#EXTINF:0 type="stream" channelId="-1", Toon Goggle HD
-https://stream.ads.ottera.tv/cl/230702cignl21ra6jcm66ffoo0/1280x720_3071200_0_f.m3u8?i=475_2153
-#EXTINF:0 type="stream" channelId="-1", Run time Toon Goggle
-https://stream.ads.ottera.tv/cl/230704cii4eha753pinetf635g/1280x720_3071200_0_f.m3u8?i=475_5431
 
-#EXTINF:0 type="stream" channelId="-1", Jovem Pan News
+#EXTINF:0 type="stream" channelId="-1", Jovem Pan
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
@@ -75,12 +70,6 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
-#EXTINF:0 type="stream" channelId="-1", Record News
-https://stream.ads.ottera.tv/cl/230702cignlatt4sqh5e63ac2g/1280x720_3071200_0_f.m3u8?i=475_5431
-#EXTINF:0 type="stream" channelId="-1", Record News
-https://stream.ads.ottera.tv/cl/230704cii4eha753pinetf635g/1280x720_3071200_0_f.m3u8?i=475_5431
-#EXTINF:0 type="stream" channelId="-1", Record News
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6102e04e9ab1db0007a980a1livestitch/2977158/playlist.m3u8?terminate=false&sid=358d2506-1a85-11ee-bd44-8ebc44a73d42&deviceDNT=0&deviceLat=-28.2161&deviceLon=-51.4723&deviceModel=web&deviceVersion=114.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=f5162053-0be0-4cfe-a433-382eaf78c3fc&appVersion=7.3.1-5169172dda8a908f6aa06a3049ac3e22577963a5&deviceType=web&deviceMake=firefox&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI4ZGY1ODY4LTQyOWItNGI1NC04MTI0LTYxYTZhMzRjMGRiOCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzNThkMjUwNi0xYTg1LTExZWUtYmQ0NC04ZWJjNDRhNzNkNDIiLCJjbGllbnRJUCI6IjE4OS4xNC4yMjcuMTk2IiwiY2l0eSI6IkxhZ29hIFZlcm1lbGhhIiwicG9zdGFsQ29kZSI6Ijk1MzAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTI4LjIxNjEsImRldmljZUxvbiI6LTUxLjQ3MjMsInByZWZlcnJlZExhbmd1YWdlIjoicHQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjExNC4wLjAiLCJkZXZpY2VNYWtlIjoiZmlyZWZveCIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI3LjMuMS01MTY5MTcyZGRhOGE5MDhmNmFhMDZhMzA0OWFjM2UyMjU3Nzk2M2E1IiwiY2xpZW50SUQiOiJmNTE2MjA1My0wYmUwLTRjZmUtYTQzMy0zODJlYWY3OGMzZmMiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9TYW9fUGF1bG8iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImlzU3RpdGNoZXJFa3MiOnRydWUsIm11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOlpqVXhOakl3TlRNdE1HSmxNQzAwWTJabExXRTBNek10TXpneVpXRm1OemhqTTJaaiIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2ODg1NzMzOTIsImlhdCI6MTY4ODQ4Njk5MiwianRpIjoiNzJjYzBhZjItYjFkOC00MzRlLWEwNzQtM2M1ZDYzODBhMWQ0In0.gjxPigrlTgESAJesIS4dwaZRW3Z16UOdQlBMVNSgjew
 
 #EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
@@ -174,7 +163,7 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.
 #EXTINF:0 type="stream" channelId="-1", TV Cultura do Pará
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Futuro
-https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w300430421.m3u8
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist_w482134537.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV UFSC
 https://tvaovivo.sites.ufsc.br/hls/1_hi.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVE MS
@@ -254,11 +243,6 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Viva e Eduque
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", Canal Rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w576732257_b2596000_sleng.m3u8
-#EXTINF:0 type="stream" channelId="-1", Notícias Agrícolas
-https://video01.soultv.com.br/noticiasagricolas/noticiasagricolas/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
