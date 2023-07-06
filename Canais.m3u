@@ -6,6 +6,10 @@ http://cdn7.live:80/fabinhobar2046/98143401xc/883.ts
 #EXTINF:0 type="stream" channelId="-1", TV Cultura
 http://168.205.87.198:8555/live/1431/123456/230.ts
 
+#EXTINF:0 type="stream" channelId="-1", RBS TV Porto Alegre
+http://pfsv.io:80/Silviopaz/pandora/365.m3u8
+#EXTINF:0 type="stream" channelId="-1", RBS TV Passo Fundo
+http://pfsv.io:80/Silviopaz/pandora/132950.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Massa
@@ -14,10 +18,16 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w57974459
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT RS
 http://cdn7.live:80/fabinhobar2046/98143401xc/85890.ts
+#EXTINF:0 type="stream" channelId="-1", SBT RS
+http://pfsv.io:80/Silviopaz/pandora/49111.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record RS
 http://cdn7.live:80/fabinhobar2046/98143401xc/779588.ts
+#EXTINF:0 type="stream" channelId="-1", Record RS
+http://pfsv.io:80/Silviopaz/pandora/59.m3u8
 #EXTINF:0 type="stream" channelId="-1", Band RS
 http://cdn7.live:80/fabinhobar2046/98143401xc/796768.ts
+#EXTINF:0 type="stream" channelId="-1", Band RS
+http://pfsv.io:80/Silviopaz/pandora/123576.m3u8
 
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
@@ -70,6 +80,12 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record News
+http://pfsv.io:80/Silviopaz/pandora/511.m3u8
+#EXTINF:0 type="stream" channelId="-1", Band News
+http://pfsv.io:80/Silviopaz/pandora/510.m3u8
+#EXTINF:0 type="stream" channelId="-1", Globo News
+http://pfsv.io:80/Silviopaz/pandora/512.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
