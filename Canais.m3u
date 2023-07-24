@@ -106,8 +106,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:0 type="stream" channelId="-1", Run Time Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-EXTINF:0 type="stream" channelId="-1", Run Time Familia
-https://stream.ads.ottera.tv/cl/230720cism1shem6d1jke01k4g/1280x720_3071200_0_f.m3u8?i=475_2153
 
 #EXTINF:0 type="stream" channelId="-1", CLUBINHO FAN
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8
