@@ -106,6 +106,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:0 type="stream" channelId="-1", Run Time Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+#EXTINF:0 type="stream" channelId="-1",  MOVIE SPHERE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", CLUBINHO FAN
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8
@@ -169,6 +171,8 @@ https://livefocamundo.com:8081/ascametv/tracks-v1a1/mono.m3u8
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fandom TV
 http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESFLIX TV
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
 
 #EXTINF:0 type="stream" channelId="5102", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
