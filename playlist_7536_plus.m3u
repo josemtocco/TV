@@ -1,0 +1,622 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E" tvg-logo="https://icons.tvlan.io/icones/ae.png" group-title="Canais | Filmes e Séries",A&E
+https://a5telecom.tvpn.eu:443/7536/7536/128
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://icons.tvlan.io/icones/amc.png" group-title="Canais | Filmes e Séries",AMC
+https://a5telecom.tvpn.eu:443/7536/7536/129
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://icons.tvlan.io/icones/axn.png" group-title="Canais | Filmes e Séries",AXN
+https://a5telecom.tvpn.eu:443/7536/7536/130
+#EXTINF:-1 tvg-id="CNLBRSH" tvg-name="Canal Brasil" tvg-logo="https://icons.tvlan.io/icones/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil
+https://a5telecom.tvpn.eu:443/7536/7536/261
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony" tvg-logo="https://icons.tvlan.io/icones/sonychannel.png" group-title="Canais | Filmes e Séries",Canal Sony
+https://a5telecom.tvpn.eu:443/7536/7536/131
+#EXTINF:-1 tvg-id="cinetv.br" tvg-name="Cine Brasil TV (TV Cultura)" tvg-logo="https://icons.tvlan.io/icones/cinebrasiltv.png" group-title="Canais | Filmes e Séries",Cine Brasil TV (TV Cultura)
+https://a5telecom.tvpn.eu:443/7536/7536/387
+#EXTINF:-1 tvg-id="CANALHD" tvg-name="CineCanal" tvg-logo="https://icons.tvlan.io/icones/cinecanal.png" group-title="Canais | Filmes e Séries",CineCanal
+https://a5telecom.tvpn.eu:443/7536/7536/169
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax" tvg-logo="https://icons.tvlan.io/icones/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax
+https://a5telecom.tvpn.eu:443/7536/7536/132
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://icons.tvlan.io/icones/fx.png" group-title="Canais | Filmes e Séries",FX
+https://a5telecom.tvpn.eu:443/7536/7536/134
+#EXTINF:-1 tvg-id="" tvg-name="Like" tvg-logo="https://icons.tvlan.io/icones/like.png" group-title="Canais | Filmes e Séries",Like
+https://a5telecom.tvpn.eu:443/7536/7536/176
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MegaPix" tvg-logo="https://icons.tvlan.io/icones/megapix.png" group-title="Canais | Filmes e Séries",MegaPix
+https://a5telecom.tvpn.eu:443/7536/7536/144
+#EXTINF:-1 tvg-id="paramountchannel.br" tvg-name="Paramount" tvg-logo="https://icons.tvlan.io/icones/paramount.png" group-title="Canais | Filmes e Séries",Paramount
+https://a5telecom.tvpn.eu:443/7536/7536/145
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space" tvg-logo="https://icons.tvlan.io/icones/space.png" group-title="Canais | Filmes e Séries",Space
+https://a5telecom.tvpn.eu:443/7536/7536/146
+#EXTINF:-1 tvg-id="starchannel.br" tvg-name="Star Channel" tvg-logo="https://icons.tvlan.io/icones/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel
+https://a5telecom.tvpn.eu:443/7536/7536/228
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal" tvg-logo="https://icons.tvlan.io/icones/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal
+https://a5telecom.tvpn.eu:443/7536/7536/147
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SyFy" tvg-logo="https://icons.tvlan.io/icones/syfy.png" group-title="Canais | Filmes e Séries",SyFy
+https://a5telecom.tvpn.eu:443/7536/7536/148
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS" tvg-logo="https://icons.tvlan.io/icones/tbs.png" group-title="Canais | Filmes e Séries",TBS
+https://a5telecom.tvpn.eu:443/7536/7536/149
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://icons.tvlan.io/icones/tcm.png" group-title="Canais | Filmes e Séries",TCM
+https://a5telecom.tvpn.eu:443/7536/7536/177
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="https://icons.tvlan.io/icones/tnt.png" group-title="Canais | Filmes e Séries",TNT
+https://a5telecom.tvpn.eu:443/7536/7536/157
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series" tvg-logo="https://icons.tvlan.io/icones/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series
+https://a5telecom.tvpn.eu:443/7536/7536/158
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV" tvg-logo="https://icons.tvlan.io/icones/tvuniversal.png" group-title="Canais | Filmes e Séries",Universal TV
+https://a5telecom.tvpn.eu:443/7536/7536/159
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel" tvg-logo="https://icons.tvlan.io/icones/warnerchannel.png" group-title="Canais | Filmes e Séries",Warner Channel
+https://a5telecom.tvpn.eu:443/7536/7536/160
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (01)" tvg-logo="https://icons.tvlan.io/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (01)
+https://a5telecom.tvpn.eu:443/7536/7536/20
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (02)" tvg-logo="https://icons.tvlan.io/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (02)
+https://a5telecom.tvpn.eu:443/7536/7536/21
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (03)" tvg-logo="https://icons.tvlan.io/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (03)
+https://a5telecom.tvpn.eu:443/7536/7536/22
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (04)" tvg-logo="https://icons.tvlan.io/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (04)
+https://a5telecom.tvpn.eu:443/7536/7536/23
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (05)" tvg-logo="https://icons.tvlan.io/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (05)
+https://a5telecom.tvpn.eu:443/7536/7536/24
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (06)" tvg-logo="https://icons.tvlan.io/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (06)
+https://a5telecom.tvpn.eu:443/7536/7536/25
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (07)" tvg-logo="https://icons.tvlan.io/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (07)
+https://a5telecom.tvpn.eu:443/7536/7536/26
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (08)" tvg-logo="https://icons.tvlan.io/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (08)
+https://a5telecom.tvpn.eu:443/7536/7536/27
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (09)" tvg-logo="https://icons.tvlan.io/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (09)
+https://a5telecom.tvpn.eu:443/7536/7536/28
+#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (10)" tvg-logo="https://icons.tvlan.io/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (10)
+https://a5telecom.tvpn.eu:443/7536/7536/29
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News" tvg-logo="https://icons.tvlan.io/icones/bandnews.png" group-title="Canais | Notícias",Band News
+https://a5telecom.tvpn.eu:443/7536/7536/265
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil" tvg-logo="https://icons.tvlan.io/icones/cnnbrasil.png" group-title="Canais | Notícias",CNN Brasil
+https://a5telecom.tvpn.eu:443/7536/7536/126
+#EXTINF:-1 tvg-id="cnnenespañol.br" tvg-name="CNN Espanhol" tvg-logo="https://icons.tvlan.io/icones/cnnespanhol.png" group-title="Canais | Notícias",CNN Espanhol
+https://a5telecom.tvpn.eu:443/7536/7536/232
+#EXTINF:-1 tvg-id="cnninternational.br" tvg-name="CNN Internacional" tvg-logo="https://icons.tvlan.io/icones/cnninternacional.png" group-title="Canais | Notícias",CNN Internacional
+https://a5telecom.tvpn.eu:443/7536/7536/163
+#EXTINF:-1 tvg-id="foxnewschannel.br" tvg-name="Fox News" tvg-logo="https://icons.tvlan.io/icones/foxnews.png" group-title="Canais | Notícias",Fox News
+https://a5telecom.tvpn.eu:443/7536/7536/164
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News" tvg-logo="https://icons.tvlan.io/icones/globonews.png" group-title="Canais | Notícias",Globo News
+https://a5telecom.tvpn.eu:443/7536/7536/229
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News" tvg-logo="https://icons.tvlan.io/icones/recordnews.png" group-title="Canais | Notícias",Record News
+https://a5telecom.tvpn.eu:443/7536/7536/258
+#EXTINF:-1 tvg-id="" tvg-name="TV Jovem Pan News" tvg-logo="https://icons.tvlan.io/icones/jovempannews.png" group-title="Canais | Notícias",TV Jovem Pan News
+https://a5telecom.tvpn.eu:443/7536/7536/233
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV" tvg-logo="https://icons.tvlan.io/icones/babytv.png" group-title="Canais | Infantil",Baby TV
+https://a5telecom.tvpn.eu:443/7536/7536/83
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang" tvg-logo="https://icons.tvlan.io/icones/boomerang.png" group-title="Canais | Infantil",Boomerang
+https://a5telecom.tvpn.eu:443/7536/7536/84
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network" tvg-logo="https://icons.tvlan.io/icones/cartoonnetwork.png" group-title="Canais | Infantil",Cartoon Network
+https://a5telecom.tvpn.eu:443/7536/7536/85
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids" tvg-logo="https://icons.tvlan.io/icones/discoverykids.png" group-title="Canais | Infantil",Discovery Kids
+https://a5telecom.tvpn.eu:443/7536/7536/86
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel" tvg-logo="https://icons.tvlan.io/icones/disneychannel.png" group-title="Canais | Infantil",Disney Channel
+https://a5telecom.tvpn.eu:443/7536/7536/87
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob" tvg-logo="https://icons.tvlan.io/icones/gloob.png" group-title="Canais | Infantil",Gloob
+https://a5telecom.tvpn.eu:443/7536/7536/88
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho" tvg-logo="https://icons.tvlan.io/icones/gloobinho.png" group-title="Canais | Infantil",Gloobinho
+https://a5telecom.tvpn.eu:443/7536/7536/89
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr" tvg-logo="https://icons.tvlan.io/icones/nickjr.png" group-title="Canais | Infantil",Nick Jr
+https://a5telecom.tvpn.eu:443/7536/7536/91
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon" tvg-logo="https://icons.tvlan.io/icones/nick.png" group-title="Canais | Infantil",Nickelodeon
+https://a5telecom.tvpn.eu:443/7536/7536/90
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast" tvg-logo="https://icons.tvlan.io/icones/tooncast.png" group-title="Canais | Infantil",Tooncast
+https://a5telecom.tvpn.eu:443/7536/7536/92
+#EXTINF:-1 tvg-id="tvrátimbum!.br" tvg-name="TV Ra Tim Bum" tvg-logo="https://icons.tvlan.io/icones/tvratimbum.png" group-title="Canais | Infantil",TV Ra Tim Bum
+https://a5telecom.tvpn.eu:443/7536/7536/93
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo Kids" tvg-logo="https://icons.tvlan.io/icones/zoomoo.png" group-title="Canais | Infantil",ZooMoo Kids
+https://a5telecom.tvpn.eu:443/7536/7536/94
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action" tvg-logo="https://icons.tvlan.io/icones/tcaction.png" group-title="Canais | Telecine",Telecine Action
+https://a5telecom.tvpn.eu:443/7536/7536/150
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult" tvg-logo="https://icons.tvlan.io/icones/tccult.png" group-title="Canais | Telecine",Telecine Cult
+https://a5telecom.tvpn.eu:443/7536/7536/151
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun" tvg-logo="https://icons.tvlan.io/icones/tcfun.png" group-title="Canais | Telecine",Telecine Fun
+https://a5telecom.tvpn.eu:443/7536/7536/152
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca" tvg-logo="https://icons.tvlan.io/icones/tcpipoca.png" group-title="Canais | Telecine",Telecine Pipoca
+https://a5telecom.tvpn.eu:443/7536/7536/153
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium" tvg-logo="https://icons.tvlan.io/icones/tcpremium.png" group-title="Canais | Telecine",Telecine Premium
+https://a5telecom.tvpn.eu:443/7536/7536/154
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch" tvg-logo="https://icons.tvlan.io/icones/tctouch.png" group-title="Canais | Telecine",Telecine Touch
+https://a5telecom.tvpn.eu:443/7536/7536/155
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="https://icons.tvlan.io/icones/hbo.png" group-title="Canais | HBO",HBO
+https://a5telecom.tvpn.eu:443/7536/7536/135
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO (02)" tvg-logo="https://icons.tvlan.io/icones/hbo2.png" group-title="Canais | HBO",HBO (02)
+https://a5telecom.tvpn.eu:443/7536/7536/136
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family" tvg-logo="https://icons.tvlan.io/icones/hbofamily.png" group-title="Canais | HBO",HBO Family
+https://a5telecom.tvpn.eu:443/7536/7536/137
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi" tvg-logo="https://icons.tvlan.io/icones/hbomundi.png" group-title="Canais | HBO",HBO Mundi
+https://a5telecom.tvpn.eu:443/7536/7536/138
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus" tvg-logo="https://icons.tvlan.io/icones/hboplus.png" group-title="Canais | HBO",HBO Plus
+https://a5telecom.tvpn.eu:443/7536/7536/139
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop" tvg-logo="https://icons.tvlan.io/icones/hbopop.png" group-title="Canais | HBO",HBO Pop
+https://a5telecom.tvpn.eu:443/7536/7536/140
+#EXTINF:-1 tvg-id="HBOSB" tvg-name="HBO Signature" tvg-logo="https://icons.tvlan.io/icones/hbosignature.png" group-title="Canais | HBO",HBO Signature
+https://a5telecom.tvpn.eu:443/7536/7536/141
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme" tvg-logo="https://icons.tvlan.io/icones/hboextreme.png" group-title="Canais | HBO",HBO Xtreme
+https://a5telecom.tvpn.eu:443/7536/7536/142
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-logo="https://icons.tvlan.io/icones/bandsports.png" group-title="Canais | Sports",Band Sports
+https://a5telecom.tvpn.eu:443/7536/7536/31
+#EXTINF:-1 tvg-id="COMBATP" tvg-name="Combate" tvg-logo="https://icons.tvlan.io/icones/combate.png" group-title="Canais | Sports",Combate
+https://a5telecom.tvpn.eu:443/7536/7536/32
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="https://icons.tvlan.io/icones/espn.png" group-title="Canais | Sports",ESPN
+https://a5telecom.tvpn.eu:443/7536/7536/35
+#EXTINF:-1 tvg-id="CBESPN2" tvg-name="ESPN (02)" tvg-logo="https://icons.tvlan.io/icones/espn2.png" group-title="Canais | Sports",ESPN (02)
+https://a5telecom.tvpn.eu:443/7536/7536/33
+#EXTINF:-1 tvg-id="CBESPN3" tvg-name="ESPN (03)" tvg-logo="https://icons.tvlan.io/icones/espn3.png" group-title="Canais | Sports",ESPN (03)
+https://a5telecom.tvpn.eu:443/7536/7536/34
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN (04)" tvg-logo="https://icons.tvlan.io/icones/espn4.png" group-title="Canais | Sports",ESPN (04)
+https://a5telecom.tvpn.eu:443/7536/7536/37
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra" tvg-logo="https://icons.tvlan.io/icones/espnextra.png" group-title="Canais | Sports",ESPN Extra
+https://a5telecom.tvpn.eu:443/7536/7536/36
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports (02)" tvg-logo="https://icons.tvlan.io/icones/foxsports2.png" group-title="Canais | Sports",Fox Sports (02)
+https://a5telecom.tvpn.eu:443/7536/7536/38
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SportTV" tvg-logo="https://icons.tvlan.io/icones/sportv.png" group-title="Canais | Sports",SportTV
+https://a5telecom.tvpn.eu:443/7536/7536/46
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SportTV (02)" tvg-logo="https://icons.tvlan.io/icones/sportv2.png" group-title="Canais | Sports",SportTV (02)
+https://a5telecom.tvpn.eu:443/7536/7536/47
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SportTV (03)" tvg-logo="https://icons.tvlan.io/icones/sportv3.png" group-title="Canais | Sports",SportTV (03)
+https://a5telecom.tvpn.eu:443/7536/7536/48
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes" tvg-logo="https://icons.tvlan.io/icones/premiereclubes.png" group-title="Canais | Premiere",Premiere Clubes
+https://a5telecom.tvpn.eu:443/7536/7536/39
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere (02)" tvg-logo="https://icons.tvlan.io/icones/premiere2.png" group-title="Canais | Premiere",Premiere (02)
+https://a5telecom.tvpn.eu:443/7536/7536/40
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere (03)" tvg-logo="https://icons.tvlan.io/icones/premiere3.png" group-title="Canais | Premiere",Premiere (03)
+https://a5telecom.tvpn.eu:443/7536/7536/41
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere (04)" tvg-logo="https://icons.tvlan.io/icones/premiere4.png" group-title="Canais | Premiere",Premiere (04)
+https://a5telecom.tvpn.eu:443/7536/7536/42
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere (05)" tvg-logo="https://icons.tvlan.io/icones/premiere5.png" group-title="Canais | Premiere",Premiere (05)
+https://a5telecom.tvpn.eu:443/7536/7536/43
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere (06)" tvg-logo="https://icons.tvlan.io/icones/premiere6.png" group-title="Canais | Premiere",Premiere (06)
+https://a5telecom.tvpn.eu:443/7536/7536/44
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere (07)" tvg-logo="https://icons.tvlan.io/icones/premiere7.png" group-title="Canais | Premiere",Premiere (07)
+https://a5telecom.tvpn.eu:443/7536/7536/45
+#EXTINF:-1 tvg-id="TNTSPOR" tvg-name="TNT Sports (01)" tvg-logo="https://icons.tvlan.io/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (01)
+https://a5telecom.tvpn.eu:443/7536/7536/57
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (02)" tvg-logo="https://icons.tvlan.io/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (02)
+https://a5telecom.tvpn.eu:443/7536/7536/58
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (03)" tvg-logo="https://icons.tvlan.io/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (03)
+https://a5telecom.tvpn.eu:443/7536/7536/59
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (04)" tvg-logo="https://icons.tvlan.io/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (04)
+https://a5telecom.tvpn.eu:443/7536/7536/60
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (05)" tvg-logo="https://icons.tvlan.io/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (05)
+https://a5telecom.tvpn.eu:443/7536/7536/171
+#EXTINF:-1 tvg-id="conmeboltv1.br" tvg-name="Conmebol (01)" tvg-logo="https://icons.tvlan.io/icones/conmebol.png" group-title="Canais | Pay-Per-View",Conmebol (01)
+https://a5telecom.tvpn.eu:443/7536/7536/49
+#EXTINF:-1 tvg-id="conmeboltv2.br" tvg-name="Conmebol (02)" tvg-logo="https://icons.tvlan.io/icones/conmebol.png" group-title="Canais | Pay-Per-View",Conmebol (02)
+https://a5telecom.tvpn.eu:443/7536/7536/50
+#EXTINF:-1 tvg-id="conmeboltv3.br" tvg-name="Conmebol (03)" tvg-logo="https://icons.tvlan.io/icones/conmebol.png" group-title="Canais | Pay-Per-View",Conmebol (03)
+https://a5telecom.tvpn.eu:443/7536/7536/51
+#EXTINF:-1 tvg-id="conmeboltv4.br" tvg-name="Conmebol (04)" tvg-logo="https://icons.tvlan.io/icones/conmebol.png" group-title="Canais | Pay-Per-View",Conmebol (04)
+https://a5telecom.tvpn.eu:443/7536/7536/52
+#EXTINF:-1 tvg-id="" tvg-name="Star+" tvg-logo="https://icons.tvlan.io/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+
+https://a5telecom.tvpn.eu:443/7536/7536/178
+#EXTINF:-1 tvg-id="" tvg-name="Star+ (02)" tvg-logo="https://icons.tvlan.io/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (02)
+https://a5telecom.tvpn.eu:443/7536/7536/179
+#EXTINF:-1 tvg-id="" tvg-name="Star+ (03)" tvg-logo="https://icons.tvlan.io/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (03)
+https://a5telecom.tvpn.eu:443/7536/7536/237
+#EXTINF:-1 tvg-id="" tvg-name="Star+ (04)" tvg-logo="https://icons.tvlan.io/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (04)
+https://a5telecom.tvpn.eu:443/7536/7536/236
+#EXTINF:-1 tvg-id="" tvg-name="Star+ (05)" tvg-logo="https://icons.tvlan.io/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (05)
+https://a5telecom.tvpn.eu:443/7536/7536/180
+#EXTINF:-1 tvg-id="" tvg-name="Star+ (06)" tvg-logo="https://icons.tvlan.io/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (06)
+https://a5telecom.tvpn.eu:443/7536/7536/181
+#EXTINF:-1 tvg-id="" tvg-name="Star+ (07)" tvg-logo="https://icons.tvlan.io/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (07)
+https://a5telecom.tvpn.eu:443/7536/7536/182
+#EXTINF:-1 tvg-id="" tvg-name="DAZN (01)" tvg-logo="https://icons.tvlan.io/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (01)
+https://a5telecom.tvpn.eu:443/7536/7536/259
+#EXTINF:-1 tvg-id="" tvg-name="DAZN (02)" tvg-logo="https://icons.tvlan.io/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (02)
+https://a5telecom.tvpn.eu:443/7536/7536/260
+#EXTINF:-1 tvg-id="" tvg-name="DAZN (03)" tvg-logo="https://icons.tvlan.io/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (03)
+https://a5telecom.tvpn.eu:443/7536/7536/175
+#EXTINF:-1 tvg-id="" tvg-name="DAZN (04)" tvg-logo="https://icons.tvlan.io/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (04)
+https://a5telecom.tvpn.eu:443/7536/7536/174
+#EXTINF:-1 tvg-id="" tvg-name="DAZN (05)" tvg-logo="https://icons.tvlan.io/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (05)
+https://a5telecom.tvpn.eu:443/7536/7536/173
+#EXTINF:-1 tvg-id="" tvg-name="DAZN (06)" tvg-logo="https://icons.tvlan.io/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (06)
+https://a5telecom.tvpn.eu:443/7536/7536/172
+#EXTINF:-1 tvg-id="" tvg-name="DAZN (07)" tvg-logo="https://icons.tvlan.io/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (07)
+https://a5telecom.tvpn.eu:443/7536/7536/249
+#EXTINF:-1 tvg-id="HBMAX" tvg-name="HBO Max (01)" tvg-logo="https://icons.tvlan.io/icones/hbomax1.png" group-title="Canais | Pay-Per-View",HBO Max (01)
+https://a5telecom.tvpn.eu:443/7536/7536/251
+#EXTINF:-1 tvg-id="HBMAX" tvg-name="HBO Max (02)" tvg-logo="https://icons.tvlan.io/icones/hbomax1.png" group-title="Canais | Pay-Per-View",HBO Max (02)
+https://a5telecom.tvpn.eu:443/7536/7536/252
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max (03)" tvg-logo="https://icons.tvlan.io/icones/hbomax1.png" group-title="Canais | Pay-Per-View",HBO Max (03)
+https://a5telecom.tvpn.eu:443/7536/7536/253
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video (01)" tvg-logo="https://icons.tvlan.io/icones/primevideo.png" group-title="Canais | Pay-Per-View",Amazon Prime Video (01)
+https://a5telecom.tvpn.eu:443/7536/7536/230
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video (02)" tvg-logo="https://icons.tvlan.io/icones/primevideo.png" group-title="Canais | Pay-Per-View",Amazon Prime Video (02)
+https://a5telecom.tvpn.eu:443/7536/7536/231
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste (01)" tvg-logo="https://icons.tvlan.io/icones/copadonordeste.png" group-title="Canais | Pay-Per-View",Copa do Nordeste (01)
+https://a5telecom.tvpn.eu:443/7536/7536/53
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste (02)" tvg-logo="https://icons.tvlan.io/icones/copadonordeste.png" group-title="Canais | Pay-Per-View",Copa do Nordeste (02)
+https://a5telecom.tvpn.eu:443/7536/7536/54
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste (03)" tvg-logo="https://icons.tvlan.io/icones/copadonordeste.png" group-title="Canais | Pay-Per-View",Copa do Nordeste (03)
+https://a5telecom.tvpn.eu:443/7536/7536/55
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste (04)" tvg-logo="https://icons.tvlan.io/icones/copadonordeste.png" group-title="Canais | Pay-Per-View",Copa do Nordeste (04)
+https://a5telecom.tvpn.eu:443/7536/7536/56
+#EXTINF:-1 tvg-id="EURSPHD" tvg-name="EuroSport (01)" tvg-logo="https://icons.tvlan.io/icones/eurosport1.png" group-title="Canais | Pay-Per-View",EuroSport (01)
+https://a5telecom.tvpn.eu:443/7536/7536/223
+#EXTINF:-1 tvg-id="ES2ESP" tvg-name="EuroSport (02)" tvg-logo="https://icons.tvlan.io/icones/eurosport2.png" group-title="Canais | Pay-Per-View",EuroSport (02)
+https://a5telecom.tvpn.eu:443/7536/7536/224
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel" tvg-logo="https://icons.tvlan.io/icones/discoverychannel.png" group-title="Canais | Discovery",Discovery Channel
+https://a5telecom.tvpn.eu:443/7536/7536/101
+#EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery H & Health" tvg-logo="https://icons.tvlan.io/icones/discoveryhomehealth.png" group-title="Canais | Discovery",Discovery H & Health
+https://a5telecom.tvpn.eu:443/7536/7536/102
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="Discovery ID" tvg-logo="https://icons.tvlan.io/icones/discoveryid.png" group-title="Canais | Discovery",Discovery ID
+https://a5telecom.tvpn.eu:443/7536/7536/103
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science" tvg-logo="https://icons.tvlan.io/icones/discoveryscience.png" group-title="Canais | Discovery",Discovery Science
+https://a5telecom.tvpn.eu:443/7536/7536/104
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater" tvg-logo="https://icons.tvlan.io/icones/discoverytheater.png" group-title="Canais | Discovery",Discovery Theater
+https://a5telecom.tvpn.eu:443/7536/7536/105
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo" tvg-logo="https://icons.tvlan.io/icones/discoveryturbo.png" group-title="Canais | Discovery",Discovery Turbo
+https://a5telecom.tvpn.eu:443/7536/7536/106
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World" tvg-logo="https://icons.tvlan.io/icones/discoveryworld.png" group-title="Canais | Discovery",Discovery World
+https://a5telecom.tvpn.eu:443/7536/7536/107
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="https://icons.tvlan.io/icones/hgtv.png" group-title="Canais | Discovery",HGTV
+https://a5telecom.tvpn.eu:443/7536/7536/112
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://icons.tvlan.io/icones/animalplanet.png" group-title="Canais | Documentários",Animal Planet
+https://a5telecom.tvpn.eu:443/7536/7536/96
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1" tvg-logo="https://icons.tvlan.io/icones/arte1.png" group-title="Canais | Documentários",Arte 1
+https://a5telecom.tvpn.eu:443/7536/7536/97
+#EXTINF:-1 tvg-id="curta!.br" tvg-name="Curta!" tvg-logo="https://icons.tvlan.io/icones/curta.png" group-title="Canais | Documentários",Curta!
+https://a5telecom.tvpn.eu:443/7536/7536/99
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2" tvg-logo="https://icons.tvlan.io/icones/h2.png" group-title="Canais | Documentários",H2
+https://a5telecom.tvpn.eu:443/7536/7536/114
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel" tvg-logo="https://icons.tvlan.io/icones/historychannel.png" group-title="Canais | Documentários",History Channel
+https://a5telecom.tvpn.eu:443/7536/7536/113
+#EXTINF:-1 tvg-id="NATUR" tvg-name="Love Nature" tvg-logo="https://icons.tvlan.io/icones/lovenature.png" group-title="Canais | Documentários",Love Nature
+https://a5telecom.tvpn.eu:443/7536/7536/115
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic" tvg-logo="https://icons.tvlan.io/icones/natgeo.png" group-title="Canais | Documentários",National Geographic
+https://a5telecom.tvpn.eu:443/7536/7536/119
+#EXTINF:-1 tvg-id="BISHD" tvg-name="Bis" tvg-logo="https://icons.tvlan.io/icones/bis.png" group-title="Canais | Entretenimento",Bis
+https://a5telecom.tvpn.eu:443/7536/7536/98
+#EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV" tvg-logo="https://icons.tvlan.io/icones/cheftv.png" group-title="Canais | Entretenimento",Chef TV
+https://a5telecom.tvpn.eu:443/7536/7536/161
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central" tvg-logo="https://icons.tvlan.io/icones/comedycentral.png" group-title="Canais | Entretenimento",Comedy Central
+https://a5telecom.tvpn.eu:443/7536/7536/100
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="Dog TV" tvg-logo="https://icons.tvlan.io/icones/dogtv.png" group-title="Canais | Entretenimento",Dog TV
+https://a5telecom.tvpn.eu:443/7536/7536/168
+#EXTINF:-1 tvg-id="e!.br" tvg-name="E!" tvg-logo="https://icons.tvlan.io/icones/e.png" group-title="Canais | Entretenimento",E!
+https://a5telecom.tvpn.eu:443/7536/7536/108
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV" tvg-logo="https://icons.tvlan.io/icones/fashiontv.png" group-title="Canais | Entretenimento",Fashion TV
+https://a5telecom.tvpn.eu:443/7536/7536/166
+#EXTINF:-1 tvg-id="film&arts.br" tvg-name="Film Arts" tvg-logo="https://icons.tvlan.io/icones/filmeseartes.png" group-title="Canais | Entretenimento",Film Arts
+https://a5telecom.tvpn.eu:443/7536/7536/109
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FishTV" tvg-logo="https://icons.tvlan.io/icones/fishtv.png" group-title="Canais | Entretenimento",FishTV
+https://a5telecom.tvpn.eu:443/7536/7536/226
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network" tvg-logo="https://icons.tvlan.io/icones/foodnetwork.png" group-title="Canais | Entretenimento",Food Network
+https://a5telecom.tvpn.eu:443/7536/7536/110
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT" tvg-logo="https://icons.tvlan.io/icones/gnt.png" group-title="Canais | Entretenimento",GNT
+https://a5telecom.tvpn.eu:443/7536/7536/111
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LifeTime" tvg-logo="https://icons.tvlan.io/icones/lifetime.png" group-title="Canais | Entretenimento",LifeTime
+https://a5telecom.tvpn.eu:443/7536/7536/143
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Mais Globosat" tvg-logo="https://icons.tvlan.io/icones/maisglobosat.png" group-title="Canais | Entretenimento",Mais Globosat
+https://a5telecom.tvpn.eu:443/7536/7536/262
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="https://icons.tvlan.io/icones/mtv.png" group-title="Canais | Entretenimento",MTV
+https://a5telecom.tvpn.eu:443/7536/7536/116
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV Live" tvg-logo="https://icons.tvlan.io/icones/mtvlive.png" group-title="Canais | Entretenimento",MTV Live
+https://a5telecom.tvpn.eu:443/7536/7536/117
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow" tvg-logo="https://icons.tvlan.io/icones/multishow.png" group-title="Canais | Entretenimento",Multishow
+https://a5telecom.tvpn.eu:443/7536/7536/118
+#EXTINF:-1 tvg-id="musicbox.br" tvg-name="Music Box" tvg-logo="https://icons.tvlan.io/icones/musicboxbrasil.png" group-title="Canais | Entretenimento",Music Box
+https://a5telecom.tvpn.eu:443/7536/7536/227
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="https://icons.tvlan.io/icones/off.png" group-title="Canais | Entretenimento",OFF
+https://a5telecom.tvpn.eu:443/7536/7536/121
+#EXTINF:-1 tvg-id="PRMBOXB" tvg-name="Prime Box Brazil" tvg-logo="https://icons.tvlan.io/icones/primeboxbrazil.png" group-title="Canais | Entretenimento",Prime Box Brazil
+https://a5telecom.tvpn.eu:443/7536/7536/454
+#EXTINF:-1 tvg-id="canalsmithsonian.br" tvg-name="Smithsonian" tvg-logo="https://icons.tvlan.io/icones/smithsonian.png" group-title="Canais | Entretenimento",Smithsonian
+https://a5telecom.tvpn.eu:443/7536/7536/122
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC" tvg-logo="https://icons.tvlan.io/icones/tlc.png" group-title="Canais | Entretenimento",TLC
+https://a5telecom.tvpn.eu:443/7536/7536/156
+#EXTINF:-1 tvg-id="travelbox.br" tvg-name="TravelBox Brazil" tvg-logo="https://icons.tvlan.io/icones/travelboxbrazil.png" group-title="Canais | Entretenimento",TravelBox Brazil
+https://a5telecom.tvpn.eu:443/7536/7536/167
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="Tru TV" tvg-logo="https://icons.tvlan.io/icones/trutv.png" group-title="Canais | Entretenimento",Tru TV
+https://a5telecom.tvpn.eu:443/7536/7536/162
+#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 Mega Hits" tvg-logo="https://icons.tvlan.io/icones/vh1megahits.png" group-title="Canais | Entretenimento",VH1 Mega Hits
+https://a5telecom.tvpn.eu:443/7536/7536/123
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva" tvg-logo="https://icons.tvlan.io/icones/viva.png" group-title="Canais | Entretenimento",Viva
+https://a5telecom.tvpn.eu:443/7536/7536/124
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo" tvg-logo="https://icons.tvlan.io/icones/woohoo.png" group-title="Canais | Entretenimento",Woohoo
+https://a5telecom.tvpn.eu:443/7536/7536/170
+#EXTINF:-1 tvg-id="boavontadetv.br" tvg-name="Boa Vontade TV (Boa Vontade TV)" tvg-logo="https://icons.tvlan.io/icones/boavontadetv.png" group-title="Canais | Religiosos",Boa Vontade TV (Boa Vontade TV)
+https://a5telecom.tvpn.eu:443/7536/7536/382
+#EXTINF:-1 tvg-id="RFAM" tvg-name="Rede Família" tvg-logo="https://icons.tvlan.io/icones/redefamilia.png" group-title="Canais | Religiosos",Rede Família
+https://a5telecom.tvpn.eu:443/7536/7536/392
+#EXTINF:-1 tvg-id="redegênesis.br" tvg-name="Rede Genesis" tvg-logo="https://icons.tvlan.io/icones/redegenesis.png" group-title="Canais | Religiosos",Rede Genesis
+https://a5telecom.tvpn.eu:443/7536/7536/393
+#EXTINF:-1 tvg-id="RG" tvg-name="Rede Gospel" tvg-logo="https://icons.tvlan.io/icones/redegospel.png" group-title="Canais | Religiosos",Rede Gospel
+https://a5telecom.tvpn.eu:443/7536/7536/394
+#EXTINF:-1 tvg-id="redeséculo21.br" tvg-name="Rede Século 21" tvg-logo="https://icons.tvlan.io/icones/redeseculo21.png" group-title="Canais | Religiosos",Rede Século 21
+https://a5telecom.tvpn.eu:443/7536/7536/396
+#EXTINF:-1 tvg-id="RV" tvg-name="Rede Vida (Rede Vida)" tvg-logo="https://icons.tvlan.io/icones/redevida.png" group-title="Canais | Religiosos",Rede Vida (Rede Vida)
+https://a5telecom.tvpn.eu:443/7536/7536/369
+#EXTINF:-1 tvg-id="APAR" tvg-name="TV Aparecida (Rede)" tvg-logo="https://icons.tvlan.io/icones/tvaparecida.png" group-title="Canais | Religiosos",TV Aparecida (Rede)
+https://a5telecom.tvpn.eu:443/7536/7536/377
+#EXTINF:-1 tvg-id="" tvg-name="TV Cachoeira (TV Novo Tempo)" tvg-logo="https://icons.tvlan.io/icones/tvcachoeira.png" group-title="Canais | Religiosos",TV Cachoeira (TV Novo Tempo)
+https://a5telecom.tvpn.eu:443/7536/7536/324
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdade (TV Verdade)" tvg-logo="https://icons.tvlan.io/icones/tvverdade.png" group-title="Canais | Religiosos",TV Verdade (TV Verdade)
+https://a5telecom.tvpn.eu:443/7536/7536/378
+#EXTINF:-1 tvg-id="CANBOI" tvg-name="Canal do Boi" tvg-logo="https://icons.tvlan.io/icones/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi
+https://a5telecom.tvpn.eu:443/7536/7536/384
+#EXTINF:-1 tvg-id="EDUCATI" tvg-name="Canal Educação (TV Pública)" tvg-logo="https://icons.tvlan.io/icones/cultura.png" group-title="Canais | Abertos",Canal Educação (TV Pública)
+https://a5telecom.tvpn.eu:443/7536/7536/418
+#EXTINF:-1 tvg-id="" tvg-name="Canal Saúde" tvg-logo="https://icons.tvlan.io/icones/canalsaude.png" group-title="Canais | Abertos",Canal Saúde
+https://a5telecom.tvpn.eu:443/7536/7536/404
+#EXTINF:-1 tvg-id="CANALM" tvg-name="Canal UM" tvg-logo="https://icons.tvlan.io/icones/canalum.png" group-title="Canais | Abertos",Canal UM
+https://a5telecom.tvpn.eu:443/7536/7536/413
+#EXTINF:-1 tvg-id="EURONEW" tvg-name="Euronews" tvg-logo="https://icons.tvlan.io/icones/euronews.png" group-title="Canais | Abertos",Euronews
+https://a5telecom.tvpn.eu:443/7536/7536/388
+#EXTINF:-1 tvg-id="idealtv.br" tvg-name="Ideal TV (TV Mundial)" tvg-logo="https://icons.tvlan.io/icones/ideal.png" group-title="Canais | Abertos",Ideal TV (TV Mundial)
+https://a5telecom.tvpn.eu:443/7536/7536/314
+#EXTINF:-1 tvg-id="PLSHOP" tvg-name="Polishop TV" tvg-logo="https://icons.tvlan.io/icones/polishop.png" group-title="Canais | Abertos",Polishop TV
+https://a5telecom.tvpn.eu:443/7536/7536/306
+#EXTINF:-1 tvg-id="cnt.br" tvg-name="Rede CNT" tvg-logo="https://icons.tvlan.io/icones/redecnt.png" group-title="Canais | Abertos",Rede CNT
+https://a5telecom.tvpn.eu:443/7536/7536/459
+#EXTINF:-1 tvg-id="RSUPER" tvg-name="Rede Super" tvg-logo="https://icons.tvlan.io/icones/redesuper.png" group-title="Canais | Abertos",Rede Super
+https://a5telecom.tvpn.eu:443/7536/7536/397
+#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV (Rede)" tvg-logo="https://icons.tvlan.io/icones/rittv.png" group-title="Canais | Abertos",RIT TV (Rede)
+https://a5telecom.tvpn.eu:443/7536/7536/280
+#EXTINF:-1 tvg-id="ARGO" tvg-name="TV Agro Canal" tvg-logo="https://icons.tvlan.io/icones/agrocanal.png" group-title="Canais | Abertos",TV Agro Canal
+https://a5telecom.tvpn.eu:443/7536/7536/380
+#EXTINF:-1 tvg-id="RURALA" tvg-name="TV Assembleia Legislativa (TVAL)" tvg-logo="https://icons.tvlan.io/icones/tval.png" group-title="Canais | Abertos",TV Assembleia Legislativa (TVAL)
+https://a5telecom.tvpn.eu:443/7536/7536/386
+#EXTINF:-1 tvg-id="TVEB2" tvg-name="TV Brasil (02)" tvg-logo="https://icons.tvlan.io/icones/tvbrasil.png" group-title="Canais | Abertos",TV Brasil (02)
+https://a5telecom.tvpn.eu:443/7536/7536/399
+#EXTINF:-1 tvg-id="cançãonova.br" tvg-name="TV Canção Nova (Rede)" tvg-logo="https://icons.tvlan.io/icones/cancaonova.png" group-title="Canais | Abertos",TV Canção Nova (Rede)
+https://a5telecom.tvpn.eu:443/7536/7536/293
+#EXTINF:-1 tvg-id="CULTURA" tvg-name="TV Cultura" tvg-logo="https://icons.tvlan.io/icones/cultura.png" group-title="Canais | Abertos",TV Cultura
+https://a5telecom.tvpn.eu:443/7536/7536/289
+#EXTINF:-1 tvg-id="tvcâmara.br" tvg-name="TV Câmara (TV Câmara)" tvg-logo="https://icons.tvlan.io/icones/tvcamera.png" group-title="Canais | Abertos",TV Câmara (TV Câmara)
+https://a5telecom.tvpn.eu:443/7536/7536/320
+#EXTINF:-1 tvg-id="TVEVCBA" tvg-name="TV Evangelizar" tvg-logo="https://icons.tvlan.io/icones/tvevangelizar.png" group-title="Canais | Abertos",TV Evangelizar
+https://a5telecom.tvpn.eu:443/7536/7536/304
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="TV Futura" tvg-logo="https://icons.tvlan.io/icones/futura.png" group-title="Canais | Abertos",TV Futura
+https://a5telecom.tvpn.eu:443/7536/7536/294
+#EXTINF:-1 tvg-id="" tvg-name="TV Pernambuco (TV Cultura/TV Brasil)" tvg-logo="https://icons.tvlan.io/icones/tvpe.png" group-title="Canais | Abertos",TV Pernambuco (TV Cultura/TV Brasil)
+https://a5telecom.tvpn.eu:443/7536/7536/276
+#EXTINF:-1 tvg-id="SHPT" tvg-name="TV Shoptime" tvg-logo="https://icons.tvlan.io/icones/shoptime.png" group-title="Canais | Abertos",TV Shoptime
+https://a5telecom.tvpn.eu:443/7536/7536/308
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TV Terraviva" tvg-logo="https://icons.tvlan.io/icones/terraviva.png" group-title="Canais | Abertos",TV Terraviva
+https://a5telecom.tvpn.eu:443/7536/7536/298
+#EXTINF:-1 tvg-id="" tvg-name="TV UP (Futura)" tvg-logo="https://icons.tvlan.io/icones/tvup.png" group-title="Canais | Abertos",TV UP (Futura)
+https://a5telecom.tvpn.eu:443/7536/7536/376
+#EXTINF:-1 tvg-id="univesptv.br" tvg-name="Univesp TV" tvg-logo="https://icons.tvlan.io/icones/univesp.png" group-title="Canais | Abertos",Univesp TV
+https://a5telecom.tvpn.eu:443/7536/7536/415
+#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="Globo (Florianopolis)" tvg-logo="https://icons.tvlan.io/icones/globotvnscflorianopolis.png" group-title="Canais | Globo",Globo (Florianopolis)
+https://a5telecom.tvpn.eu:443/7536/7536/428
+#EXTINF:-1 tvg-id="intertvcabugi.br" tvg-name="InterTV Cabugi (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Globo",InterTV Cabugi (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/291
+#EXTINF:-1 tvg-id="intertvcabugi.br" tvg-name="InterTV Cabugi (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Natal",InterTV Cabugi (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/291
+#EXTINF:-1 tvg-id="ZYA728" tvg-name="InterTV Grande Minas (Globo)" tvg-logo="https://icons.tvlan.io/icones/intertvgrandeminas.png" group-title="Canais | Globo",InterTV Grande Minas (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/407
+#EXTINF:-1 tvg-id="rbstvriogrande.br" tvg-name="RBS TV RS (Globo)" tvg-logo="https://icons.tvlan.io/icones/globorbs.png" group-title="Canais | Globo",RBS TV RS (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/432
+#EXTINF:-1 tvg-id="redeamazônicamanaus.br" tvg-name="Rede Amazonica (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Globo",Rede Amazonica (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/433
+#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="Rede Anhanguera (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Globo",Rede Anhanguera (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/436
+#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="Rede Anhanguera (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Palmas",Rede Anhanguera (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/436
+#EXTINF:-1 tvg-id="GLRPCHD" tvg-name="RPC Curitiba (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Globo",RPC Curitiba (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/434
+#EXTINF:-1 tvg-id="GLRPCHD" tvg-name="RPC Curitiba (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Parana",RPC Curitiba (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/434
+#EXTINF:-1 tvg-id="rpcmaringá.br" tvg-name="RPC Maringá (Globo)" tvg-logo="https://icons.tvlan.io/icones/rpcglobo.png" group-title="Canais | Globo",RPC Maringá (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/372
+#EXTINF:-1 tvg-id="rpcmaringá.br" tvg-name="RPC Maringá (Globo)" tvg-logo="https://icons.tvlan.io/icones/rpcglobo.png" group-title="Canais | Parana",RPC Maringá (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/372
+#EXTINF:-1 tvg-id="ZYB305" tvg-name="TV Asa Branca (Globo)" tvg-logo="https://icons.tvlan.io/icones/tvasabranca.png" group-title="Canais | Globo",TV Asa Branca (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/423
+#EXTINF:-1 tvg-id="ZYB305" tvg-name="TV Asa Branca (Globo)" tvg-logo="https://icons.tvlan.io/icones/tvasabranca.png" group-title="Canais | Pernambuco",TV Asa Branca (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/423
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="TV Bahia (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Globo",TV Bahia (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/437
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="TV Bahia (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Bahia",TV Bahia (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/437
+#EXTINF:-1 tvg-id="tvcabobranco.br" tvg-name="TV Cabo Branco (Globo)" tvg-logo="https://icons.tvlan.io/icones/tvcabobranco.png" group-title="Canais | Globo",TV Cabo Branco (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/319
+#EXTINF:-1 tvg-id="tvcabobranco.br" tvg-name="TV Cabo Branco (Globo)" tvg-logo="https://icons.tvlan.io/icones/tvcabobranco.png" group-title="Canais | Paraiba",TV Cabo Branco (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/319
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta (Globo)" tvg-logo="https://icons.tvlan.io/icones/gazeta.png" group-title="Canais | Globo",TV Gazeta (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/424
+#EXTINF:-1 tvg-id="GAZETAH" tvg-name="TV Gazeta Vitória (Globo)" tvg-logo="https://icons.tvlan.io/icones/gazeta.png" group-title="Canais | Globo",TV Gazeta Vitória (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/425
+#EXTINF:-1 tvg-id="GLBBRHD" tvg-name="TV Globo (Brasília)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Globo",TV Globo (Brasília)
+https://a5telecom.tvpn.eu:443/7536/7536/427
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="TV Globo (Minas)" tvg-logo="https://icons.tvlan.io/icones/globominas.png" group-title="Canais | Globo",TV Globo (Minas)
+https://a5telecom.tvpn.eu:443/7536/7536/429
+#EXTINF:-1 tvg-id="GLBRJ" tvg-name="TV Globo (Rio de Janeiro)" tvg-logo="https://icons.tvlan.io/icones/globorj.png" group-title="Canais | Globo",TV Globo (Rio de Janeiro)
+https://a5telecom.tvpn.eu:443/7536/7536/431
+#EXTINF:-1 tvg-id="globonatal.br" tvg-name="TV Globo (Rio Grande do Norte)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Globo",TV Globo (Rio Grande do Norte)
+https://a5telecom.tvpn.eu:443/7536/7536/430
+#EXTINF:-1 tvg-id="globonatal.br" tvg-name="TV Globo (Rio Grande do Norte)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Natal",TV Globo (Rio Grande do Norte)
+https://a5telecom.tvpn.eu:443/7536/7536/430
+#EXTINF:-1 tvg-id="globosãopaulo.br" tvg-name="TV Globo (São Paulo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Globo",TV Globo (São Paulo)
+https://a5telecom.tvpn.eu:443/7536/7536/435
+#EXTINF:-1 tvg-id="globobelémliberal.br" tvg-name="TV Liberal Belém (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Globo",TV Liberal Belém (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/438
+#EXTINF:-1 tvg-id="tvmirantesãoluis.br" tvg-name="TV Mirante São Luís (Globo)" tvg-logo="https://icons.tvlan.io/icones/globotvmirante.png" group-title="Canais | Globo",TV Mirante São Luís (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/439
+#EXTINF:-1 tvg-id="ZYA942H" tvg-name="TV Morena (Globo)" tvg-logo="https://icons.tvlan.io/icones/tvmorena.png" group-title="Canais | Globo",TV Morena (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/426
+#EXTINF:-1 tvg-id="ZYA302" tvg-name="TV Santa Cruz (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Globo",TV Santa Cruz (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/409
+#EXTINF:-1 tvg-id="ZYA302" tvg-name="TV Santa Cruz (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Bahia",TV Santa Cruz (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/409
+#EXTINF:-1 tvg-id="SUBAEHD" tvg-name="TV Subaé (Globo)" tvg-logo="https://icons.tvlan.io/icones/tvsubae.png" group-title="Canais | Globo",TV Subaé (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/410
+#EXTINF:-1 tvg-id="SUBAEHD" tvg-name="TV Subaé (Globo)" tvg-logo="https://icons.tvlan.io/icones/tvsubae.png" group-title="Canais | Bahia",TV Subaé (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/410
+#EXTINF:-1 tvg-id="SUDOEHD" tvg-name="TV Sudoeste (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Globo",TV Sudoeste (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/411
+#EXTINF:-1 tvg-id="SUDOEHD" tvg-name="TV Sudoeste (Globo)" tvg-logo="https://icons.tvlan.io/icones/globo.png" group-title="Canais | Bahia",TV Sudoeste (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/411
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="TV Verdes Mares (Globo)" tvg-logo="https://icons.tvlan.io/icones/globotvverdesmares.png" group-title="Canais | Globo",TV Verdes Mares (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/440
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="TV Verdes Mares (Globo)" tvg-logo="https://icons.tvlan.io/icones/globotvverdesmares.png" group-title="Canais | Ceara",TV Verdes Mares (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/440
+#EXTINF:-1 tvg-id="sbtsãopaulo.br" tvg-name="SBT (São Paulo)" tvg-logo="https://icons.tvlan.io/icones/sbt.png" group-title="Canais | SBT",SBT (São Paulo)
+https://a5telecom.tvpn.eu:443/7536/7536/457
+#EXTINF:-1 tvg-id="sbttocantins.br" tvg-name="SBT (Palmas)" tvg-logo="https://icons.tvlan.io/icones/sbt.png" group-title="Canais | SBT",SBT (Palmas)
+https://a5telecom.tvpn.eu:443/7536/7536/461
+#EXTINF:-1 tvg-id="sbttocantins.br" tvg-name="SBT (Palmas)" tvg-logo="https://icons.tvlan.io/icones/sbt.png" group-title="Canais | Palmas",SBT (Palmas)
+https://a5telecom.tvpn.eu:443/7536/7536/461
+#EXTINF:-1 tvg-id="SBT" tvg-name="TV Aratu (SBT)" tvg-logo="https://icons.tvlan.io/icones/sbt.png" group-title="Canais | SBT",TV Aratu (SBT)
+https://a5telecom.tvpn.eu:443/7536/7536/334
+#EXTINF:-1 tvg-id="SBT" tvg-name="TV Aratu (SBT)" tvg-logo="https://icons.tvlan.io/icones/sbt.png" group-title="Canais | Bahia",TV Aratu (SBT)
+https://a5telecom.tvpn.eu:443/7536/7536/334
+#EXTINF:-1 tvg-id="SBTFORT" tvg-name="TV Jangadeiro (SBT)" tvg-logo="https://icons.tvlan.io/icones/sbt.png" group-title="Canais | SBT",TV Jangadeiro (SBT)
+https://a5telecom.tvpn.eu:443/7536/7536/354
+#EXTINF:-1 tvg-id="SBTFORT" tvg-name="TV Jangadeiro (SBT)" tvg-logo="https://icons.tvlan.io/icones/sbt.png" group-title="Canais | Ceara",TV Jangadeiro (SBT)
+https://a5telecom.tvpn.eu:443/7536/7536/354
+#EXTINF:-1 tvg-id="tvpontanegra.br" tvg-name="TV Ponta Negra (SBT)" tvg-logo="https://icons.tvlan.io/icones/sbt.png" group-title="Canais | SBT",TV Ponta Negra (SBT)
+https://a5telecom.tvpn.eu:443/7536/7536/311
+#EXTINF:-1 tvg-id="tvpontanegra.br" tvg-name="TV Ponta Negra (SBT)" tvg-logo="https://icons.tvlan.io/icones/sbt.png" group-title="Canais | Natal",TV Ponta Negra (SBT)
+https://a5telecom.tvpn.eu:443/7536/7536/311
+#EXTINF:-1 tvg-id="tvtambaú.br" tvg-name="TV Tambaú (SBT)" tvg-logo="https://icons.tvlan.io/icones/tvtambau.png" group-title="Canais | SBT",TV Tambaú (SBT)
+https://a5telecom.tvpn.eu:443/7536/7536/326
+#EXTINF:-1 tvg-id="tvtambaú.br" tvg-name="TV Tambaú (SBT)" tvg-logo="https://icons.tvlan.io/icones/tvtambau.png" group-title="Canais | Paraiba",TV Tambaú (SBT)
+https://a5telecom.tvpn.eu:443/7536/7536/326
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | RecordTV",Record TV
+https://a5telecom.tvpn.eu:443/7536/7536/309
+#EXTINF:-1 tvg-id="recordtvitapoan.br" tvg-name="Record TV Itapoan (Record TV)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | RecordTV",Record TV Itapoan (Record TV)
+https://a5telecom.tvpn.eu:443/7536/7536/335
+#EXTINF:-1 tvg-id="recordtvitapoan.br" tvg-name="Record TV Itapoan (Record TV)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | Bahia",Record TV Itapoan (Record TV)
+https://a5telecom.tvpn.eu:443/7536/7536/335
+#EXTINF:-1 tvg-id="recordtvbahia.br" tvg-name="RecordTV (Bahia)" tvg-logo="https://icons.tvlan.io/icones/recordbahia.png" group-title="Canais | RecordTV",RecordTV (Bahia)
+https://a5telecom.tvpn.eu:443/7536/7536/442
+#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="RecordTV (Belém)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | RecordTV",RecordTV (Belém)
+https://a5telecom.tvpn.eu:443/7536/7536/443
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RecordTV (Brasília)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | RecordTV",RecordTV (Brasília)
+https://a5telecom.tvpn.eu:443/7536/7536/444
+#EXTINF:-1 tvg-id="recordtvgoiás.br" tvg-name="RecordTV (Goiás)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | RecordTV",RecordTV (Goiás)
+https://a5telecom.tvpn.eu:443/7536/7536/445
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV (Manaus)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | RecordTV",RecordTV (Manaus)
+https://a5telecom.tvpn.eu:443/7536/7536/446
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RecordTV (Minas)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | RecordTV",RecordTV (Minas)
+https://a5telecom.tvpn.eu:443/7536/7536/447
+#EXTINF:-1 tvg-id="recordtvrio.br" tvg-name="RecordTV (Rio de Janeiro)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | RecordTV",RecordTV (Rio de Janeiro)
+https://a5telecom.tvpn.eu:443/7536/7536/449
+#EXTINF:-1 tvg-id="recordtvrs.br" tvg-name="RecordTV (Rio Grande do Sul)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | RecordTV",RecordTV (Rio Grande do Sul)
+https://a5telecom.tvpn.eu:443/7536/7536/450
+#EXTINF:-1 tvg-id="recordtvsãopaulo.br" tvg-name="RecordTV (São Paulo)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | RecordTV",RecordTV (São Paulo)
+https://a5telecom.tvpn.eu:443/7536/7536/451
+#EXTINF:-1 tvg-id="recordtvtocantins.br" tvg-name="RecordTV (Palmas)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | RecordTV",RecordTV (Palmas)
+https://a5telecom.tvpn.eu:443/7536/7536/463
+#EXTINF:-1 tvg-id="recordtvtocantins.br" tvg-name="RecordTV (Palmas)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | Palmas",RecordTV (Palmas)
+https://a5telecom.tvpn.eu:443/7536/7536/463
+#EXTINF:-1 tvg-id="ZYB405" tvg-name="RIC TV Maringá (Record TV)" tvg-logo="https://icons.tvlan.io/icones/rictv.png" group-title="Canais | RecordTV",RIC TV Maringá (Record TV)
+https://a5telecom.tvpn.eu:443/7536/7536/370
+#EXTINF:-1 tvg-id="ZYB405" tvg-name="RIC TV Maringá (Record TV)" tvg-logo="https://icons.tvlan.io/icones/rictv.png" group-title="Canais | Parana",RIC TV Maringá (Record TV)
+https://a5telecom.tvpn.eu:443/7536/7536/370
+#EXTINF:-1 tvg-id="ZYA427" tvg-name="TV Cidade (Record TV)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | RecordTV",TV Cidade (Record TV)
+https://a5telecom.tvpn.eu:443/7536/7536/351
+#EXTINF:-1 tvg-id="ZYA427" tvg-name="TV Cidade (Record TV)" tvg-logo="https://icons.tvlan.io/icones/record.png" group-title="Canais | Ceara",TV Cidade (Record TV)
+https://a5telecom.tvpn.eu:443/7536/7536/351
+#EXTINF:-1 tvg-id="tvcorreio.br" tvg-name="TV Correio (Record TV)" tvg-logo="https://icons.tvlan.io/icones/tvcorreio.png" group-title="Canais | RecordTV",TV Correio (Record TV)
+https://a5telecom.tvpn.eu:443/7536/7536/321
+#EXTINF:-1 tvg-id="tvcorreio.br" tvg-name="TV Correio (Record TV)" tvg-logo="https://icons.tvlan.io/icones/tvcorreio.png" group-title="Canais | Paraiba",TV Correio (Record TV)
+https://a5telecom.tvpn.eu:443/7536/7536/321
+#EXTINF:-1 tvg-id="tvtropical.br" tvg-name="TV Tropical (Record TV)" tvg-logo="https://icons.tvlan.io/icones/tvtropical.png" group-title="Canais | RecordTV",TV Tropical (Record TV)
+https://a5telecom.tvpn.eu:443/7536/7536/302
+#EXTINF:-1 tvg-id="tvtropical.br" tvg-name="TV Tropical (Record TV)" tvg-logo="https://icons.tvlan.io/icones/tvtropical.png" group-title="Canais | Natal",TV Tropical (Record TV)
+https://a5telecom.tvpn.eu:443/7536/7536/302
+#EXTINF:-1 tvg-id="" tvg-name="Band Ceará (Band)" tvg-logo="https://icons.tvlan.io/icones/band.png" group-title="Canais | Band",Band Ceará (Band)
+https://a5telecom.tvpn.eu:443/7536/7536/350
+#EXTINF:-1 tvg-id="" tvg-name="Band Ceará (Band)" tvg-logo="https://icons.tvlan.io/icones/band.png" group-title="Canais | Ceara",Band Ceará (Band)
+https://a5telecom.tvpn.eu:443/7536/7536/350
+#EXTINF:-1 tvg-id="bandnatal.br" tvg-name="Band RN (Band)" tvg-logo="https://icons.tvlan.io/icones/band.png" group-title="Canais | Band",Band RN (Band)
+https://a5telecom.tvpn.eu:443/7536/7536/292
+#EXTINF:-1 tvg-id="bandnatal.br" tvg-name="Band RN (Band)" tvg-logo="https://icons.tvlan.io/icones/band.png" group-title="Canais | Natal",Band RN (Band)
+https://a5telecom.tvpn.eu:443/7536/7536/292
+#EXTINF:-1 tvg-id="BANDTO" tvg-name="Band (Palmas)" tvg-logo="https://icons.tvlan.io/icones/band.png" group-title="Canais | Band",Band (Palmas)
+https://a5telecom.tvpn.eu:443/7536/7536/462
+#EXTINF:-1 tvg-id="BANDTO" tvg-name="Band (Palmas)" tvg-logo="https://icons.tvlan.io/icones/band.png" group-title="Canais | Palmas",Band (Palmas)
+https://a5telecom.tvpn.eu:443/7536/7536/462
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="TV Band (São Paulo)" tvg-logo="https://icons.tvlan.io/icones/band.png" group-title="Canais | Band",TV Band (São Paulo)
+https://a5telecom.tvpn.eu:443/7536/7536/452
+#EXTINF:-1 tvg-id="tvmanaira.br" tvg-name="TV Manaíra (Band)" tvg-logo="https://icons.tvlan.io/icones/tvmanairaband.png" group-title="Canais | Band",TV Manaíra (Band)
+https://a5telecom.tvpn.eu:443/7536/7536/322
+#EXTINF:-1 tvg-id="tvmanaira.br" tvg-name="TV Manaíra (Band)" tvg-logo="https://icons.tvlan.io/icones/tvmanairaband.png" group-title="Canais | Paraiba",TV Manaíra (Band)
+https://a5telecom.tvpn.eu:443/7536/7536/322
+#EXTINF:-1 tvg-id="ZYB397" tvg-name="TV Tarobá Cascavel (Band)" tvg-logo="https://icons.tvlan.io/icones/tvtaroba.png" group-title="Canais | Band",TV Tarobá Cascavel (Band)
+https://a5telecom.tvpn.eu:443/7536/7536/373
+#EXTINF:-1 tvg-id="ZYB397" tvg-name="TV Tarobá Cascavel (Band)" tvg-logo="https://icons.tvlan.io/icones/tvtaroba.png" group-title="Canais | Parana",TV Tarobá Cascavel (Band)
+https://a5telecom.tvpn.eu:443/7536/7536/373
+#EXTINF:-1 tvg-id="" tvg-name="TV Café com Leitte" tvg-logo="https://icons.tvlan.io/icones/tvcafecomleite.png" group-title="Canais | Ceara",TV Café com Leitte
+https://a5telecom.tvpn.eu:443/7536/7536/353
+#EXTINF:-1 tvg-id="tvceará.br" tvg-name="TV Ceará" tvg-logo="https://icons.tvlan.io/icones/tvceara.png" group-title="Canais | Ceara",TV Ceará
+https://a5telecom.tvpn.eu:443/7536/7536/358
+#EXTINF:-1 tvg-id="tvdiário.br" tvg-name="TV Diário (TV Diário)" tvg-logo="https://icons.tvlan.io/icones/tvdiario.png" group-title="Canais | Ceara",TV Diário (TV Diário)
+https://a5telecom.tvpn.eu:443/7536/7536/352
+#EXTINF:-1 tvg-id="TVVALE" tvg-name="TV Verde Vale" tvg-logo="https://icons.tvlan.io/icones/tvverdevale.png" group-title="Canais | Ceara",TV Verde Vale
+https://a5telecom.tvpn.eu:443/7536/7536/356
+#EXTINF:-1 tvg-id="" tvg-name="TV Caiuá (RedeTV! Mais)" tvg-logo="https://icons.tvlan.io/icones/tvcaiua.png" group-title="Canais | Parana",TV Caiuá (RedeTV! Mais)
+https://a5telecom.tvpn.eu:443/7536/7536/375
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="TV Globo Nordeste (Globo)" tvg-logo="https://icons.tvlan.io/icones/globonordeste.png" group-title="Canais | Globo",TV Globo Nordeste (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/272
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="TV Globo Nordeste (Globo)" tvg-logo="https://icons.tvlan.io/icones/globonordeste.png" group-title="Canais | Pernambuco",TV Globo Nordeste (Globo)
+https://a5telecom.tvpn.eu:443/7536/7536/272
+#EXTINF:-1 tvg-id="" tvg-name="TV Guararapes (RecordTV)" tvg-logo="https://icons.tvlan.io/icones/tvguararapes.png" group-title="Canais | Pernambuco",TV Guararapes (RecordTV)
+https://a5telecom.tvpn.eu:443/7536/7536/278
+#EXTINF:-1 tvg-id="tvjornal.br" tvg-name="TV Jornal (SBT Nordeste)" tvg-logo="https://icons.tvlan.io/icones/tvjornal.png" group-title="Canais | Pernambuco",TV Jornal (SBT Nordeste)
+https://a5telecom.tvpn.eu:443/7536/7536/266
+#EXTINF:-1 tvg-id="" tvg-name="TV Nova (TV Cultura)" tvg-logo="https://icons.tvlan.io/icones/tvnova.png" group-title="Canais | Pernambuco",TV Nova (TV Cultura)
+https://a5telecom.tvpn.eu:443/7536/7536/271
+#EXTINF:-1 tvg-id="GLBTRIB" tvg-name="TV Tribuna (Bandeirantes)" tvg-logo="https://icons.tvlan.io/icones/tvtribuna.png" group-title="Canais | Pernambuco",TV Tribuna (Bandeirantes)
+https://a5telecom.tvpn.eu:443/7536/7536/267
+#EXTINF:-1 tvg-id="tvarapuan.br" tvg-name="TV Arapuan (Rede TV!)" tvg-logo="https://icons.tvlan.io/icones/tvarapuan.png" group-title="Canais | Paraiba",TV Arapuan (Rede TV!)
+https://a5telecom.tvpn.eu:443/7536/7536/318
+#EXTINF:-1 tvg-id="" tvg-name="TV Miramar (TV Cultura)" tvg-logo="https://icons.tvlan.io/icones/tvmiramar.png" group-title="Canais | Paraiba",TV Miramar (TV Cultura)
+https://a5telecom.tvpn.eu:443/7536/7536/323
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (00)" tvg-logo="https://icons.tvlan.io/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (00)
+https://a5telecom.tvpn.eu:443/7536/7536/64
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (01)" tvg-logo="https://icons.tvlan.io/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (01)
+https://a5telecom.tvpn.eu:443/7536/7536/65
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (02)" tvg-logo="https://icons.tvlan.io/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (02)
+https://a5telecom.tvpn.eu:443/7536/7536/66
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (03)" tvg-logo="https://icons.tvlan.io/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (03)
+https://a5telecom.tvpn.eu:443/7536/7536/67
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (04)" tvg-logo="https://icons.tvlan.io/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (04)
+https://a5telecom.tvpn.eu:443/7536/7536/68
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (05)" tvg-logo="https://icons.tvlan.io/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (05)
+https://a5telecom.tvpn.eu:443/7536/7536/69
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (06)" tvg-logo="https://icons.tvlan.io/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (06)
+https://a5telecom.tvpn.eu:443/7536/7536/70
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (07)" tvg-logo="https://icons.tvlan.io/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (07)
+https://a5telecom.tvpn.eu:443/7536/7536/71
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (08)" tvg-logo="https://icons.tvlan.io/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (08)
+https://a5telecom.tvpn.eu:443/7536/7536/72
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (09)" tvg-logo="https://icons.tvlan.io/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (09)
+https://a5telecom.tvpn.eu:443/7536/7536/73
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (10)" tvg-logo="https://icons.tvlan.io/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (10)
+https://a5telecom.tvpn.eu:443/7536/7536/74
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (11)" tvg-logo="https://icons.tvlan.io/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (11)
+https://a5telecom.tvpn.eu:443/7536/7536/75
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Camera (01)" tvg-logo="https://icons.tvlan.io/icones/afazenda.png" group-title="Canais | A Fazenda",A Fazenda - Camera (01)
+https://a5telecom.tvpn.eu:443/7536/7536/77
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Camera (02)" tvg-logo="https://icons.tvlan.io/icones/afazenda.png" group-title="Canais | A Fazenda",A Fazenda - Camera (02)
+https://a5telecom.tvpn.eu:443/7536/7536/78
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Camera (03)" tvg-logo="https://icons.tvlan.io/icones/afazenda.png" group-title="Canais | A Fazenda",A Fazenda - Camera (03)
+https://a5telecom.tvpn.eu:443/7536/7536/79
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Camera (04)" tvg-logo="https://icons.tvlan.io/icones/afazenda.png" group-title="Canais | A Fazenda",A Fazenda - Camera (04)
+https://a5telecom.tvpn.eu:443/7536/7536/80
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Camera (05)" tvg-logo="https://icons.tvlan.io/icones/afazenda.png" group-title="Canais | A Fazenda",A Fazenda - Camera (05)
+https://a5telecom.tvpn.eu:443/7536/7536/81
+#EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil (02)" tvg-logo="https://icons.tvlan.io/icones/powercouplebrasil.png" group-title="Canais | Power Couple Brasil",Power Couple Brasil (02)
+https://a5telecom.tvpn.eu:443/7536/7536/465
+#EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil (01)" tvg-logo="https://icons.tvlan.io/icones/powercouplebrasil.png" group-title="Canais | Power Couple Brasil",Power Couple Brasil (01)
+https://a5telecom.tvpn.eu:443/7536/7536/464
+#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas" tvg-logo="https://icons.tvlan.io/icones/brasileirinhas.png" group-title="XXX | Adultos",Brasileirinhas
+https://a5telecom.tvpn.eu:443/7536/7536/2
+#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="Sex Hot" tvg-logo="https://icons.tvlan.io/icones/canaladulto.png" group-title="XXX | Adultos",Sex Hot
+https://a5telecom.tvpn.eu:443/7536/7536/3
+#EXTINF:-1 tvg-id="SEXBR" tvg-name="Sex Prive" tvg-logo="https://icons.tvlan.io/icones/canaladulto.png" group-title="XXX | Adultos",Sex Prive
+https://a5telecom.tvpn.eu:443/7536/7536/4
+#EXTINF:-1 tvg-id="XXXGAY" tvg-name="Gay" tvg-logo="https://icons.tvlan.io/icones/canaladulto.png" group-title="XXX | Adultos",Gay
+https://a5telecom.tvpn.eu:443/7536/7536/5
+#EXTINF:-1 tvg-id="" tvg-name="Hetero" tvg-logo="https://icons.tvlan.io/icones/canaladulto.png" group-title="XXX | Adultos",Hetero
+https://a5telecom.tvpn.eu:443/7536/7536/6
+#EXTINF:-1 tvg-id="PLYLESB" tvg-name="Lesbian" tvg-logo="https://icons.tvlan.io/icones/canaladulto.png" group-title="XXX | Adultos",Lesbian
+https://a5telecom.tvpn.eu:443/7536/7536/7
+#EXTINF:-1 tvg-id="" tvg-name="Tranny" tvg-logo="https://icons.tvlan.io/icones/canaladulto.png" group-title="XXX | Adultos",Tranny
+https://a5telecom.tvpn.eu:443/7536/7536/8
