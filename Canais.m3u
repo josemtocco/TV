@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", TV Cultura
+http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/568
+#EXTINF:0 type="stream" channelId="-1", TV Cultura
+http://cdn.xcore.ca:80/m19efm/bhqloh/40673
+#EXTINF:0 type="stream" channelId="-1", TV Cultura
+http://cdn.xcore.ca:80/m19efm/bhqloh/61
+#EXTINF:0 type="stream" channelId="-1", TV Cultura
 http://piglo.re:80/live/Nuvens47/N050546sk/54726.ts
 #EXTINF:0 type="stream" channelId="-1", TV Cultura
 http://cdn7.live:80/fabinhobar2046/98143401xc/883.ts
@@ -117,6 +123,24 @@ http://cdn.connectbr.com.br/Clubinho/index.m3u8
 http://cdn.connectbr.com.br:80/Entretendo/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Entretendo
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BORA FILMES
+http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/63052
+
+#EXTINF:0 type="stream" channelId="-1", CINE DISNEY
+http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88963
+#EXTINF:0 type="stream" channelId="-1", CINE SESSÃO DA TARDE
+http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88966
+#EXTINF:0 type="stream" channelId="-1", CINE MARVEL
+http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88967
+#EXTINF:0 type="stream" channelId="-1", CINE SUCESSOS
+http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88964
+
+#EXTINF:0 type="stream" channelId="-1", Cine Pix
+http://cdn.xcore.ca:80/m19efm/bhqloh/206032
+#EXTINF:0 type="stream" channelId="-1", Marvel-Classicos Da Marvel 1
+http://cdn.xcore.ca:80/m19efm/bhqloh/231654
+#EXTINF:0 type="stream" channelId="-1", Marvel-Classicos Da Marvel 2
+http://cdn.xcore.ca:80/m19efm/bhqloh/231655
 
 #EXTINF:0 type="stream" channelId="-1", Playpoca Filmes
 http://168.205.87.198:8555/live/1431/123456/238.ts
@@ -199,6 +223,8 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Via morena
 https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV A Critica HD
+http://cdn.xcore.ca:80/m19efm/bhqloh/270951
 
 #EXTINF:0 type="stream" channelId="-1", Urban TV Brasil HD
 http://200.194.238.229:8383/live/urbantv/playlist.m3u8
@@ -237,6 +263,41 @@ https://alanza.iptv2022.com/FRONTEIRA_KIDS/index.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", THE FLINTSTONES TV
 https://stmv4.voxtvhd.com.br/flintstones/flintstones/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Cine Desenhos+
+http://cdn.xcore.ca:80/m19efm/bhqloh/168
+#EXTINF:0 type="stream" channelId="-1", Cine Infantil
+http://cdn.xcore.ca:80/m19efm/bhqloh/227741
+#EXTINF:0 type="stream" channelId="-1", Desenhos Disney
+http://cdn.xcore.ca:80/m19efm/bhqloh/227743
+#EXTINF:0 type="stream" channelId="-1", DreamWorks HD
+http://cdn.xcore.ca:80/m19efm/bhqloh/267003
+#EXTINF:0 type="stream" channelId="-1", Pernalonga
+http://cdn.xcore.ca:80/m19efm/bhqloh/24590
+#EXTINF:0 type="stream" channelId="-1", Detetives do Predio Azul
+http://cdn.xcore.ca:80/m19efm/bhqloh/213926
+#EXTINF:0 type="stream" channelId="-1", 24H Cine Kids
+http://cdn.xcore.ca:80/m19efm/bhqloh/232500
+#EXTINF:0 type="stream" channelId="-1", Desenhos Clássicos
+http://cdn.xcore.ca:80/m19efm/bhqloh/227742
+#EXTINF:0 type="stream" channelId="-1", Fábulas da Disney
+http://cdn.xcore.ca:80/m19efm/bhqloh/231575
+#EXTINF:0 type="stream" channelId="-1", DuckTales: Os Caçadores de Aventuras
+http://cdn.xcore.ca:80/m19efm/bhqloh/38038
+#EXTINF:0 type="stream" channelId="-1", Scooby Doo
+http://cdn.xcore.ca:80/m19efm/bhqloh/38073
+#EXTINF:0 type="stream" channelId="-1",Tico e Teco
+http://cdn.xcore.ca:80/m19efm/bhqloh/37993
+#EXTINF:0 type="stream" channelId="-1", Timão e Pumba
+http://cdn.xcore.ca:80/m19efm/bhqloh/21099
+#EXTINF:0 type="stream" channelId="-1", Tom e Jerry
+http://cdn.xcore.ca:80/m19efm/bhqloh/22584
+#EXTINF:0 type="stream" channelId="-1", Turma da Mônica
+http://cdn.xcore.ca:80/m19efm/bhqloh/38072
+#EXTINF:0 type="stream" channelId="-1", Capitão Caverna
+http://cdn.xcore.ca:80/m19efm/bhqloh/231685
+#EXTINF:0 type="stream" channelId="-1", Marvel Desenho
+http://cdn.xcore.ca:80/m19efm/bhqloh/231624
 
 #EXTINF:0 type="stream" channelId="-1", Comédia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
@@ -339,6 +400,11 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36031
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16737
 #EXTINF:0 type="stream" channelId="-1", ANIMAL PLANET HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16693
+
+#EXTINF:0 type="stream" channelId="-1", TRAVEL BOX BRAZIL
+http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/884
+#EXTINF:0 type="stream" channelId="-1", Modo Viagem
+http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/85999
 
 #EXTINF:0 type="stream" channelId="-1", ag
 http://joao-1-us.mainbkonline.shop:80/c59wdgtv/eycxo6dc/83241
