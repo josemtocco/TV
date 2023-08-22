@@ -11,6 +11,10 @@ http://piglo.re:80/live/Nuvens47/N050546sk/54726.ts
 http://cdn7.live:80/fabinhobar2046/98143401xc/883.ts
 #EXTINF:0 type="stream" channelId="-1", TV Cultura
 http://168.205.87.198:8555/live/1431/123456/230.ts
+#EXTINF:0 type="stream" channelId="-1", TV Cultura
+http://dns.acaidopara.net:8080/live/dOCgo8md/NiTPoLix/1909.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Cultura
+http://213.183.45.243:80/45572957/59885391/54726.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", RBS TV Porto Alegre
 http://pfsv.io:80/Silviopaz/pandora/365.m3u8
