@@ -5,39 +5,11 @@ http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/568
 http://cdn.xcore.ca:80/m19efm/bhqloh/40673
 #EXTINF:0 type="stream" channelId="-1", TV Cultura
 http://cdn.xcore.ca:80/m19efm/bhqloh/61
-#EXTINF:0 type="stream" channelId="-1", TV Cultura
-http://piglo.re:80/live/Nuvens47/N050546sk/54726.ts
-#EXTINF:0 type="stream" channelId="-1", TV Cultura
-http://cdn7.live:80/fabinhobar2046/98143401xc/883.ts
-#EXTINF:0 type="stream" channelId="-1", TV Cultura
-http://168.205.87.198:8555/live/1431/123456/230.ts
-#EXTINF:0 type="stream" channelId="-1", TV Cultura
-http://dns.acaidopara.net:8080/live/dOCgo8md/NiTPoLix/1909.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Cultura
-http://213.183.45.243:80/45572957/59885391/54726.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", RBS TV Porto Alegre
-http://pfsv.io:80/Silviopaz/pandora/365.m3u8
-#EXTINF:0 type="stream" channelId="-1", RBS TV Passo Fundo
-http://pfsv.io:80/Silviopaz/pandora/132950.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Massa
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w579744590.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", SBT RS
-http://cdn7.live:80/fabinhobar2046/98143401xc/85890.ts
-#EXTINF:0 type="stream" channelId="-1", SBT RS
-http://pfsv.io:80/Silviopaz/pandora/49111.m3u8
-#EXTINF:0 type="stream" channelId="-1", Record RS
-http://cdn7.live:80/fabinhobar2046/98143401xc/779588.ts
-#EXTINF:0 type="stream" channelId="-1", Record RS
-http://pfsv.io:80/Silviopaz/pandora/59.m3u8
-#EXTINF:0 type="stream" channelId="-1", Band RS
-http://cdn7.live:80/fabinhobar2046/98143401xc/796768.ts
-#EXTINF:0 type="stream" channelId="-1", Band RS
-http://pfsv.io:80/Silviopaz/pandora/123576.m3u8
 
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
