@@ -86,6 +86,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 #EXTINF:0 type="stream" channelId="-1", Toon Goggle HD
 
 #EXTINF:0 type="stream" channelId="-1", TV Jovem Pan News
+http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Jovem Pan News
 https://rumble-foxo.cdn.rumble.cloud/live/41ac4fe/slot-42/mh1t-3oft/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Jovem Pan News
 https://rumble-foxo.cdn.rumble.cloud/live/41ac4fe/slot-42/mh1t-3oft_720p/chunklist.m3u8
@@ -99,6 +101,8 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1791784311.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV VIDEOS News
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record News
+https://d2onzzjj60kwf4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nv20c2esh4tz7-v2-prod/rnw/rn/rnw_rn.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
