@@ -356,6 +356,10 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1052696223.m3u8
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944972315.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cine Tv Hits
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cindie Lite
+https://stream.ads.ottera.tv/cl/230903cjqdh80gv6th15ctkmk0/1280x720_3071200_0_f.m3u8?i=475_1310
+#EXTINF:0 type="stream" channelId="-1", Bah TV
+https://tv02.zas.media:1936/bahtv/bahtv/chunklist_w1240369483.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Disney Channel HD+
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16713
