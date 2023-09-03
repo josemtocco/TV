@@ -10,6 +10,31 @@ http://cdn.xcore.ca:80/m19efm/bhqloh/61
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBT RS
+https://ythlsgo.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBT RJ HD
+https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBT SP HD
+https://simulcast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/2402654f-e16b-4f35-ab84-87088eeb2397/4.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBT Internacional
+https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
+TINF:0 type="stream" channelId="-1", SBT Canal da Praça
+https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Record Tv SP HD
+http://superblazertop.com.br.global.prod.fastly.net/live/record/play2.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Band
+http://superblazertop.com.br.global.prod.fastly.net/live/band/play2.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Globo SP HD
+http://superblazertop.com.br.global.prod.fastly.net/live/globo/play2.m3u8
+#EXTINF:0 type="stream" channelId="-1", Globo BA HD
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+#EXTINF:0 type="stream" channelId="-1", Globo SC HD
+http://191.37.250.169:8801/live/NSC/720p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Globo SP HD
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
@@ -46,6 +71,12 @@ https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w542222955.m3u8
 
 #EXTINF:0 type="stream" channelId="2035", Love Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:0 type="stream" channelId="-1", Animais
+https://i.mjh.nz/PlutoTV/6474aa984cfc2c0008883a92-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1", Natureza
+https://i.mjh.nz/PlutoTV/5f1213ba0ecebc00070e170f-alt.m3u8
+#EXTINF:0 type="stream" channelId="2035", Nature Time
+https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist1080-p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rakuten-documentaries
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", Rakuten Family (PT)
@@ -58,21 +89,36 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF:0 type="stream" channelId="-1", Jovem Pan News
+http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", 24 Horas News
+http://cdn.connectbr.com.br/24_news/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record News
 http://pfsv.io:80/Silviopaz/pandora/511.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record News
+https://d2onzzjj60kwf4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nv20c2esh4tz7-v2-prod/rnw/rn/rnw_rn.m3u8
 #EXTINF:0 type="stream" channelId="-1", Band News
 http://pfsv.io:80/Silviopaz/pandora/510.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo News
 http://pfsv.io:80/Silviopaz/pandora/512.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVL News
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1791784311.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV VIDEOS News
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2645", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", SONY ONE EMOCOES
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", SONY SHARK TANK
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Run Time
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=66b9a14e2839b8c1dafbc777691e8c4b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
@@ -99,6 +145,8 @@ http://cdn.connectbr.com.br/Clubinho/index.m3u8
 http://cdn.connectbr.com.br:80/Entretendo/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Entretendo
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BORA FILMES
+http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", BORA FILMES
 http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/63052
 
@@ -173,6 +221,8 @@ https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
 http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", ESFLIX TV
 https://acesso.ecast.site:3186/live/esflixlive.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV PBC
+https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="5102", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -201,6 +251,8 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV A Critica HD
 http://cdn.xcore.ca:80/m19efm/bhqloh/270951
+EXTINF:0 type="stream" channelId="-1", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/480p/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Urban TV Brasil HD
 http://200.194.238.229:8383/live/urbantv/playlist.m3u8
@@ -239,6 +291,17 @@ https://alanza.iptv2022.com/FRONTEIRA_KIDS/index.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", THE FLINTSTONES TV
 https://stmv4.voxtvhd.com.br/flintstones/flintstones/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", TV REGIONAL PAULISTA
+https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",  Vivax TV
+https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",  Discovery Kids
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Disney Chanel
+http://superblazertop.com.br.global.prod.fastly.net/live/disneychannel/play2.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nickleodeon
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Cine Desenhos+
 http://cdn.xcore.ca:80/m19efm/bhqloh/168
