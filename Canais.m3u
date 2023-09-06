@@ -18,7 +18,7 @@ https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 https://simulcast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/2402654f-e16b-4f35-ab84-87088eeb2397/4.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT Internacional
 https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
-TINF:0 type="stream" channelId="-1", SBT Canal da Praça
+#EXTINF:0 type="stream" channelId="-1", SBT Canal da Praça
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Record Tv SP HD
@@ -73,10 +73,9 @@ https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w542222955.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 #EXTINF:0 type="stream" channelId="-1", Animais
 https://i.mjh.nz/PlutoTV/6474aa984cfc2c0008883a92-alt.m3u8
-#EXTINF:0 type="stream" channelId="-1", Natureza
-https://i.mjh.nz/PlutoTV/5f1213ba0ecebc00070e170f-alt.m3u8
-#EXTINF:0 type="stream" channelId="-1, Nature Time
+#EXTINF:0 type="stream" channelId="2035", Nature Time
 https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist1080-p.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Rakuten-documentaries
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", Rakuten Family (PT)
@@ -85,8 +84,6 @@ https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 #EXTINF:0 type="stream" channelId="-1", Toon Goggle HD
 
-#EXTINF:0 type="stream" channelId="-1", TV Jovem Pan News
-http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Jovem Pan News
 https://rumble-foxo.cdn.rumble.cloud/live/41ac4fe/slot-42/mh1t-3oft/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Jovem Pan News
@@ -101,8 +98,6 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1791784311.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV VIDEOS News
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Record News
-https://d2onzzjj60kwf4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nv20c2esh4tz7-v2-prod/rnw/rn/rnw_rn.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
@@ -222,7 +217,7 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Via morena
 https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
-EXTINF:0 type="stream" channelId="-1", Rede Vida
+#EXTINF:0 type="stream" channelId="-1", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/480p/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Urban TV Brasil HD
