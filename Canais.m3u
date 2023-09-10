@@ -37,8 +37,6 @@ http://191.37.250.169:8801/live/NSC/720p.m3u8
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo SP HD
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
-#EXTINF:0 type="stream" channelId="-1", Globo HD
-http://168.205.87.198:8555/live/1437/123456/134.ts
 
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
@@ -103,7 +101,7 @@ https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chun
 #EXTINF:0 type="stream" channelId="-1", TV VIDEOS News
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record News
-https://d2onzzjj60kwf4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nv20c2esh4tz7-v2-prod/rnw/rn/rnw_rn.m3u8
+https://stream.ads.ottera.tv/cl/230910cjv0degv7e9cf23o9ngg/1280x720_3071200_0_f.m3u8?i=475_5431
 
 #EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
