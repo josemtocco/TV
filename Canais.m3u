@@ -5,8 +5,6 @@ http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/568
 http://cdn.xcore.ca:80/m19efm/bhqloh/40673
 #EXTINF:0 type="stream" channelId="-1", TV Cultura
 http://cdn.xcore.ca:80/m19efm/bhqloh/61
-#EXTINF:0 type="stream" channelId="-1", TV Cultura SP HD
-https://d1pin3134ri4ue.cloudfront.net/out/v1/7d782712e13148bf966beda0ac08bbe2/index.mpd
 
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -104,8 +102,6 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1791784311.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV VIDEOS News
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Record News
-https://stream.ads.ottera.tv/cl/230910cjv0degv7e9cf23o9ngg/1280x720_3071200_0_f.m3u8?i=475_5431
 #EXTINF:0 type="stream" channelId="-1", Record News RS (TV SIM)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1121778449.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record News
@@ -397,8 +393,6 @@ http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88967
 #EXTINF:0 type="stream" channelId="-1", CINE SUCESSOS
 http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88964
 
-#EXTINF:0 type="stream" channelId="-1", TV A Critica HD
-http://cdn.xcore.ca:80/m19efm/bhqloh/270951
 #EXTINF:0 type="stream" channelId="-1", Cine Pix
 http://cdn.xcore.ca:80/m19efm/bhqloh/206032
 #EXTINF:0 type="stream" channelId="-1", Marvel-Classicos Da Marvel 1
