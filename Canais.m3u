@@ -37,6 +37,11 @@ http://191.37.250.169:8801/live/NSC/720p.m3u8
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo SP HD
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
+#EXTINF:0 type="stream" channelId="-1", Globo Vitoria HD
+http://200.194.238.229:8383/live/globosupernet/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Globo Sorocaba HD
+http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
@@ -108,6 +113,23 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1121778449.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1",  Mega Notícias FHD
 https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", BandNews
+http://cdn2.connectbr.com.br/Band-News/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BandNews
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNN Brasil
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", GloboNews
+http://209.222.97.92:16436/
+#EXTINF:0 type="stream" channelId="-1", Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Jovem Pan News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempanus-rewardedtv/playlist..m3u8
+#EXTINF:0 type="stream" channelId="-1", Record News
+http://cdn.connectbr.com.br/Record-News-HD/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record News ES
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
@@ -298,6 +320,8 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Viva e Eduque
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CineBrasil TV
+https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
