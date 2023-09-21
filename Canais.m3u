@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", TV Cultura HD
-http://supertv.red:80/luiz222/222luiz/101581.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Cultura FHD
-http://supertv.red:80/luiz222/222luiz/389478.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT
@@ -14,8 +9,6 @@ https://ythlsgo.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
 https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT SP HD
 https://simulcast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/2402654f-e16b-4f35-ab84-87088eeb2397/4.m3u8
-#EXTINF:0 type="stream" channelId="-1", SBT FHD
-http://supertv.red:80/luiz222/222luiz/101625.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT Internacional
 https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT Canal da Praça
@@ -23,18 +16,10 @@ https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6c
 
 #EXTINF:0 type="stream" channelId="-1", Record Tv SP HD
 http://superblazertop.com.br.global.prod.fastly.net/live/record/play2.m3u8
-#EXTINF:0 type="stream" channelId="-1", RecordTV RS HD
-http://supertv.red:80/luiz222/222luiz/101856.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Band
 http://superblazertop.com.br.global.prod.fastly.net/live/band/play2.m3u8
-#EXTINF:0 type="stream" channelId="-1", Band RS HD
-http://supertv.red:80/luiz222/222luiz/377080.m3u8
-#EXTINF:0 type="stream" channelId="-1", Band RS FHD
-http://supertv.red:80/luiz222/222luiz/739639.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", Globo SP FHD
-http://supertv.red:80/luiz222/222luiz/101832.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo SP HD
 http://superblazertop.com.br.global.prod.fastly.net/live/globo/play2.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo BA HD
@@ -49,27 +34,6 @@ http://168.205.87.198:8555/live/1052/123456/70.m3u8
 http://200.194.238.229:8383/live/globosupernet/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo Sorocaba HD
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", Globo RBS Poa HD
-http://supertv.red:80/luiz222/222luiz/127509.m3u8
-#EXTINF:0 type="stream" channelId="-1", Globo RBS Poa FHD
-http://supertv.red:80/luiz222/222luiz/127508.m3u8
-#EXTINF:0 type="stream" channelId="-1", RBS TV Passo Fundo HD
-http://supertv.red:80/luiz222/222luiz/101658.m3u8
-#EXTINF:0 type="stream" channelId="-1", RBS TV Passo Fundo FHD
-http://supertv.red:80/luiz222/222luiz/101659.m3u8
-#EXTINF:0 type="stream" channelId="-1", RBS TV Santa Maria HD
-http://supertv.red:80/luiz222/222luiz/101681.m3u8
-#EXTINF:0 type="stream" channelId="-1", RBS TV Santa Maria FHD
-http://supertv.red:80/luiz222/222luiz/101680.m3u8
-#EXTINF:0 type="stream" channelId="-1",RBS TV Pelotas HD
-http://supertv.red:80/luiz222/222luiz/684200.m3u8
-#EXTINF:0 type="stream" channelId="-1", RBS TV Pelotas FHD
-http://supertv.red:80/luiz222/222luiz/101665.m3u8
-#EXTINF:0 type="stream" channelId="-1", RBS TV Caxias Do Sul HD
-http://supertv.red:80/luiz222/222luiz/133359.m3u8
-#EXTINF:0 type="stream" channelId="-1", RBS TV Caxias Do Sul FHD
-http://supertv.red:80/luiz222/222luiz/133360.m3u8
 
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
@@ -348,8 +312,6 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Viva e Eduque
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", CineBrasil TV
-https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
