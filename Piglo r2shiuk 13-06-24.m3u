@@ -874,17 +874,17 @@ http://r2.shiuk.re:80/69754976130845/032588487154/54102.m3u8
 http://r2.shiuk.re:80/69754976130845/032588487154/54103.m3u8
 #EXTINF:-1 tvg-id="Globo RBS TV Caxias do Sul SD" tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="GLOBO",Globo RBS TV Caxias do Sul FHD
 http://r2.shiuk.re:80/69754976130845/032588487154/54104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="GLOBO",Globo RBS TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="RBS",Globo RBS TV FHD
 http://r2.shiuk.re:80/69754976130845/032588487154/54105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="GLOBO",Globo RBS TV Pelotas HD
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="RBS",Globo RBS TV Pelotas HD
 http://r2.shiuk.re:80/69754976130845/032588487154/54106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="GLOBO",Globo RBS TV POA FHD
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="RBS",Globo RBS TV POA FHD
 http://r2.shiuk.re:80/69754976130845/032588487154/54107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="GLOBO",Globo RBS TV POA HD
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="RBS",Globo RBS TV POA HD
 http://r2.shiuk.re:80/69754976130845/032588487154/54108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="GLOBO",Globo RBS TV POA SD
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="RBS",Globo RBS TV POA SD
 http://r2.shiuk.re:80/69754976130845/032588487154/54109.m3u8
-#EXTINF:-1 tvg-id="Globo RBS TV Santa Maria SD" tvg-name="Globo RBS TV Santa Maria FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="GLOBO",Globo RBS TV Santa Maria FHD
+#EXTINF:-1 tvg-id="Globo RBS TV Santa Maria SD" tvg-name="Globo RBS TV Santa Maria FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="RBS",Globo RBS TV Santa Maria FHD
 http://r2.shiuk.re:80/69754976130845/032588487154/54110.m3u8
 #EXTINF:-1 tvg-id="Globo Inter TV Alto Litoral FHD" tvg-name="Globo RJ Alto Litoral HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="GLOBO",Globo RJ Alto Litoral HD
 http://r2.shiuk.re:80/69754976130845/032588487154/170952.m3u8
