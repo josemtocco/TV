@@ -12,33 +12,30 @@ https://ythlsgo.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
 https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT SP HD
 https://simulcast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/2402654f-e16b-4f35-ab84-87088eeb2397/4.m3u8
-#EXTINF:0 type="stream" channelId="-1", SBT Internacional
-https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT Canal da Praça
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", Record Tv SP HD
-http://superblazertop.com.br.global.prod.fastly.net/live/record/play2.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record Tv
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", Record Tv (NDTV Florianópolis)
+https://caikron.com.br:19360/floripa/floripa.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", Band
-http://superblazertop.com.br.global.prod.fastly.net/live/band/play2.m3u8
+#EXTINF:0 type="stream" channelId="-1", Band PA
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8
+#EXTINF:0 type="stream" channelId="-1", Band TV
+http://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Band Minas
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", Globo SP HD
-http://superblazertop.com.br.global.prod.fastly.net/live/globo/play2.m3u8
-#EXTINF:0 type="stream" channelId="-1", Globo BA HD
-https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
-#EXTINF:0 type="stream" channelId="-1", Globo SC HD
-http://191.37.250.169:8801/live/NSC/720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo SP HD
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo SP HD
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
-#EXTINF:0 type="stream" channelId="-1", Globo Vitoria HD
-http://200.194.238.229:8383/live/globosupernet/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo Sorocaba HD
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", RedeTV!
+https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
@@ -186,24 +183,12 @@ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 https://stmv1.srvif.com/canal29/canal29/chunklist_w600857113.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Gallo HD
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8?ROGERIOTORRES
-#EXTINF:0 type="stream" channelId="-1", Channel 1
-https://stmv1.srvif.com/channel1/channel1/chunklist_w192471995.m3u8
-#EXTINF:0 type="stream" channelId="-1", CINEPIX
-https://stmv1.srvif.com/channel1/channel1/chunklist_w1851422607.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede TV Sul
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
 #EXTINF:0 type="stream" channelId="-1", CineLivre
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1", CineLivre 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1", Carioca Net
-https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/chunklist_w522912978.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Sonata
-https://stmv1.srvstm.com/tiago4617/tiago4617/chunklist_w1454621499.m3u8
-#EXTINF:0 type="stream" channelId="-1", ISTV
-https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", WEB TVCINE
-https://stmv1.srvif.com/channel1/channel1/chunklist_w1943440238.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Top Mix Filmes
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w333847997.m3u8
 #EXTINF:0 type="stream" channelId="-1", Petlovers TV
@@ -235,6 +220,8 @@ https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist_w482134537.m3u8
 https://tvaovivo.sites.ufsc.br/hls/1_hi.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVE MS
 http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Brasil Central TBC
+https://tbc.zoeweb.tv:443/tbc/tbc/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV Gazeta
 https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w767522095.m3u8
@@ -280,8 +267,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", THE FLINTSTONES TV
-https://stmv4.voxtvhd.com.br/flintstones/flintstones/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV REGIONAL PAULISTA
 https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
@@ -297,11 +282,15 @@ http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", TV Liberdade
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", Tooncast
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Zoomoo
+https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Comédia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", MULTISHOW FULLHD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31617
+#EXTINF:0 type="stream" channelId="-1", CineBrasil TV
+https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", FUTURA
 http://168.205.87.198:8555/live/1438/123456/67.ts
@@ -313,8 +302,6 @@ https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8?ROGERIOT
 http://cdn.connectbr.com.br/h2/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", AmazonSat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", BraziTV
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
 #EXTINF:0 type="stream" channelId="-1", Viajando Pelo Brasil
@@ -352,10 +339,6 @@ https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova TV Regional
 http://187.95.95.241:7988/regional/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede UTV Brasil
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", D+ TV
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", OX TV
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Livre TV
@@ -364,18 +347,14 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1100067141.m3
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
 #EXTINF:0 type="stream" channelId="-1", Central TV
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w772275062.m3u8
-#EXTINF:0 type="stream" channelId="-1", ULB TV
-https://video01.kshost.com.br/alan4876/alan4876/chunklist_w1683136967.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV RBC
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", NGT
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", NBT
+https://isaocorp.cloudecast.com/nbt/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Vila TV
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u8
-#EXTINF:0 type="stream" channelId="-1", TeleWeb TV
-https://video01.kshost.com.br/acessweb7837/acessweb7837/chunklist_w1766179938.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Chroma
-https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1", Xtreme TV
@@ -384,8 +363,6 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1052696223.m3u8
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944972315.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cine Tv Hits
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
-#EXTINF:0 type="stream" channelId="-1", Cindie Lite
-https://stream.ads.ottera.tv/cl/230903cjqdh80gv6th15ctkmk0/1280x720_3071200_0_f.m3u8?i=475_1310
 #EXTINF:0 type="stream" channelId="-1", Bah TV
 https://tv02.zas.media:1936/bahtv/bahtv/chunklist_w1240369483.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Diário
@@ -393,23 +370,12 @@ https://d1zpubcqwsvgqw.cloudfront.net/out/v1/d33c00c8ecbe4aa9b7e834e607fbbacb/in
 
 #EXTINF:0 type="stream" channelId="-1", Disney Channel HD+
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16713
-#EXTINF:0 type="stream" channelId="-1", Nickelodeon HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16745
-#EXTINF:0 type="stream" channelId="-1", Cartoon Network HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36055
 #EXTINF:0 type="stream" channelId="-1", Cartoonito HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16699
 #EXTINF:0 type="stream" channelId="-1", TRAVEL BOX BRAZIL
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36031
-#EXTINF:0 type="stream" channelId="-1", Modo Viagem
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16737
 #EXTINF:0 type="stream" channelId="-1", ANIMAL PLANET HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16693
-
-#EXTINF:0 type="stream" channelId="-1", TRAVEL BOX BRAZIL
-http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/884
-#EXTINF:0 type="stream" channelId="-1", Modo Viagem
-http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/85999
 
 #EXTINF:0 type="stream" channelId="-1", CINE DISNEY
 http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88963
