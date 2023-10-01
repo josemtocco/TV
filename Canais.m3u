@@ -19,6 +19,8 @@ https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6c
 
 #EXTINF:0 type="stream" channelId="-1", Record Tv SP HD
 http://superblazertop.com.br.global.prod.fastly.net/live/record/play2.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record Tv
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:0 type="stream" channelId="-1", Band
 http://superblazertop.com.br.global.prod.fastly.net/live/band/play2.m3u8
@@ -108,6 +110,8 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1121778449.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1",  Mega Notícias FHD
 https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Reuters HD
+https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:0 type="stream" channelId="-1", BandNews
 http://cdn2.connectbr.com.br/Band-News/index.m3u8
@@ -212,6 +216,8 @@ https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
 https://acesso.ecast.site:3186/live/esflixlive.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV PBC
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Polidoro TV
+https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:0 type="stream" channelId="5102", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -287,6 +293,10 @@ https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 http://superblazertop.com.br.global.prod.fastly.net/live/disneychannel/play2.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nickleodeon
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Foxkids
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", TV Liberdade
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:0 type="stream" channelId="-1", Comédia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
@@ -409,47 +419,6 @@ http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88966
 http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88967
 #EXTINF:0 type="stream" channelId="-1", CINE SUCESSOS
 http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88964
-
-#EXTINF:0 type="stream" channelId="-1", Cine Pix
-http://cdn.xcore.ca:80/m19efm/bhqloh/206032
-#EXTINF:0 type="stream" channelId="-1", Marvel-Classicos Da Marvel 1
-http://cdn.xcore.ca:80/m19efm/bhqloh/231654
-#EXTINF:0 type="stream" channelId="-1", Marvel-Classicos Da Marvel 2
-http://cdn.xcore.ca:80/m19efm/bhqloh/231655
-#EXTINF:0 type="stream" channelId="-1", Cine Desenhos+
-http://cdn.xcore.ca:80/m19efm/bhqloh/168
-#EXTINF:0 type="stream" channelId="-1", Cine Infantil
-http://cdn.xcore.ca:80/m19efm/bhqloh/227741
-#EXTINF:0 type="stream" channelId="-1", Desenhos Disney
-http://cdn.xcore.ca:80/m19efm/bhqloh/227743
-#EXTINF:0 type="stream" channelId="-1", DreamWorks HD
-http://cdn.xcore.ca:80/m19efm/bhqloh/267003
-#EXTINF:0 type="stream" channelId="-1", Pernalonga
-http://cdn.xcore.ca:80/m19efm/bhqloh/24590
-#EXTINF:0 type="stream" channelId="-1", Detetives do Predio Azul
-http://cdn.xcore.ca:80/m19efm/bhqloh/213926
-#EXTINF:0 type="stream" channelId="-1", 24H Cine Kids
-http://cdn.xcore.ca:80/m19efm/bhqloh/232500
-#EXTINF:0 type="stream" channelId="-1", Desenhos Clássicos
-http://cdn.xcore.ca:80/m19efm/bhqloh/227742
-#EXTINF:0 type="stream" channelId="-1", Fábulas da Disney
-http://cdn.xcore.ca:80/m19efm/bhqloh/231575
-#EXTINF:0 type="stream" channelId="-1", DuckTales: Os Caçadores de Aventuras
-http://cdn.xcore.ca:80/m19efm/bhqloh/38038
-#EXTINF:0 type="stream" channelId="-1", Scooby Doo
-http://cdn.xcore.ca:80/m19efm/bhqloh/38073
-#EXTINF:0 type="stream" channelId="-1",Tico e Teco
-http://cdn.xcore.ca:80/m19efm/bhqloh/37993
-#EXTINF:0 type="stream" channelId="-1", Timão e Pumba
-http://cdn.xcore.ca:80/m19efm/bhqloh/21099
-#EXTINF:0 type="stream" channelId="-1", Tom e Jerry
-http://cdn.xcore.ca:80/m19efm/bhqloh/22584
-#EXTINF:0 type="stream" channelId="-1", Turma da Mônica
-http://cdn.xcore.ca:80/m19efm/bhqloh/38072
-#EXTINF:0 type="stream" channelId="-1", Capitão Caverna
-http://cdn.xcore.ca:80/m19efm/bhqloh/231685
-#EXTINF:0 type="stream" channelId="-1", Marvel Desenho
-http://cdn.xcore.ca:80/m19efm/bhqloh/231624
 
 #EXTINF:0 type="stream" channelId="-1", ag
 http://joao-1-us.mainbkonline.shop:80/c59wdgtv/eycxo6dc/83241
