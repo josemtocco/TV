@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", TV Cultura
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1550634079.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT
