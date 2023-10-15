@@ -20,16 +20,28 @@ https://caikron.com.br:19360/floripa/floripa.m3u8
 http://168.205.87.198:8555/live/1438/123456/96.ts
 #EXTINF:0 type="stream" channelId="-1", RECORDTV  RJ HD
 http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31566.ts
+#EXTINF:0 type="stream" channelId="-1", RECORD RS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31567
 
 #EXTINF:0 type="stream" channelId="-1", Band
 http://168.205.87.198:8555/live/1438/123456/19.ts
 #EXTINF:0 type="stream" channelId="-1", Band SP HD
 http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/16697.ts
+#EXTINF:0 type="stream" channelId="-1", Band SP HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16697
 
+#EXTINF:0 type="stream" channelId="-1", GLOBO³ PORTO ALEGRE FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32247
+#EXTINF:0 type="stream" channelId="-1", GLOBO PORTO ALEGRE FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32298
+#EXTINF:0 type="stream" channelId="-1", GLOBO PORTO ALEGRE HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32304
 #EXTINF:0 type="stream" channelId="-1", GLOBO RJ HD
 http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/16729.ts
 #EXTINF:0 type="stream" channelId="-1", GLOBO SP HD
 http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/16730.ts
+#EXTINF:0 type="stream" channelId="-1", GLOBO³ FULLHD SP H.265
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32216
 #EXTINF:0 type="stream" channelId="-1", Globo Minas HD
 http://168.205.87.198:8555/live/1438/123456/70.ts
 #EXTINF:0 type="stream" channelId="-1", Globo SP HD
@@ -38,6 +50,9 @@ https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo Sorocaba HD
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", TV Cultura
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31083
 
 #EXTINF:0 type="stream" channelId="-1", RedeTV!
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8
