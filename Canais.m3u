@@ -16,7 +16,14 @@ https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6c
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", Record Tv (NDTV Florianópolis)
 https://caikron.com.br:19360/floripa/floripa.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record Minas
+http://168.205.87.198:8555/live/1438/123456/96.ts
 
+#EXTINF:0 type="stream" channelId="-1", Band
+http://168.205.87.198:8555/live/1438/123456/19.ts
+
+#EXTINF:0 type="stream" channelId="-1", Globo minas
+http://168.205.87.198:8555/live/1438/123456/70.ts
 #EXTINF:0 type="stream" channelId="-1", Globo SP HD
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo SP HD
@@ -79,6 +86,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 https://rumble-foxo.cdn.rumble.cloud/live/41ac4fe/slot-42/mh1t-3oft/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Jovem Pan News
 https://rumble-foxo.cdn.rumble.cloud/live/41ac4fe/slot-42/mh1t-3oft_720p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Jovem Pan News
+http://168.205.87.198:8555/live/1438/123456/161.ts
 #EXTINF:0 type="stream" channelId="-1", 24 Horas News
 http://cdn.connectbr.com.br/24_news/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", CNN Brasil
@@ -95,6 +104,8 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1121778449.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1", Record News
+http://168.205.87.198:8555/live/1438/123456/97.ts
 #EXTINF:0 type="stream" channelId="-1",  Mega Notícias FHD
 https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Reuters HD
