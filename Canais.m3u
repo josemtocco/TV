@@ -21,6 +21,8 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31567
 
 #EXTINF:0 type="stream" channelId="-1", Band
 http://168.205.87.198:8555/live/1438/123456/19.ts
+#EXTINF:0 type="stream" channelId="-1", Band
+https://streaming.gruporba.com.br/rba.m3u8
 #EXTINF:0 type="stream" channelId="-1", Band SP HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16697
 
@@ -38,6 +40,10 @@ http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/16730.ts
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32216
 #EXTINF:0 type="stream" channelId="-1", Globo Minas HD
 http://168.205.87.198:8555/live/1438/123456/70.ts
+#EXTINF:0 type="stream" channelId="-1", Globo Bahia HD
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+#EXTINF:0 type="stream" channelId="-1", Globo SC HD
+http://191.37.250.169:8801/live/NSC/720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo SP HD
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo SP HD
@@ -50,6 +56,9 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31083
 
 #EXTINF:0 type="stream" channelId="-1", RedeTV!
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", TV a Crítica
+https://ythlsgo.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
