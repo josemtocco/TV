@@ -57,9 +57,6 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31083
 #EXTINF:0 type="stream" channelId="-1", RedeTV!
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", TV a Crítica
-https://ythlsgo.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
-
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
 #EXTINF:0 type="stream" channelId="2628", TVE
