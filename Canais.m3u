@@ -125,6 +125,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980
 #EXTINF:0 type="stream" channelId="-1", Record News
 http://168.205.87.198:8555/live/1438/123456/97.ts
 
+#EXTINF:0 type="stream" channelId="-1", Record News
+https://stream.broadpeak.io/9978b7063e297d842c230b731e04e713/rnw/rn/rnw_rn_720p_high.m3u8?mm_sp&bpkio_sessionid=10e0f66f84-10210a23-8164-4234-abcd-651db0f240f5&bpkio_serviceid=9978b7063e297d842c230b731e04e713&category=all
+#EXTINF:0 type="stream" channelId="-1", H+
+https://cdn-2.nxplay.com.br/PLAYOUT_02_HMAIS/tracks-v1a1/mono.m3u8?token=48dd4104f79265c16b1a6556adc9ed372bd7903c-57ae361d4e3866c4b2123eb2e549f80c-1700309703-1700266503
+#EXTINF:0 type="stream" channelId="-1", DCPC
+https://cdn-2.nxplay.com.br/dcpc/tracks-v1a1/mono.m3u8?token=c490170a47f5ee3415fef51fd8fc97ba0f734cb0-c5cea7d0cc9f928eb59df24c673f8d2f-1700309703-1700266503
+#EXTINF:0 type="stream" channelId="-1", Cartoon Classics
+https://c-01-sp.nxtv.com.br/bpk-token/1aa@t1x0xsgk5k5kk2samv4qppvpf324v4vutn0jzbca/d/3DP9L4XWCC6TC4DIG5D5/hls3/now,-1m/0000000000020100/0000000000010200/m.m3u8?mm_sp&bpkio_sessionid=10e0f66f84-d144c3e5-52cb-4f22-97be-25c76fc9f013&bpkio_serviceid=9978b7063e297d847535e40753f7f427&category=all
+#EXTINF:0 type="stream" channelId="-1", Viajar
+https://c-01-sp.nxtv.com.br/bpk-token/1aa@m3bib21rhafqptvwg4jocdqcyhlpaka5mlm1ppda/d/EVM2FP5YF4SHU0VP5RMO/hls3/now,-1m/0000000000020100/0000000000010200/m.m3u8?mm_sp&bpkio_sessionid=10d0c77e87-ef1c9cf4-a9cc-4a92-978a-92e35497acdd&bpkio_serviceid=9978b7063e297d84084d24c0cbdb5351&category=all
+#EXTINF:0 type="stream" channelId="-1", HTO Filmes
+https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?token=6463f01fc2a158c41d0902a49fd03deb1514ff59-788c0e569277a1e1110e1ebf64bdaa5c-1700309703-1700266503
+#EXTINF:0 type="stream" channelId="-1",
+
 #EXTINF:0 type="stream" channelId="-1", BandNews
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", GloboNews
