@@ -128,21 +128,23 @@ http://168.205.87.198:8555/live/1438/123456/97.ts
 #EXTINF:0 type="stream" channelId="-1", Record News
 https://stream.broadpeak.io/9978b7063e297d842c230b731e04e713/rnw/rn/rnw_rn_720p_high.m3u8?mm_sp&bpkio_sessionid=10e0f66f84-10210a23-8164-4234-abcd-651db0f240f5&bpkio_serviceid=9978b7063e297d842c230b731e04e713&category=all
 #EXTINF:0 type="stream" channelId="-1", CNN Brasil
-https://r-br.nxtv.com.br/CNN_BR/index.m3u8?token=f125a9f20a8e95c09a9cce4053a51ae4190c5ac7-8391365bcb46b51d2869e159f846b129-1700311379-1700268179
+https://c-01-sp.nxtv.com.br/bpk-token/1aa@0501coyvlplyb2vjy50dhvxf2q4x4wqd0jxim3aa/CNN_BR/tracks-v1a1/mono.m3u8?mm_sp&bpkio_sessionid=10a0d40f198-59416919-a797-4aae-83af-8dada082908f&bpkio_serviceid=9978b7063e297d84d259ee44440d9994&category=all
 #EXTINF:0 type="stream" channelId="-1", H+
 https://cdn-2.nxplay.com.br/PLAYOUT_02_HMAIS/tracks-v1a1/mono.m3u8?token=48dd4104f79265c16b1a6556adc9ed372bd7903c-57ae361d4e3866c4b2123eb2e549f80c-1700309703-1700266503
 #EXTINF:0 type="stream" channelId="-1", DCPC
 https://cdn-2.nxplay.com.br/dcpc/tracks-v1a1/mono.m3u8?token=c490170a47f5ee3415fef51fd8fc97ba0f734cb0-c5cea7d0cc9f928eb59df24c673f8d2f-1700309703-1700266503
 #EXTINF:0 type="stream" channelId="-1", Cartoon Classics
-https://c-01-sp.nxtv.com.br/bpk-token/1aa@t1x0xsgk5k5kk2samv4qppvpf324v4vutn0jzbca/d/3DP9L4XWCC6TC4DIG5D5/hls3/now,-1m/0000000000020100/0000000000010200/m.m3u8?mm_sp&bpkio_sessionid=10e0f66f84-d144c3e5-52cb-4f22-97be-25c76fc9f013&bpkio_serviceid=9978b7063e297d847535e40753f7f427&category=all
+https://c-01-sp.nxtv.com.br/bpk-token/1aa@rbn1qzwmundg1tzy3gru10wbtnmi1gmwrxai4kca/d/3DP9L4XWCC6TC4DIG5D5/hls3/now,-1m/0000000000030100/0000000000010200/m.m3u8?mm_sp&bpkio_sessionid=10a0d40f198-168b8cc2-1040-4049-92f9-0b2fc768f5fa&bpkio_serviceid=9978b7063e297d847535e40753f7f427&category=all
 #EXTINF:0 type="stream" channelId="-1", Viajar
-https://c-01-sp.nxtv.com.br/bpk-token/1aa@m3bib21rhafqptvwg4jocdqcyhlpaka5mlm1ppda/d/EVM2FP5YF4SHU0VP5RMO/hls3/now,-1m/0000000000020100/0000000000010200/m.m3u8?mm_sp&bpkio_sessionid=10d0c77e87-ef1c9cf4-a9cc-4a92-978a-92e35497acdd&bpkio_serviceid=9978b7063e297d84084d24c0cbdb5351&category=all
+https://c-01-sp.nxtv.com.br/bpk-token/1aa@vdnn5muluv3tbzqyer135004zi3il1hdvva4r5aa/d/EVM2FP5YF4SHU0VP5RMO/hls3/now,-1m/0000000000030100/0000000000010200/m.m3u8?mm_sp&bpkio_sessionid=10a0d40f198-8a97c32c-d7c7-4a59-aaf7-34d51101c4dd&bpkio_serviceid=9978b7063e297d84084d24c0cbdb5351&category=all
 #EXTINF:0 type="stream" channelId="-1", HTO Filmes
-https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?token=6463f01fc2a158c41d0902a49fd03deb1514ff59-788c0e569277a1e1110e1ebf64bdaa5c-1700309703-1700266503
+https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?token=d118b1c5bf32c80832bfea61982bf08b209b3b78-8174854dc4614a734908f3abc41f9ce6-1700626435-1700583235
 #EXTINF:0 type="stream" channelId="-1", Europa Filmes
-https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8?token=c3c046b9fad24b46d8f820f326fe267750a3c43c-0f454d7b1b295f187feff74e0d884b07-1700310810-1700267610
+https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8?token=3235132b7e58085edc58cb53280784ceeaa81c8e-14184f26a97939c8d86225dc9dc30eec-1700712430-1700669230
+#EXTINF:0 type="stream" channelId="-1", Heritage +
+https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/testy_sofast/8b700012-c661-4ab2-93bd-6986a4b394b6/1.m3u8
 #EXTINF:0 type="stream" channelId="-1", Play TV
-https://cdn-2.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8?token=2470f43ca7441b4a832f03cd8fd1fab9ab827c84-633c6a720de12542839b372a0555152e-1700310810-1700267610
+https://cdn-2.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8?appname=SOPLAY_ROKU&buid=f33824f666e10fcb705ffa7ac8ec1607&ctid=soplay&ifa=$arg_ifa&srl=https%3A%2F%2Fchannelstore.roku.com%2Fpt-br%2Fdetails%2Ff33824f666e10fcb705ffa7ac8ec1607%2Fsoplay&token=753acf916d80122657b450c061a9feb6b8859440-666feb028bbc47e9b59c628ccefc3a05-1700621882-1700611082&uid=$arg_uid
 
 #EXTINF:0 type="stream" channelId="-1", BandNews
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
