@@ -134,17 +134,20 @@ https://cdn-2.nxplay.com.br/PLAYOUT_02_HMAIS/tracks-v1a1/mono.m3u8?token=48dd410
 #EXTINF:0 type="stream" channelId="-1", DCPC
 https://cdn-2.nxplay.com.br/dcpc/tracks-v1a1/mono.m3u8?token=c490170a47f5ee3415fef51fd8fc97ba0f734cb0-c5cea7d0cc9f928eb59df24c673f8d2f-1700309703-1700266503
 #EXTINF:0 type="stream" channelId="-1", Cartoon Classics
-https://c-01-sp.nxtv.com.br/bpk-token/1aa@rbn1qzwmundg1tzy3gru10wbtnmi1gmwrxai4kca/d/3DP9L4XWCC6TC4DIG5D5/hls3/now,-1m/0000000000030100/0000000000010200/m.m3u8?mm_sp&bpkio_sessionid=10a0d40f198-168b8cc2-1040-4049-92f9-0b2fc768f5fa&bpkio_serviceid=9978b7063e297d847535e40753f7f427&category=all
+https://c-01-sp.nxtv.com.br/bpk-token/1aa@rp0rkwwqjhkzkojgw1w1hudvmn2tousvrzxcefca/d/3DP9L4XWCC6TC4DIG5D5/hls3/now,-1m/0000000000030100/0000000000010200/m.m3u8?mm_sp&bpkio_sessionid=10f0b32c26-fff0b238-1528-43ca-a04f-2693ce7a2ba4&bpkio_serviceid=9978b7063e297d847535e40753f7f427&category=all
 #EXTINF:0 type="stream" channelId="-1", Viajar
-https://c-01-sp.nxtv.com.br/bpk-token/1aa@vdnn5muluv3tbzqyer135004zi3il1hdvva4r5aa/d/EVM2FP5YF4SHU0VP5RMO/hls3/now,-1m/0000000000030100/0000000000010200/m.m3u8?mm_sp&bpkio_sessionid=10a0d40f198-8a97c32c-d7c7-4a59-aaf7-34d51101c4dd&bpkio_serviceid=9978b7063e297d84084d24c0cbdb5351&category=all
+https://c-01-sp.nxtv.com.br/bpk-token/1aa@ny43q5if1xd4tdmwlhsci31b5jdwph2hnoto4maa/d/EVM2FP5YF4SHU0VP5RMO/hls3/now,-1m/0000000000030100/0000000000010200/m.m3u8?mm_sp&bpkio_sessionid=10b0f12e18-f6178042-63d7-455d-b81f-99c6969580af&bpkio_serviceid=9978b7063e297d84084d24c0cbdb5351&category=all
 #EXTINF:0 type="stream" channelId="-1", HTO Filmes
 https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?token=d118b1c5bf32c80832bfea61982bf08b209b3b78-8174854dc4614a734908f3abc41f9ce6-1700626435-1700583235
 #EXTINF:0 type="stream" channelId="-1", Europa Filmes
-https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8?token=3235132b7e58085edc58cb53280784ceeaa81c8e-14184f26a97939c8d86225dc9dc30eec-1700712430-1700669230
+https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8?token=37cd0c7df5a49c0495f17b3770b6a54c78ac3db0-1a06b3f712a14e2c3941cbebf28279dd-1702860262-1702817062
 #EXTINF:0 type="stream" channelId="-1", Heritage +
-https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/testy_sofast/8b700012-c661-4ab2-93bd-6986a4b394b6/1.m3u8
+https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/testy_sofast/c9102aa2-895e-447f-90a6-22015add9842/0.m3u8
 #EXTINF:0 type="stream" channelId="-1", Play TV
 https://cdn-2.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8?appname=SOPLAY_ROKU&buid=f33824f666e10fcb705ffa7ac8ec1607&ctid=soplay&ifa=$arg_ifa&srl=https%3A%2F%2Fchannelstore.roku.com%2Fpt-br%2Fdetails%2Ff33824f666e10fcb705ffa7ac8ec1607%2Fsoplay&token=753acf916d80122657b450c061a9feb6b8859440-666feb028bbc47e9b59c628ccefc3a05-1700621882-1700611082&uid=$arg_uid
+#EXTINF:0 type="stream" channelId="-1", Film +Action
+https://cdn-stream.viloud.tv/hls/channel/sep/e50c3bfc4e68fbaedd0c03db08be774d/high.m3u8?mm_sp&bpkio_sessionid=10f0b32c26-fefc9e0b-4c3b-46d1-bd05-1e44939648af&bpkio_serviceid=9978b7063e297d8408697b862c0962b5&token=63657b59d8bae13e37ce70c49dd1ea80e5627a0b-458e23702f3ac90e72af6ea80da8a089-1702860262-1702817062&category=all
+#EXTINF:0 type="stream" channelId="-1", Cartoon Classic
 
 #EXTINF:0 type="stream" channelId="-1", BandNews
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
