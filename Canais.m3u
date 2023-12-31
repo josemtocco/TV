@@ -3,10 +3,6 @@
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", SBT SP HD
-https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd?content_channel_id=12&content_livestream=1
-#EXTINF:0 type="stream" channelId="-1", SBT HD
-https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd
 #EXTINF:0 type="stream" channelId="-1", SBT Central HD
 https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT Canal da Praça
@@ -38,9 +34,6 @@ https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo Sorocaba HD
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", TV Cultura
-https://d3cl2fhxe5yjek.cloudfront.net/out/v1/60730e40f6d142f19428f0adaf64658d/index.mpd
 
 #EXTINF:0 type="stream" channelId="-1", RedeTV!
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8
@@ -80,7 +73,7 @@ https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w542222955.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 #EXTINF:0 type="stream" channelId="-1", Animais
 https://i.mjh.nz/PlutoTV/16474aa984cfc2c0008883a92-alt.m3u8
-#EXTINF:0 type="stream" channelId="-1", Natureza
+#EXTINF:0 type="stream" channelId="-1", Love Nature
 https://i.mjh.nz/PlutoTV/15f1213ba0ecebc00070e170f-alt.m3u8
 #EXTINF:0 type="stream" channelId="-1", Documentários
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -115,7 +108,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980
 #EXTINF:0 type="stream" channelId="-1", Record News
 http://168.205.87.198:8555/live/1438/123456/97.ts
 #EXTINF:0 type="stream" channelId="-1", Canal UOL
-https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
+https://i.mjh.nz/PlutoTV/164b9370b409629000802d32b-alt.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sou Notícia
 https://stmv1.paineltv.net/neryfm/neryfm/chunklist_w552741943.m3u8
 
