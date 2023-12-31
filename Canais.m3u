@@ -333,6 +333,8 @@ https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
 https://tv02.zas.media:1936/bahtv/bahtv/chunklist_w1240369483.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Diário
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/d33c00c8ecbe4aa9b7e834e607fbbacb/index.mpd
+#EXTINF:0 type="stream" channelId="-1", KE TV
+https://stmv7.samcast.com.br/ketv/ketv/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TRAVEL BOX BRAZIL
 http://cdn-1.nxplay.com.br/TRAVEL_HD/index.m3u8
