@@ -5,9 +5,15 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT SP HD
 https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd?content_channel_id=12&content_livestream=1
+#EXTINF:0 type="stream" channelId="-1", SBT HD
+https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd
+#EXTINF:0 type="stream" channelId="-1", SBT Central HD
+https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT Canal da Praça
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
+#EXTINF:0 type="stream" channelId="-1", Record Paulista Tv
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record Tv
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", Record Tv (NDTV Florianópolis)
@@ -20,6 +26,8 @@ http://168.205.87.198:8555/live/1438/123456/19.ts
 #EXTINF:0 type="stream" channelId="-1", Band
 https://streaming.gruporba.com.br/rba.m3u8
 
+#EXTINF:0 type="stream" channelId="-1", Globo RJ HD
+https://8mwx.short.gy/GLOBORJ/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo Minas HD
 http://168.205.87.198:8555/live/1438/123456/70.ts
 #EXTINF:0 type="stream" channelId="-1", Globo Bahia HD
@@ -71,7 +79,11 @@ https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w542222955.m3u8
 #EXTINF:0 type="stream" channelId="2035", Love Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 #EXTINF:0 type="stream" channelId="-1", Animais
-https://i.mjh.nz/PlutoTV/6474aa984cfc2c0008883a92-alt.m3u8
+https://i.mjh.nz/PlutoTV/16474aa984cfc2c0008883a92-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1", Natureza
+https://i.mjh.nz/PlutoTV/15f1213ba0ecebc00070e170f-alt.m3u8
+#EXTINF:0 type="stream" channelId="-1", Documentários
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="2035", TV Nature Time
 https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist1080-p.m3u8
 
@@ -81,6 +93,8 @@ https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", TOON GOGGLE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+#EXTINF:0 type="stream" channelId="-1", TOON GOGGLE
+https://stream.ads.ottera.tv/cl/231231cm8p4sn6s3ikib7h7bog/1280x720_3071200_0_f.m3u8?i=475_274
 
 #EXTINF:0 type="stream" channelId="-1", TV Jovem Pan News
 http://168.205.87.198:8555/live/1438/123456/161.ts
@@ -100,6 +114,10 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1", Record News
 http://168.205.87.198:8555/live/1438/123456/97.ts
+#EXTINF:0 type="stream" channelId="-1", Canal UOL
+https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Sou Notícia
+https://stmv1.paineltv.net/neryfm/neryfm/chunklist_w552741943.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Record News
 https://stream.broadpeak.io/9978b7063e297d842c230b731e04e713/rnw/rn/rnw_rn_720p_high.m3u8?mm_sp&bpkio_sessionid=10e0f66f84-10210a23-8164-4234-abcd-651db0f240f5&bpkio_serviceid=9978b7063e297d842c230b731e04e713&category=all
@@ -343,9 +361,18 @@ https://stmv2.srvsh.com.br/tvserraamerica4639/tvserraamerica4639/chunklist.m3u8
 https://stmv7.samcast.com.br/elias7768/elias7768/chunklist_w1858454899.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Metrópolis News
 https://video01.logicahost.com.br/redebemtv/redebemtv/chunklist_w1502134141.m3u8
+#EXTINF:0 type="stream" channelId="-1", RTN TV ( TV A Critica)
+https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", PIX TV
+https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
+#EXTINF:0 type="stream" channelId="-1", Portal H
+https://stmv1.srvif.com/grupohentretenimento/grupohentretenimento/chunklist_w490760853.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TRAVEL BOX BRAZIL
 http://cdn-1.nxplay.com.br/TRAVEL_HD/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1",  Canal Goat
+https://livestream.zazerconer.workers.dev/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", CINE DISNEY
 http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88963
