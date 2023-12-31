@@ -4,7 +4,7 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT SP HD
-https://simulcast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/2402654f-e16b-4f35-ab84-87088eeb2397/4.m3u8
+https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd?content_channel_id=12&content_livestream=1
 #EXTINF:0 type="stream" channelId="-1", SBT Canal da Praça
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
@@ -14,36 +14,16 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?ROGERIOT
 https://caikron.com.br:19360/floripa/floripa.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record Minas
 http://168.205.87.198:8555/live/1438/123456/96.ts
-#EXTINF:0 type="stream" channelId="-1", RECORDTV  RJ HD
-http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/31566.ts
-#EXTINF:0 type="stream" channelId="-1", RECORD RS HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31567
 
 #EXTINF:0 type="stream" channelId="-1", Band
 http://168.205.87.198:8555/live/1438/123456/19.ts
 #EXTINF:0 type="stream" channelId="-1", Band
 https://streaming.gruporba.com.br/rba.m3u8
-#EXTINF:0 type="stream" channelId="-1", Band SP HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16697
 
-#EXTINF:0 type="stream" channelId="-1", GLOBO³ PORTO ALEGRE FULL HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32247
-#EXTINF:0 type="stream" channelId="-1", GLOBO PORTO ALEGRE FULL HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32298
-#EXTINF:0 type="stream" channelId="-1", GLOBO PORTO ALEGRE HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32304
-#EXTINF:0 type="stream" channelId="-1", GLOBO RJ HD
-http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/16729.ts
-#EXTINF:0 type="stream" channelId="-1", GLOBO SP HD
-http://xcui.vitvabc.xyz:8880/live/DQ-NOVO500/ziqDdRRQ6c/16730.ts
-#EXTINF:0 type="stream" channelId="-1", GLOBO³ FULLHD SP H.265
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32216
 #EXTINF:0 type="stream" channelId="-1", Globo Minas HD
 http://168.205.87.198:8555/live/1438/123456/70.ts
 #EXTINF:0 type="stream" channelId="-1", Globo Bahia HD
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
-#EXTINF:0 type="stream" channelId="-1", Globo SC HD
-http://191.37.250.169:8801/live/NSC/720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo SP HD
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo SP HD
@@ -52,7 +32,7 @@ http://168.205.87.198:8555/live/1052/123456/70.m3u8
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV Cultura
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31083
+https://d3cl2fhxe5yjek.cloudfront.net/out/v1/60730e40f6d142f19428f0adaf64658d/index.mpd
 
 #EXTINF:0 type="stream" channelId="-1", RedeTV!
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8
@@ -83,8 +63,6 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/chunklist_w1587811884.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Santa Maria
 https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Nova TV Agrotour
-http://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova TV Agrotour
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Lagoa TV
@@ -118,8 +96,6 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1791784311.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV VIDEOS News
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Record News RS (TV SIM)
-https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1121778449.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1", Record News
@@ -127,27 +103,15 @@ http://168.205.87.198:8555/live/1438/123456/97.ts
 
 #EXTINF:0 type="stream" channelId="-1", Record News
 https://stream.broadpeak.io/9978b7063e297d842c230b731e04e713/rnw/rn/rnw_rn_720p_high.m3u8?mm_sp&bpkio_sessionid=10e0f66f84-10210a23-8164-4234-abcd-651db0f240f5&bpkio_serviceid=9978b7063e297d842c230b731e04e713&category=all
-#EXTINF:0 type="stream" channelId="-1", CNN Brasil
-https://c-01-sp.nxtv.com.br/bpk-token/1aa@0501coyvlplyb2vjy50dhvxf2q4x4wqd0jxim3aa/CNN_BR/tracks-v1a1/mono.m3u8?mm_sp&bpkio_sessionid=10a0d40f198-59416919-a797-4aae-83af-8dada082908f&bpkio_serviceid=9978b7063e297d84d259ee44440d9994&category=all
 #EXTINF:0 type="stream" channelId="-1", H+
 https://cdn-2.nxplay.com.br/PLAYOUT_02_HMAIS/tracks-v1a1/mono.m3u8?token=48dd4104f79265c16b1a6556adc9ed372bd7903c-57ae361d4e3866c4b2123eb2e549f80c-1700309703-1700266503
 #EXTINF:0 type="stream" channelId="-1", DCPC
 https://cdn-2.nxplay.com.br/dcpc/tracks-v1a1/mono.m3u8?token=c490170a47f5ee3415fef51fd8fc97ba0f734cb0-c5cea7d0cc9f928eb59df24c673f8d2f-1700309703-1700266503
-#EXTINF:0 type="stream" channelId="-1", Cartoon Classics
-https://c-01-sp.nxtv.com.br/bpk-token/1aa@rp0rkwwqjhkzkojgw1w1hudvmn2tousvrzxcefca/d/3DP9L4XWCC6TC4DIG5D5/hls3/now,-1m/0000000000030100/0000000000010200/m.m3u8?mm_sp&bpkio_sessionid=10f0b32c26-fff0b238-1528-43ca-a04f-2693ce7a2ba4&bpkio_serviceid=9978b7063e297d847535e40753f7f427&category=all
-#EXTINF:0 type="stream" channelId="-1", Viajar
-https://c-01-sp.nxtv.com.br/bpk-token/1aa@ny43q5if1xd4tdmwlhsci31b5jdwph2hnoto4maa/d/EVM2FP5YF4SHU0VP5RMO/hls3/now,-1m/0000000000030100/0000000000010200/m.m3u8?mm_sp&bpkio_sessionid=10b0f12e18-f6178042-63d7-455d-b81f-99c6969580af&bpkio_serviceid=9978b7063e297d84084d24c0cbdb5351&category=all
-#EXTINF:0 type="stream" channelId="-1", HTO Filmes
 https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?token=d118b1c5bf32c80832bfea61982bf08b209b3b78-8174854dc4614a734908f3abc41f9ce6-1700626435-1700583235
 #EXTINF:0 type="stream" channelId="-1", Europa Filmes
 https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8?token=37cd0c7df5a49c0495f17b3770b6a54c78ac3db0-1a06b3f712a14e2c3941cbebf28279dd-1702860262-1702817062
-#EXTINF:0 type="stream" channelId="-1", Heritage +
-https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/testy_sofast/c9102aa2-895e-447f-90a6-22015add9842/0.m3u8
-#EXTINF:0 type="stream" channelId="-1", Play TV
-https://cdn-2.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8?appname=SOPLAY_ROKU&buid=f33824f666e10fcb705ffa7ac8ec1607&ctid=soplay&ifa=$arg_ifa&srl=https%3A%2F%2Fchannelstore.roku.com%2Fpt-br%2Fdetails%2Ff33824f666e10fcb705ffa7ac8ec1607%2Fsoplay&token=753acf916d80122657b450c061a9feb6b8859440-666feb028bbc47e9b59c628ccefc3a05-1700621882-1700611082&uid=$arg_uid
 #EXTINF:0 type="stream" channelId="-1", Film +Action
 https://cdn-stream.viloud.tv/hls/channel/sep/e50c3bfc4e68fbaedd0c03db08be774d/high.m3u8?mm_sp&bpkio_sessionid=10f0b32c26-fefc9e0b-4c3b-46d1-bd05-1e44939648af&bpkio_serviceid=9978b7063e297d8408697b862c0962b5&token=63657b59d8bae13e37ce70c49dd1ea80e5627a0b-458e23702f3ac90e72af6ea80da8a089-1702860262-1702817062&category=all
-#EXTINF:0 type="stream" channelId="-1", Cartoon Classic
 
 #EXTINF:0 type="stream" channelId="-1", BandNews
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
@@ -223,24 +187,16 @@ https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w33384
 #EXTINF:0 type="stream" channelId="-1", Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
 #EXTINF:0 type="stream" channelId="-1", ABC Brasil
-https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w8261459.m3u8
+https://stmv1.srvstm.com/victor7513/victor7513/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", TV CEI
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV PBC
-https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Polidoro TV
-https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:0 type="stream" channelId="5102", TVE Bahia
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Minas
 http://168.205.87.198:8555/live/1438/123456/101.ts
 #EXTINF:0 type="stream" channelId="2466", TV Brasil
 http://168.205.87.198:8555/live/1438/123456/134.ts
 #EXTINF:0 type="stream" channelId="-1", CaTVE
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Cultura do Pará
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV UFSC
 https://tvaovivo.sites.ufsc.br/hls/1_hi.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVE MS
@@ -292,8 +248,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV REGIONAL PAULISTA
 https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1",  Vivax TV
-https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",  Discovery Kids
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nickleodeon
@@ -320,8 +274,6 @@ http://168.205.87.198:8555/live/1438/123456/165.ts
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="1201", History 2
 http://cdn.connectbr.com.br/h2/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", AmazonSat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
 #EXTINF:0 type="stream" channelId="-1", Viajando Pelo Brasil
@@ -382,12 +334,8 @@ https://tv02.zas.media:1936/bahtv/bahtv/chunklist_w1240369483.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Diário
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/d33c00c8ecbe4aa9b7e834e607fbbacb/index.mpd
 
-#EXTINF:0 type="stream" channelId="-1", Disney Channel HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16713
 #EXTINF:0 type="stream" channelId="-1", TRAVEL BOX BRAZIL
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36031
-#EXTINF:0 type="stream" channelId="-1", ANIMAL PLANET HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16693
+http://cdn-1.nxplay.com.br/TRAVEL_HD/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", CINE DISNEY
 http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88963
