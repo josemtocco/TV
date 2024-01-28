@@ -129,7 +129,7 @@ https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?token=d118b1c5bf32c
 #EXTINF:0 type="stream" channelId="-1", Europa Filmes
 https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8?token=37cd0c7df5a49c0495f17b3770b6a54c78ac3db0-1a06b3f712a14e2c3941cbebf28279dd-1702860262-1702817062
 #EXTINF:0 type="stream" channelId="-1", Film +Action
-https://cdn-stream.viloud.tv/hls/channel/sep/e50c3bfc4e68fbaedd0c03db08be774d/high.m3u8?mm_sp&bpkio_sessionid=10f0b32c26-fefc9e0b-4c3b-46d1-bd05-1e44939648af&bpkio_serviceid=9978b7063e297d8408697b862c0962b5&token=63657b59d8bae13e37ce70c49dd1ea80e5627a0b-458e23702f3ac90e72af6ea80da8a089-1702860262-1702817062&category=all
+https://cdn-stream.viloud.tv/9978b7063e297d8408697b862c0962b5/hls/channel/e50c3bfc4e68fbaedd0c03db08be774d.m3u8?ROGERIOTORRES
 
 #EXTINF:0 type="stream" channelId="-1", BandNews
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
@@ -382,6 +382,9 @@ http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88966
 http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88967
 #EXTINF:0 type="stream" channelId="-1", CINE SUCESSOS
 http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88964
+
+#EXTINF:0 type="stream" channelId="-1", TV Novelas
+https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:0 type="stream" channelId="-1", ag
 http://joao-1-us.mainbkonline.shop:80/c59wdgtv/eycxo6dc/83241
