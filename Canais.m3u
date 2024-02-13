@@ -106,41 +106,20 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
-#EXTINF:0 type="stream" channelId="-1", TVL News
-https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1791784311.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV VIDEOS News
-https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1", Record News
 http://168.205.87.198:8555/live/1438/123456/97.ts
 #EXTINF:0 type="stream" channelId="-1", Canal UOL
-https://i.mjh.nz/PlutoTV/164b9370b409629000802d32b-alt.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Sou Notícia
-https://stmv1.paineltv.net/neryfm/neryfm/chunklist_w552741943.m3u8
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8?ROGERIOTORRES
 
 #EXTINF:0 type="stream" channelId="-1", Record News
 https://stream.broadpeak.io/9978b7063e297d842c230b731e04e713/rnw/rn/rnw_rn_720p_high.m3u8?mm_sp&bpkio_sessionid=10e0f66f84-10210a23-8164-4234-abcd-651db0f240f5&bpkio_serviceid=9978b7063e297d842c230b731e04e713&category=all
-#EXTINF:0 type="stream" channelId="-1", H+
-https://cdn-2.nxplay.com.br/PLAYOUT_02_HMAIS/tracks-v1a1/mono.m3u8?token=48dd4104f79265c16b1a6556adc9ed372bd7903c-57ae361d4e3866c4b2123eb2e549f80c-1700309703-1700266503
-#EXTINF:0 type="stream" channelId="-1", DCPC
-https://cdn-2.nxplay.com.br/dcpc/tracks-v1a1/mono.m3u8?token=c490170a47f5ee3415fef51fd8fc97ba0f734cb0-c5cea7d0cc9f928eb59df24c673f8d2f-1700309703-1700266503
-https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?token=d118b1c5bf32c80832bfea61982bf08b209b3b78-8174854dc4614a734908f3abc41f9ce6-1700626435-1700583235
-#EXTINF:0 type="stream" channelId="-1", Europa Filmes
-https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8?token=37cd0c7df5a49c0495f17b3770b6a54c78ac3db0-1a06b3f712a14e2c3941cbebf28279dd-1702860262-1702817062
-#EXTINF:0 type="stream" channelId="-1", Film +Action
-https://cdn-stream.viloud.tv/9978b7063e297d8408697b862c0962b5/hls/channel/e50c3bfc4e68fbaedd0c03db08be774d.m3u8?ROGERIOTORRES
 
-#EXTINF:0 type="stream" channelId="-1", BandNews
-https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", GloboNews
-http://209.222.97.92:16436/
 #EXTINF:0 type="stream" channelId="-1", Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record News
 http://cdn.connectbr.com.br/Record-News-HD/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Record News ES
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
