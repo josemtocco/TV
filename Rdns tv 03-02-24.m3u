@@ -1815,13 +1815,13 @@ http://rdns.tv:80/zampieri93/4s6x61y2/359066
 http://rdns.tv:80/zampieri93/4s6x61y2/359105
 #EXTINF:-1,Samurai Jack
 http://rdns.tv:80/zampieri93/4s6x61y2/359067
-#EXTINF:-1,SBT Brasília HD
+#EXTINF:-1,SBT Brasília HD group-title="SBT"
 http://rdns.tv:80/zampieri93/4s6x61y2/119054
-#EXTINF:-1,SBT MA HD
+#EXTINF:-1,SBT MA HD group-title="SBT"
 http://rdns.tv:80/zampieri93/4s6x61y2/48952
-#EXTINF:-1,SBT Maranhão HD
+#EXTINF:-1,SBT Maranhão HD group-title="SBT"
 http://rdns.tv:80/zampieri93/4s6x61y2/261942
-#EXTINF:-1,SBT Parana HD
+#EXTINF:-1,SBT Parana HD group-title="SBT"
 http://rdns.tv:80/zampieri93/4s6x61y2/262391
 #EXTINF:-1,SBT Piauí FHD
 http://rdns.tv:80/zampieri93/4s6x61y2/48954
@@ -1837,11 +1837,11 @@ http://rdns.tv:80/zampieri93/4s6x61y2/119052
 http://rdns.tv:80/zampieri93/4s6x61y2/48926
 #EXTINF:-1,SBT SD
 http://rdns.tv:80/zampieri93/4s6x61y2/118499
-#EXTINF:-1,SBT SP FHD
+#EXTINF:-1,SBT SP FHD group-title="SBT"
 http://rdns.tv:80/zampieri93/4s6x61y2/48956
-#EXTINF:-1,SBT SP HD
+#EXTINF:-1,SBT SP HD group-title="SBT"
 http://rdns.tv:80/zampieri93/4s6x61y2/350106
-#EXTINF:-1,SBT SP HD [Alter]
+#EXTINF:-1,SBT SP HD [Alter] group-title="SBT"
 http://rdns.tv:80/zampieri93/4s6x61y2/48928
 #EXTINF:-1,SBT SP SD
 http://rdns.tv:80/zampieri93/4s6x61y2/48957
