@@ -355,6 +355,9 @@ http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/88964
 #EXTINF:0 type="stream" channelId="-1", TV Novelas
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:0 type="stream" channelId="-1", SonY One Emoçoes
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/7d9be0af-c899-47d7-9de9-1c8782325b13/2.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", ag
 http://joao-1-us.mainbkonline.shop:80/c59wdgtv/eycxo6dc/83241
 #EXTINF:0 type="stream" channelId="-1", ag
