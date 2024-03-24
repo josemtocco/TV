@@ -5,6 +5,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBT Rede Massa
+https://d10tspkqgju994.cloudfront.net/out/v1/7d01acad7c474d559689a421c90168db/index.mpd
 #EXTINF:0 type="stream" channelId="-1", SBT Central HD
 https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT Canal da Praça
