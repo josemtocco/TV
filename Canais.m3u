@@ -16,6 +16,8 @@ https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6c
 https://evpp.mm.uol.com.br/cultura3/cultura3.sdp/chunklist_w420074035.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Cultura
 https://evpp.mm.uol.com.br/cultura3/cultura3.sdp/chunklist_w420074035.m3u
+#EXTINF:0 type="stream" channelId="-1", TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 
 #EXTINF:0 type="stream" channelId="-1", Record Paulista Tv
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
@@ -317,6 +319,10 @@ https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
 https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 #EXTINF:0 type="stream" channelId="-1", Portal H
 https://stmv1.srvif.com/grupohentretenimento/grupohentretenimento/chunklist_w490760853.m3u8
+#EXTINF:0 type="stream" channelId="-1", Imperial TV
+https://acesso.ecast.site:3630/live/imperiallive.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESFLIX
+https://host.painelhub.online:3716/hybrid/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", ag
 http://joao-1-us.mainbkonline.shop:80/c59wdgtv/eycxo6dc/83241
