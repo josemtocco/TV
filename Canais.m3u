@@ -13,10 +13,6 @@ https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV Cultura
-https://evpp.mm.uol.com.br/cultura3/cultura3.sdp/chunklist_w420074035.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Cultura
-https://evpp.mm.uol.com.br/cultura3/cultura3.sdp/chunklist_w420074035.m3u
-#EXTINF:0 type="stream" channelId="-1", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 
 #EXTINF:0 type="stream" channelId="-1", Record Paulista Tv
