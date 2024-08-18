@@ -5,9 +5,6 @@ https://video05.logicahost.com.br/augetv/augetv/chunklist_w1286423381.m3u8
 https://video03.logicahost.com.br/dmkidstv/dmkidstv/chunklist_w99939210.m3u8
 #EXTINF:0 type="stream" channelId="-1", KID Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1278714321.m3u8
-#EXTINF:0 type="stream" channelId="-1", Onze News
-https://011news.akamaized.net/011news/011news/chunklist_w105163998.m3u8
-
 
 #EXTINF:0 type="stream" channelId="-1", SBT RS
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
