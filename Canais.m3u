@@ -26,8 +26,8 @@ https://video01.logicahost.com.br/poastreaming/poastreaming/chunklist_w210974970
 #EXTINF:0 type="stream" channelId="-1",TV Euro News Brasil
 https://video01.logicahost.com.br/tveuronews/tveuronews/chunklist_w755535484.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", Brasil News
-https://cdn-5.nxplay.com.br/NEW_BRASIL/tracks-v2a1/mono.m3u8?token=dfc1f410cb77c6f05ef65fe02e1fc07215826ce7-1fd1df1cf650d380f8b14f31ab5d1566-1724029025-1723985825
+#EXTINF:0 type="stream" channelId="-1", SBT
+https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/68db1756-bd5a-417e-bfa1-47526febfc58/6.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", SBT RS
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
