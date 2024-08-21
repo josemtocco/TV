@@ -353,15 +353,11 @@ https://acesso.ecast.site:3630/live/imperiallive.m3u8
 #EXTINF:0 type="stream" channelId="-1", ESFLIX
 https://host.painelhub.online:3716/hybrid/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", ag
-http://joao-1-us.mainbkonline.shop:80/c59wdgtv/eycxo6dc/83241
-#EXTINF:0 type="stream" channelId="-1", ag
-http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/83241
-#EXTINF:0 type="stream" channelId="-1", ag
-http://joao-1-us.mainbkonline.shop:80/c59wdgtv/eycxo6dc/82166
-#EXTINF:0 type="stream" channelId="-1", ag
+#EXTINF:0 type="stream" channelId="-1", ag 1
 http://51.79.39.236:80/gimtquwc/fe2280/604058
-#EXTINF:0 type="stream" channelId="-1", ag
+#EXTINF:0 type="stream" channelId="-1", ag 2
 http://51.79.39.236:80/gimtquwc/fe2280/112114
-#EXTINF:0 type="stream" channelId="-1", ag
+#EXTINF:0 type="stream" channelId="-1", ag 3
 http://bccdn.xyz:80/43250085996/30084475568/83248
+#EXTINF:0 type="stream" channelId="-1", ag 4
+http://cdn.lvbxtv.com:80/play/X_TTOiJFEo6_4w99-tfW8T4ceoLolHeTK6_IBIsqGHXTy2HnFNNVziP3Roa4n7kz
