@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", Cazé TV
-https://dfd7c36b22444b338d40a48628d0ff8f.mediatailor.us-east-1.amazonaws.com/v1/dash/86e0ca1639e63786b645c3182c3728dd0f3f1037/amagi-casetv/exp=1724293560~id=257612669~hmac=bff928f4a99be310bb0e2f7f50e5b286/cd96f60e345f41ada181871cc1502a46/index.mpd?aws.sessionId=edbe36f3-40a6-45ca-9f62-fdc0daa6ad75
-
 #EXTINF:0 type="stream" channelId="-1",Auge TV
 https://video05.logicahost.com.br/augetv/augetv/chunklist_w1286423381.m3u8
 #EXTINF:0 type="stream" channelId="-1", DM Kids TV
