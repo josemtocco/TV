@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",RE Republic
+https://video01.soultv.com.br/republic/republic/chunklist_w380236360.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Folha do Campo
+https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w1945327388.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV O Reporter
+https://stream.uniquetv.com.br/tvoreporter/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1",Auge TV
 https://video05.logicahost.com.br/augetv/augetv/chunklist_w1286423381.m3u8
 #EXTINF:0 type="stream" channelId="-1", DM Kids TV
