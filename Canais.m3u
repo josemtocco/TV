@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",Filmrise
+https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/15c39fe5-e978-4852-9696-d97b0fa4611b/5.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV AM
+https://stmv1.srvsite.com/tvam/tvam/chunklist_w699290462.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede TVS
+https://stmv1.samcast.com.br/ciranodesousacarvalho4922/ciranodesousacarvalho4922/chunklist_w1347783883.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Goitacá
+https://video01.kshost.com.br/david7639/david7639/chunklist_w1446416730.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",RE Republic
 https://video01.soultv.com.br/republic/republic/chunklist_w380236360.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Folha do Campo
