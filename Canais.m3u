@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1",Filmrise
-https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/15c39fe5-e978-4852-9696-d97b0fa4611b/5.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV AM
 https://stmv1.srvsite.com/tvam/tvam/chunklist_w699290462.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede TVS
 https://stmv1.samcast.com.br/ciranodesousacarvalho4922/ciranodesousacarvalho4922/chunklist_w1347783883.m3u8
-#EXTINF:0 type="stream" channelId="-1",TV Goitacá
-https://video01.kshost.com.br/david7639/david7639/chunklist_w1446416730.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",RE Republic
 https://video01.soultv.com.br/republic/republic/chunklist_w380236360.m3u8
@@ -41,9 +37,6 @@ https://video01.logicahost.com.br/poastreaming/poastreaming/chunklist_w210974970
 #EXTINF:0 type="stream" channelId="-1",TV Euro News Brasil
 https://video01.logicahost.com.br/tveuronews/tveuronews/chunklist_w755535484.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", SBT
-https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/68db1756-bd5a-417e-bfa1-47526febfc58/6.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", SBT RS
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT
@@ -52,8 +45,6 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT Rede Massa
 https://d10tspkqgju994.cloudfront.net/out/v1/7d01acad7c474d559689a421c90168db/index.mpd
-#EXTINF:0 type="stream" channelId="-1", SBT Central HD
-https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT Canal da Praça
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 
@@ -64,8 +55,6 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record Tv
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?ROGERIOTORRES
-#EXTINF:0 type="stream" channelId="-1", Record Tv (NDTV Florianópolis)
-https://caikron.com.br:19360/floripa/floripa.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record Minas
 http://168.205.87.198:8555/live/1438/123456/96.ts
 
@@ -77,39 +66,24 @@ https://streaming.gruporba.com.br/rba.m3u8
 #EXTINF:0 type="stream" channelId="-1", Globo Minas HD
 http://168.205.87.198:8555/live/1438/123456/70.ts
 
-#EXTINF:0 type="stream" channelId="-1", RedeTV!
-https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8
-
 #EXTINF:0 type="stream" channelId="2628", Conecta Mais
 https://transcoder7.adyl.net.br/Conecta/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
 #EXTINF:0 type="stream" channelId="2628", TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
-https://video05.logicahost.com.br/tvurbana/tvurbana/chunklist_w1638664372.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
-https://video05.logicahost.com.br/tvurbana/tvurbana/chunklist_w2067212848.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
-https://video05.logicahost.com.br/tvurbana/tvurbana/chunklist_w1042862382.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2613", TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w341711511.m3u8
-#EXTINF:0 type="stream" channelId="-1", RDC TV
-https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/chunklist_w1386424674.m3u8
-#EXTINF:0 type="stream" channelId="-1", Conecta web TV
-http://189.14.239.62:1935/webtv/livestream1/chunklist_w633831762.m3u8
 #EXTINF:0 type="stream" channelId="-1", Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Passo Fundo
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/chunklist_w1587811884.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Santa Maria
 https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Nova TV Agrotour
-https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Lagoa TV
 https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w542222955.m3u8
 
@@ -117,74 +91,16 @@ https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w542222955.m3u8
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", Rakuten Family (PT)
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
-#EXTINF:0 type="stream" channelId="-1", TOON GOGGLE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
-#EXTINF:0 type="stream" channelId="-1", TOON GOGGLE
-https://stream.ads.ottera.tv/cl/231231cm8p4sn6s3ikib7h7bog/1280x720_3071200_0_f.m3u8?i=475_274
-
-#EXTINF:0 type="stream" channelId="-1", TV Jovem Pan News
-http://168.205.87.198:8555/live/1438/123456/161.ts
-#EXTINF:0 type="stream" channelId="-1", 24 Horas News
-http://cdn.connectbr.com.br/24_news/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", CNN Brasil
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", CNN Brasil
-http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", CNN Brasil
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
-#EXTINF:0 type="stream" channelId="-1", Record News
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1", Record News
-http://168.205.87.198:8555/live/1438/123456/97.ts
 
 #EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2645", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", Run Time
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=66b9a14e2839b8c1dafbc777691e8c4b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
-#EXTINF:0 type="stream" channelId="-1", Run Time Ação
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:0 type="stream" channelId="-1", Run Time Comédia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:0 type="stream" channelId="-1", Run Time Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:0 type="stream" channelId="-1", Run Time Cine Espanto
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:0 type="stream" channelId="-1", Run Time Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:0 type="stream" channelId="-1", Run Time Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:0 type="stream" channelId="-1",  MOVIE SPHERE
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", CLUBINHO FAN
-http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", ClubinhoFun
-http://cdn.connectbr.com.br/Clubinho/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", ENTRETENDO 
-http://cdn.connectbr.com.br:80/Entretendo/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Entretendo
-http://cdn.connectbr.com.br/Entretendo/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", BORA FILMES
-http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", BORA FILMES
-http://joao-1-us.mainbkonline.shop:80/929858919482/094699824843/63052
-
-#EXTINF:0 type="stream" channelId="-1", Playpoca Filmes
-http://168.205.87.198:8555/live/1431/123456/238.ts
-#EXTINF:0 type="stream" channelId="-1", Playpoca Séries
-http://168.205.87.198:8555/live/1431/123456/239.ts
-#EXTINF:0 type="stream" channelId="-1", Séries Clássicas
-http://168.205.87.198:8555/live/1431/123456/160.ts
-
 #EXTINF:0 type="stream" channelId="-1", TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:0 type="stream" channelId="5100", TV Clube
 https://5c483b9d1019c.streamlock.net:443/8186/8186/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", AWTV
-https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w600857113.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Gallo HD
