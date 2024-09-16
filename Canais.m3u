@@ -97,8 +97,6 @@ https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2645", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", TV Nova Play
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:0 type="stream" channelId="5100", TV Clube
 https://5c483b9d1019c.streamlock.net:443/8186/8186/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 29
@@ -115,10 +113,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w333847997.m3u8
 #EXTINF:0 type="stream" channelId="-1", Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
-#EXTINF:0 type="stream" channelId="-1", ABC Brasil
-https://stmv1.srvstm.com/victor7513/victor7513/chunklist.m3u8?ROGERIOTORRES
-#EXTINF:0 type="stream" channelId="-1", TV CEI
-https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Rede Minas
 http://168.205.87.198:8555/live/1438/123456/101.ts
@@ -133,19 +127,11 @@ http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Brasil Central TBC
 https://tbc.zoeweb.tv:443/tbc/tbc/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", TV Gazeta
-https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w767522095.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TBO
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Via morena
-https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/480p/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", Urban TV Brasil HD
-http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Urban Movies HD
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Urban Series HD
@@ -161,13 +147,6 @@ http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Urban TV Travel HD
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
-#EXTINF:0 type="stream" channelId="-1", Cartoonito
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", Kids
 http://168.205.87.198:8555/live/1438/123456/143.ts
 #EXTINF:0 type="stream" channelId="2614", TV Rá-Tim-Bum
@@ -175,14 +154,8 @@ http://168.205.87.198:8555/live/1438/123456/84.ts
 #EXTINF:0 type="stream" channelId="-1",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", TV REGIONAL PAULISTA
-https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",  Discovery Kids
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Nickleodeon
-http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Foxkids
-https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", TV Liberdade
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", Tooncast
@@ -190,8 +163,6 @@ https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zoomoo
 https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", Comédia Brasil
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", CineBrasil TV
 https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 
@@ -199,53 +170,26 @@ https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 http://168.205.87.198:8555/live/1438/123456/67.ts
 #EXTINF:0 type="stream" channelId="-1", CANAL SAÚDE
 http://168.205.87.198:8555/live/1438/123456/165.ts
-#EXTINF:0 type="stream" channelId="-1", TV BRICS HD
-https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-#EXTINF:0 type="stream" channelId="1201", History 2
-http://cdn.connectbr.com.br/h2/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
 #EXTINF:0 type="stream" channelId="-1", Viajando Pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Viva e Eduque
-https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Erga Omnes
 https://video01.kshost.com.br:4443/erga9862/erga9862/chunklist_w2008369392.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Educar
-https://v1.comunicabh.com.br/tveducar/tveducar/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1",HELLO TV
-http://cdn.connectbr.com.br:80/Hello/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", INSPIRE 
-http://cdn.connectbr.com.br:80/Inspire/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1",REDE MOSAICO 
-http://cdn.connectbr.com.br:80/Mosaico/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1",UP CHANNEL 
-http://cdn.connectbr.com.br:80/UPChannel/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1",YES LIFE 
-http://cdn.connectbr.com.br:80/Life/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Flórida
-https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bem Melhor
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Nova TV Regional
-http://187.95.95.241:7988/regional/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", OX TV
-https://cdn2.connectbr.com.br/oxtv/video.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Livre TV
-https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1100067141.m3u8
 #EXTINF:0 type="stream" channelId="-1", KID Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
-#EXTINF:0 type="stream" channelId="-1", Central TV
-https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w772275062.m3u8
 #EXTINF:0 type="stream" channelId="-1", NGT
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", NBT
