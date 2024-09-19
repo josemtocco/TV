@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
 https://video05.logicahost.com.br/tvurbana/tvurbana/chunklist_w98425509.m3u8
+#EXTINF:0 type="stream" channelId="-1", AW TV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sou + Pop TV
+https://video04.logicahost.com.br/soumaispop/soumaispop/chunklist_w1816941919.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV AM
 https://stmv1.srvsite.com/tvam/tvam/chunklist_w699290462.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede TVS
