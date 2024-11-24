@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Times Brasil CNBC
+https://live-c2.cf.dmcdn.net/sec2(YbrnW97Cym8yRmZ6CnCJ4rAxAA0UyfapjLUmSkohB4BikYi_zMbP7nvm58jhi5ZcvY02PAoZevuLgfQsiI0b4L8p6dbzdAXgQF0fR4S408crOy1D_7dHUDVqNPOc3rCe)/cloud/3/x99a9pe/d/live-720.m3u8#cell=lcfc2
 #EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
 https://video05.logicahost.com.br/tvurbana/tvurbana/chunklist_w98425509.m3u8
 #EXTINF:0 type="stream" channelId="-1", AW TV
