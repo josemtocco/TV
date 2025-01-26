@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", Love Nature
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f1213ba0ecebc00070e170f/3321280/playlist.m3u8?terminate=false&sid=8c133294-afe7-11ef-bb01-7ec466b4e529&deviceDNT=0&deviceLat=-28.3700008392334&deviceLon=-51.63999938964844&deviceModel=web&deviceVersion=133.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=ee18d0c2-1212-401c-a0e0-2ebc92bf49e9&appVersion=9.6.0-a4885044134e9550f33624d94056de15020c6adb&deviceType=web&deviceMake=firefox&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjhhN2I4NzRhLTk5NjYtNGQwNS04MTIzLWRhMzViZjQyMDNmMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI4YzEzMzI5NC1hZmU3LTExZWYtYmIwMS03ZWM0NjZiNGU1MjkiLCJjbGllbnRJUCI6IjQ1LjIzMC4zLjIyOCIsImNpdHkiOiJJYmlyYWlhcmFzIiwicG9zdGFsQ29kZSI6Ijk1MzA1LTk1OSIsImNvdW50cnkiOiJCUiIsImRtYSI6NzYwMjcsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjguMzcwMDAwODM5MjMzNCwiZGV2aWNlTG9uIjotNTEuNjM5OTk5Mzg5NjQ4NDQsInByZWZlcnJlZExhbmd1YWdlIjoicHQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzMy4wLjAiLCJkZXZpY2VNYWtlIjoiZmlyZWZveCIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjYuMC1hNDg4NTA0NDEzNGU5NTUwZjMzNjI0ZDk0MDU2ZGUxNTAyMGM2YWRiIiwiY2xpZW50SUQiOiJlZTE4ZDBjMi0xMjEyLTQwMWMtYTBlMC0yZWJjOTJiZjQ5ZTkiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9TYW9fUGF1bG8iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJlZTE4ZDBjMi0xMjEyLTQwMWMtYTBlMC0yZWJjOTJiZjQ5ZTkiLCJmd1ZjSUQyQ29wcGEiOiJlZTE4ZDBjMi0xMjEyLTQwMWMtYTBlMC0yZWJjOTJiZjQ5ZTkiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImVlMThkMGMyLTEyMTItNDAxYy1hMGUwLTJlYmM5MmJmNDllOSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDMsMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpCUjpaV1V4T0dRd1l6SXRNVEl4TWkwME1ERmpMV0V3WlRBdE1tVmlZemt5WW1ZME9XVTUiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzMzMTQ1ODQ5LCJpYXQiOjE3MzMwNTk0NDksImp0aSI6ImMwNWYxNmMzLTBlZDAtNGRlNi1hNmE1LWQxMWY5N2JkYjc4ZiJ9.t2NQir1yoGojhjAHsj8D9jK_3LAk2ID2GcoGFlAwYaA&paln=AQzzBGQE8Q3JmWjTlap3jO0tg2JhWHfrKKpwfW2ICl6ObJGrRwVwEympXy1ZovjZe0K59oR_P1ab6tiui76U1_B2oN0yKLZjMXATLb22XooHAHuY3XKv6sopidYp8j1MaobJqNWsj0aNmlPziQxBqziIAxiLehdjhkyMgAUZABigHSm3oEEfYAu48U5XbHBSv7zdpDqY4ICateMcK53Pwriqh9kkE0trLL9TVY77azd58mNa38VZjAnQX9AW5rYUdLg8fPCBcoD6PbKZXRBN5fu9wd5c1wc2OVDGT9HQrZ9pnIQfFeKifEIAGbAQfufYDv7j-iUu4wh9MVfWNanKyoE5Kz2uuW49MbBrSfN8WBIllXil1s8x-5NC4ZKWFPEHzHONPaRJb7yV-44-Oog8banLXP5XH8AtqOuKvFz3lbsd247X0ubDnpwnacx3rpFM2no07QaYNJXayH9xPclrdR__OFKEwWeQ_46n6hfq8mzgFm1KimHJT73sqjKJ0uNULqP1yBObmj22U__ySbnOiJsfoBC6CXQFVz1gGSc6SWBf76V9hqtH8cvnmL0HfI4NkvAxlHKxg9FRDcBoXa2e7IKmvNLogis-5SYNjw5-8hb6v7iJonJ8ndop9sQ3j0BiDmrdLw6Bm2_aY--sxNHQidgNJCdsgPFa-k-eiCjOxw-PqeMCVXadOKpg1t9arlYOAmmZ6z_NKSvMlAtbjnz17rk5d4IZvwYjEohLvMo7haZdML71koj6aLyPErVPzA1qjZHz17JcmupPJ90Mw_4h5yNqfsPr0Bc0FczMCHvKi7RPAJNgg-1fkoc8okn2NR3GKTzI2iCDAd5CJpY_SJj2UPnJGyPxl2jJS02Ncr4TmtEtWJAPKGRKA6PYjFYyR5fAHm2ZKXeNI-L68nhcvHHapNnubyVQFed_l8BeTw82XbsK06Fp2SsxOjFcrBV6hoiRJsxXQcfSN7shMBVVWqg4CbEnwyDrYEUbCqP85mFgEik0uIprUdXuydcYJLD93yDv0dwtZ5GCt_i_6f7rWj7TBQZZNrpKwgjtOKIHLl4iFRDFS74OLRy_cwQuxf3-AyJzZ_CiI0I0MhM1_aJQvshO_GuYzYmor-KiEh1WTZDzpR8VZh3ceZuqxu2afkcDW0cbHwW0IrEbGwWi5Na6916rtM5rgPp_hFKvsXrjpqjJz0ciNV0KvS38SXqFsDGPCDck3GRdUcnO3MRtI-CR4LQGa04BOQH4uq5OzhpaqSjekP3pZYSTRGSuEUpgQzZyhRfnQ9wnPqMLozc0UnrMrRdzNRk-__s-Sx9imursIUWHngYJuyD3E5lpffkIGZkxIC-KxdiIF3e54mfTqQ0LEjwm
+#EXTINF:0 type="stream" channelId="-1", New Brasil
+https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
 https://video05.logicahost.com.br/tvurbana/tvurbana/chunklist_w98425509.m3u8
 #EXTINF:0 type="stream" channelId="-1", AW TV
@@ -44,31 +44,6 @@ https://video01.logicahost.com.br/poastreaming/poastreaming/chunklist_w210974970
 #EXTINF:0 type="stream" channelId="-1",TV Euro News Brasil
 https://video01.logicahost.com.br/tveuronews/tveuronews/chunklist_w755535484.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", SBT RS
-https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", SBT
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", SBT
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", SBT Rede Massa
-https://d10tspkqgju994.cloudfront.net/out/v1/7d01acad7c474d559689a421c90168db/index.mpd
-#EXTINF:0 type="stream" channelId="-1", SBT Canal da Praça
-https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
-#EXTINF:0 type="stream" channelId="-1", Record Paulista Tv
-https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Record Tv
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?ROGERIOTORRES
-#EXTINF:0 type="stream" channelId="-1", Record Minas
-http://168.205.87.198:8555/live/1438/123456/96.ts
-#EXTINF:0 type="stream" channelId="-1", Band
-http://168.205.87.198:8555/live/1438/123456/19.ts
-#EXTINF:0 type="stream" channelId="-1", Band
-https://streaming.gruporba.com.br/rba.m3u8
-#EXTINF:0 type="stream" channelId="-1", Globo Minas HD
-http://168.205.87.198:8555/live/1438/123456/70.ts
-
 #EXTINF:0 type="stream" channelId="2628", Conecta Mais
 https://transcoder7.adyl.net.br/Conecta/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="2628", TVE 
@@ -76,11 +51,7 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
 #EXTINF:0 type="stream" channelId="2628", TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2613", TV Pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
-#EXTINF:0 type="stream" channelId="-1", TV Pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w341711511.m3u8
+https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w903062707.m3u8
 #EXTINF:0 type="stream" channelId="-1", Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Passo Fundo
@@ -197,43 +168,3 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w1219160310.m3u8
 https://video01.logicahost.com.br/redebemtv/redebemtv/chunklist_w1502134141.m3u8
 #EXTINF:0 type="stream" channelId="-1", Imperial TV
 https://acesso.ecast.site:3630/live/imperiallive.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1", ag 4
-http://cdn33.cc:80/Magalhaesps/101280/228154.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 001" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 001
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 0010" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 0010
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 0011" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS",- 0011
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 0012" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 0012
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 0013" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 0013
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 0014" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 0014
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 0015" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 0015
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 0016" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 0016
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 0017" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS",- 0017
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 002" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 002
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 003" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 003
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 004" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 004
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 005" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 005
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 006" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 006
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 007" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 007
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 008" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 008
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAY - 009" tvg-logo="http://i.imgur.com/izVbXlK.png" group-title="FILMES | ADULTOS", - 009
-http://contentsdeliver.link:8080/movie/3185558235/3185558/249166.mp4
-
