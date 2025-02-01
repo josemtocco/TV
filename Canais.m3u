@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", New Brasil
 https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Pampa
+https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w851260792.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
-https://video05.logicahost.com.br/tvurbana/tvurbana/chunklist_w98425509.m3u8
+https://video05.logicahost.com.br/tvurbana/tvurbana/chunklist_w345032028.m3u8
 #EXTINF:0 type="stream" channelId="-1", AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sou + Pop TV
@@ -44,14 +46,12 @@ https://video01.logicahost.com.br/poastreaming/poastreaming/chunklist_w210974970
 #EXTINF:0 type="stream" channelId="-1",TV Euro News Brasil
 https://video01.logicahost.com.br/tveuronews/tveuronews/chunklist_w755535484.m3u8
 
-#EXTINF:0 type="stream" channelId="2628", Conecta Mais
+#EXTINF:0 type="stream" channelId="-1", Conecta Mais
 https://transcoder7.adyl.net.br/Conecta/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="2628", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
 #EXTINF:0 type="stream" channelId="2628", TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Pampa
-https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w903062707.m3u8
 #EXTINF:0 type="stream" channelId="-1", Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Passo Fundo
