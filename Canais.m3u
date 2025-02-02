@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", New Brasil
 https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Travel+
+https://amg24440-travelplus-amg24440c1-lg-br-6141.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w851260792.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
@@ -115,6 +117,17 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Urban TV Travel HD
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", RunTime Romance
+https://run-ro-br-lgchannels.otteravision.com/run/ro_br/ro_br.m3u8
+#EXTINF:0 type="stream" channelId="-1", RunTime Familia
+https://run-rufb-lgchannels.otteravision.com/run/rufb/rufb.m3u8
+#EXTINF:0 type="stream" channelId="-1", RunTime Cine Espanto
+https://run-th-br-lgchannels.otteravision.com/run/th_br/th_br.m3u8
+#EXTINF:0 type="stream" channelId="-1", RunTime Crime
+https://run-cr-br-lgchannels.otteravision.com/run/cr_br/cr_br.m3u8
+#EXTINF:0 type="stream" channelId="-1", RunTime Comédia
+https://run-rc-br-lgchannels.otteravision.com/run/rc_br/rc_br.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Kids
 http://168.205.87.198:8555/live/1438/123456/143.ts
