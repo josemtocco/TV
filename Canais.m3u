@@ -5,8 +5,38 @@ https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist.
 https://amg24440-travelplus-amg24440c1-lg-br-6141.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Viagens
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1", LorenziTravel
+https://srv3.zcast.com.br/traveltv/traveltv/chunklist_w738577777.m3u8
+#EXTINF:0 type="stream" channelId="-1", EuroNews
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1", TV Pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w851260792.m3u8
+#EXTINF:0 type="stream" channelId="-1",Band News
+https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nature Moments
+https://amg01576-amg01576c2-tcl-us-4894.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Hallo Séries
+https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Classicos do Cinema
+https://stmv1.srvif.com/movies1/movies1/chunklist_w627840571.m3u8
+#EXTINF:0 type="stream" channelId="-1",Popeye
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1",HTO Kids
+https://cdn-3.nxplay.com.br/HTO_KIDS/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Desenhos Clássicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1", Cazé TV
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:0 type="stream" channelId="-1", Hallo BR
+https://cdn-5.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", HTO Filmes
+https://cdn-5.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Entretendo
+https://cdn-3.nxplay.com.br/ENTRETENDO_FAST/tracks-v2a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bora Filmes
+https://cdn-3.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1",Adrenalina Pura TV
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", REISEN CLUBE TV
 https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
@@ -35,7 +65,7 @@ https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1",  NET Movies
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1", Filmelier
-https://cc-ivjqrycrrc6j3.akamaized.net/Sofa_Digital/Filmelier_BR/Filmelier.m3u8
+https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Free TV Crime
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
 
