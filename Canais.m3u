@@ -4,21 +4,15 @@ https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist.
 #EXTINF:0 type="stream" channelId="-1", EuroNews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1", TV Pampa
-https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w851260792.m3u8
+https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w880757487.m3u8
 #EXTINF:0 type="stream" channelId="-1",Band News
 https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", Hallo Séries
 https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1",TV Classicos do Cinema
-https://stmv1.srvif.com/movies1/movies1/chunklist_w627840571.m3u8
 #EXTINF:0 type="stream" channelId="-1",Popeye
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1",HTO Kids
-https://cdn-3.nxplay.com.br/HTO_KIDS/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Desenhos Clássicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1", HTO Filmes
-https://cdn-5.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1",Adrenalina Pura TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Adrenalina Pura TV
@@ -31,8 +25,6 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8?ROGERIOTORRES
 https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8?token=cf13e87b855ab49daac5ebe7d93e81514a5cbab7-0e08ef78ccf8bea855c6905a327c1707-1733526642-1733483442
 #EXTINF:0 type="stream" channelId="-1", Hallo! Movies ᴴᴰ 🟢
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8?token=82a409ea228d7cb2402106159a946417c66652eb-d17eb7b54a9c7f76042adf5377a57137-1731305419-1731262219
-#EXTINF:0 type="stream" channelId="-1", Hallo! Plus ᴴᴰ 🟢
-https://cdn-5.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8?token=68c5767b5f4c2663b12c2c8b1cda46094e600bf8-ff74fd75a0332f98d9569f131ab259c1-1733526642-1733483442
 #EXTINF:0 type="stream" channelId="-1", Hallo! Séries ᴴᴰ 🟢
 https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", Classicos do Cinema
@@ -74,8 +66,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d
 https://amg24440-travelplus-amg24440c1-lg-br-6141.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Viagens
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1", LorenziTravel
-https://srv3.zcast.com.br/traveltv/traveltv/chunklist_w738577777.m3u8
 #EXTINF:0 type="stream" channelId="-1", Voce Sabia
 http://24hrs.homelinux.com:8080/24H-vocesabia/video.m3u8
 #EXTINF:0 type="stream" channelId="-1", Moove Explorer
@@ -149,6 +139,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1",CINE COMEDIA ROMANTICA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1",CINE DRAMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1",CINE ROMANCE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -179,22 +170,12 @@ https://acesso.ecast.site:3070/live/awtvlive.m3u8
 https://stmv1.samcast.com.br/ciranodesousacarvalho4922/ciranodesousacarvalho4922/chunklist_w1347783883.m3u8
 #EXTINF:0 type="stream" channelId="-1",RE Republic
 https://video01.soultv.com.br/republic/republic/chunklist_w380236360.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Folha do Campo
-https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w1945327388.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV O Reporter
-https://stream.uniquetv.com.br/tvoreporter/tracks-v1a1/mono.m3u8
+https://pop.uniquetv.com.br/tvoreporter/video.m3u8
 #EXTINF:0 type="stream" channelId="-1",Auge TV
 https://video05.logicahost.com.br/augetv/augetv/chunklist_w1286423381.m3u8
-#EXTINF:0 type="stream" channelId="-1", DM Kids TV
-https://video03.logicahost.com.br/dmkidstv/dmkidstv/chunklist_w99939210.m3u8
-#EXTINF:0 type="stream" channelId="-1", KID Mais
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1278714321.m3u8
-#EXTINF:0 type="stream" channelId="-1", GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1633280597.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV R
 https://video01.soultv.com.br/tvr/tvr/chunklist_w444034270.m3u8
-#EXTINF:0 type="stream" channelId="-1", ABC Brasil
-https://5cf4a2c2512a2.streamlock.net/8256/8256/chunklist_w1781258463.m3u8
 #EXTINF:0 type="stream" channelId="-1",POA Streeming
 https://video01.logicahost.com.br/poastreaming/poastreaming/chunklist_w2109749700.m3u8
 
@@ -210,8 +191,6 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/chunklist_w1587811884.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Santa Maria
 https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Lagoa TV
-https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w542222955.m3u8
 #EXTINF:0 type="stream" channelId="5100", TV Clube
 https://5c483b9d1019c.streamlock.net:443/8186/8186/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", CineLivre 2
@@ -247,16 +226,8 @@ https://run-cr-br-lgchannels.otteravision.com/run/cr_br/cr_br.m3u8
 #EXTINF:0 type="stream" channelId="-1", RunTime Comédia
 https://run-rc-br-lgchannels.otteravision.com/run/rc_br/rc_br.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", Kids
-http://168.205.87.198:8555/live/1438/123456/143.ts
-#EXTINF:0 type="stream" channelId="2614", TV Rá-Tim-Bum
-http://168.205.87.198:8555/live/1438/123456/84.ts
 #EXTINF:0 type="stream" channelId="-1",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", CineBrasil TV
-https:/cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", CANAL SAÚDE
-http://168.205.87.198:8555/live/1438/123456/165.ts
 #EXTINF:0 type="stream" channelId="-1", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
 #EXTINF:0 type="stream" channelId="-1", Viajando Pelo Brasil
@@ -269,26 +240,10 @@ https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 https://video01.kshost.com.br:4443/erga9862/erga9862/chunklist_w2008369392.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede SPTV
-https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bem Melhor
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", KID Mais
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
 #EXTINF:0 type="stream" channelId="-1", NGT
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", NBT
 https://isaocorp.cloudecast.com/nbt/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Vila TV
-https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="[XXX] [Homossexual Masculino] Voyr Rhyheim Flips With Ramon Hot [Adulto]" tvg-logo="http://gstaticontent.com/images/bab6708d1f47b31e7e844e8bfa0e64aa.jpg" group-title="Filmes | [XXX] Adultos",[XXX] [Homossexual Masculino] Voyr Rhyheim Flips With Ramon Hot [Adulto]
-http://saga10.pro:80/movie/345715/562156/4619179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[XXX] [Homossexual Masculino] Puppy Lovers [Adulto]" tvg-logo="http://gstaticontent.com/images/bab6708d1f47b31e7e844e8bfa0e64aa.jpg" group-title="Filmes | [XXX] Adultos",[XXX] [Homossexual Masculino] Puppy Lovers [Adulto]
-http://saga10.pro:80/movie/345715/562156/4619180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[XXX] [Homossexual Masculino] Corbin Fisher Big Dick Bottoms 4 [Adulto]" tvg-logo="http://gstaticontent.com/images/bab6708d1f47b31e7e844e8bfa0e64aa.jpg" group-title="Filmes | [XXX] Adultos",[XXX] [Homossexual Masculino] Corbin Fisher Big Dick Bottoms 4 [Adulto]
-http://saga10.pro:80/movie/345715/562156/4619181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[XXX] [Homossexual Masculino] Asgmax Originals Asg Massage Kam Stone e Logan Aarons [Adulto]" tvg-logo="http://gstaticontent.com/images/bab6708d1f47b31e7e844e8bfa0e64aa.jpg" group-title="Filmes | [XXX] Adultos",[XXX] [Homossexual Masculino] Asgmax Originals Asg Massage Kam Stone e Logan Aarons [Adulto]
-http://saga10.pro:80/movie/345715/562156/4619182.mp4
 
