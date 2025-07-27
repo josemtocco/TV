@@ -5,14 +5,17 @@ https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist.
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1", TV Pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w880757487.m3u8
+#EXTINF:0 type="stream" channelId="-1", Porto Alegre 24 horas
+https://rtisoluctions.com.br/hls/test_src.m3u8
 #EXTINF:0 type="stream" channelId="-1",Band News
 https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNN MONEY
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w794021843.m3u8
+#EXTINF:0 type="stream" channelId="-1",BM&C NEWS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:0 type="stream" channelId="-1", Hallo Séries
 https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1",Popeye
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1", Desenhos Clássicos
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1",Adrenalina Pura TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Adrenalina Pura TV
@@ -30,14 +33,9 @@ https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", Classicos do Cinema
 https://stmv4.voxtvhd.com.br/tvbarbacenaonline/tvbarbacenaonline/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", Porto Alegre 24 horas
-https://rtisoluctions.com.br/hls/test_src.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", REISEN CLUBE TV
 https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
-#EXTINF:0 type="stream" channelId="-1", CNN MONEY
-https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w794021843.m3u8
-#EXTINF:0 type="stream" channelId="-1",BM&C NEWS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1",TVL News
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Royal World
@@ -76,9 +74,9 @@ https://video07.logicahost.com.br/vamborachannel/vamborachannel/chunklist_w16638
 https://pop.uniquetv.com.br/travelfood/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tastemade Viagens
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeTravel_BR/TastemadeTravel.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", TV COOP SC
 https://stream01f.netpointcdn.com.br/tvcoopsc/aovivo/chunklist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", CINEMINHA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" channelId="-1", CINEMINHA
@@ -114,6 +112,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645951c0e94c38000802d2
 https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
 #EXTINF:0 type="stream" channelId="-1", Animation +
 https://linear-918.frequency.stream/mt/plex/918/hls/master/playlist_1920x1080.m3u8
+#EXTINF:0 type="stream" channelId="-1",Popeye
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1", Desenhos Clássicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
@@ -164,6 +168,39 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f
 #EXTINF:0 type="stream" channelId="-1",FILMES AVENTURA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c79a4262e5510008ff68a5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:0 type="stream" channelId="-1", Urban Movies HD
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban Series HD
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Kids HD
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Docs HD
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Turbo HD
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Retro HD
+http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Travel HD
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", RunTime Romance
+https://run-ro-br-lgchannels.otteravision.com/run/ro_br/ro_br.m3u8
+#EXTINF:0 type="stream" channelId="-1", RunTime Familia
+https://run-rufb-lgchannels.otteravision.com/run/rufb/rufb.m3u8
+#EXTINF:0 type="stream" channelId="-1", RunTime Cine Espanto
+https://run-th-br-lgchannels.otteravision.com/run/th_br/th_br.m3u8
+#EXTINF:0 type="stream" channelId="-1", RunTime Crime
+https://run-cr-br-lgchannels.otteravision.com/run/cr_br/cr_br.m3u8
+#EXTINF:0 type="stream" channelId="-1", RunTime Comédia
+https://run-rc-br-lgchannels.otteravision.com/run/rc_br/rc_br.m3u8
+
+#EXTINF:0 type="stream" channelId="5100", TV Clube
+https://5c483b9d1019c.streamlock.net:443/8186/8186/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CineLivre 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1", Tv Top Mix Filmes
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w333847997.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede TVS
@@ -191,43 +228,9 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/chunklist_w1587811884.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Santa Maria
 https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
-#EXTINF:0 type="stream" channelId="5100", TV Clube
-https://5c483b9d1019c.streamlock.net:443/8186/8186/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", CineLivre 2
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" channelId="-1", Tv Top Mix Filmes
-https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w333847997.m3u8
 #EXTINF:0 type="stream" channelId="-1", Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w1999339200.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", Urban Movies HD
-http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Urban Series HD
-http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Urban TV Kids HD
-http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Urban TV Docs HD
-http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Urban TV Turbo HD
-http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Urban TV Retro HD
-http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Urban TV Travel HD
-http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", RunTime Romance
-https://run-ro-br-lgchannels.otteravision.com/run/ro_br/ro_br.m3u8
-#EXTINF:0 type="stream" channelId="-1", RunTime Familia
-https://run-rufb-lgchannels.otteravision.com/run/rufb/rufb.m3u8
-#EXTINF:0 type="stream" channelId="-1", RunTime Cine Espanto
-https://run-th-br-lgchannels.otteravision.com/run/th_br/th_br.m3u8
-#EXTINF:0 type="stream" channelId="-1", RunTime Crime
-https://run-cr-br-lgchannels.otteravision.com/run/cr_br/cr_br.m3u8
-#EXTINF:0 type="stream" channelId="-1", RunTime Comédia
-https://run-rc-br-lgchannels.otteravision.com/run/rc_br/rc_br.m3u8
-
-#EXTINF:0 type="stream" channelId="-1",RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
 #EXTINF:0 type="stream" channelId="-1", Viajando Pelo Brasil
