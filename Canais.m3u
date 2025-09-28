@@ -31,12 +31,6 @@ https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", NICKELODEON TOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645951c0e94c38000802d2cb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 type="stream" channelId="-1", CAZÉ TV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:0 type="stream" channelId="-1", GE TV
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
-#EXTINF:0 type="stream" channelId="-1",
-
 #EXTINF:0 type="stream" channelId="-1", Hallo Séries
 https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1",Adrenalina Pura TV
@@ -281,6 +275,7 @@ https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", NBT
 https://isaocorp.cloudecast.com/nbt/index.m3u8
+
 
 
 
