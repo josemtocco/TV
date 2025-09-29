@@ -15,6 +15,8 @@ https://tv02.zas.media:1936/minuano/minuano/chunklist_w1081948895.m3u8
 https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w794021843.m3u8
 #EXTINF:0 type="stream" channelId="-1",BM&C NEWS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1", TV Acauã Tropical
+https://v01.taaqui.org/acauatropical/acauatropical/chunklist_w948127589.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", PRIME SÉRIES
 https://pop.uniquetv.com.br/primeseries/video.m3u8
@@ -275,6 +277,7 @@ https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", NBT
 https://isaocorp.cloudecast.com/nbt/index.m3u8
+
 
 
 
