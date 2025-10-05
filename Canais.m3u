@@ -18,12 +18,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552
 #EXTINF:0 type="stream" channelId="-1", TV Acauã Tropical
 https://v01.taaqui.org/acauatropical/acauatropical/chunklist_w948127589.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", PRIME SÉRIES
-https://pop.uniquetv.com.br/primeseries/video.m3u8
-#EXTINF:0 type="stream" channelId="-1", PRIME TOON
-https://pop.uniquetv.com.br/primetoon/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", PRIME CINE
-https://pop.uniquetv.com.br/primecine/video.m3u8
 #EXTINF:0 type="stream" channelId="-1", CANAL LIKE
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Acesso Channel
@@ -277,6 +271,7 @@ https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", NBT
 https://isaocorp.cloudecast.com/nbt/index.m3u8
+
 
 
 
