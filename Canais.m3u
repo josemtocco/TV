@@ -20,6 +20,15 @@ https://v01.taaqui.org/acauatropical/acauatropical/chunklist_w948127589.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Metropolitana
 https://srv1.zcast.com.br/metropolitanatv/metropolitanatv/playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1", Cazé TV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", GE TV
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Toon Google
+https://tg-tg-br.otteravision.com/tg/tg_br/tg_br.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Diário de Santa Maria
+https://cdn-diariosm.ciclano.io:1443/diariosm/diariosm/chunklist_w332653834.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", CANAL LIKE
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Acesso Channel
@@ -273,6 +282,7 @@ https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", NBT
 https://isaocorp.cloudecast.com/nbt/index.m3u8
+
 
 
 
