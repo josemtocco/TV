@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0, TV Difus√£o
+#EXTVLCOPT:network-caching=1000
+https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/chunklist_w1024179119.m3u8
 #EXTINF:24, Adesso TV
 #EXTVLCOPT:network-caching=1000
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
@@ -8,7 +11,7 @@ https://linear-918.frequency.stream/mt/plex/918/hls/master/playlist_1920x1080.m3
 #EXTINF:0, Bem Melhor
 #EXTVLCOPT:network-caching=1000
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:62, Canal EducaÁ„o
+#EXTINF:62, Canal Educa√ß√£o
 #EXTVLCOPT:network-caching=1000
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:120, CANAL LIKE
@@ -17,7 +20,7 @@ https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:0, Canal Plural
 #EXTVLCOPT:network-caching=1000
 https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
-#EXTINF:54, CazÈ TV
+#EXTINF:54, Caz√© TV
 #EXTVLCOPT:network-caching=1000
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0, Conecta Mais
@@ -31,16 +34,16 @@ https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:60, Grjngo #EXTVLCOPT:network-caching=1000
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8?ROGERIOTORRES
-#EXTINF:12, Hallo SÈries
+#EXTINF:12, Hallo S√©ries
 #EXTVLCOPT:network-caching=1000
 https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 #EXTINF:0, Hallo! Doc #EXTVLCOPT:network-caching=1000
 https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8?token=0fb1d8ca306aa36413e9cc65e4fe40c35ffb54d0-3661fd422d102d89db1283e72d1e3b4a-1731305419-1731262219
 #EXTINF:12, Hallo! Movies #EXTVLCOPT:network-caching=1000
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8?token=82a409ea228d7cb2402106159a946417c66652eb-d17eb7b54a9c7f76042adf5377a57137-1731305419-1731262219
-#EXTINF:12, Hallo! SÈries #EXTVLCOPT:network-caching=1000
+#EXTINF:12, Hallo! S√©ries #EXTVLCOPT:network-caching=1000
 https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8?token=200ca094d2c11054a63bfc8c8a88169788d65a68-3646a0e9669e44e48c536a6a2825e0fc-1731305419-1731262219
-#EXTINF:11, Hallo! SÈries #EXTVLCOPT:network-caching=1000
+#EXTINF:11, Hallo! S√©ries #EXTVLCOPT:network-caching=1000
 https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:60, Love Nature
 #EXTVLCOPT:network-caching=1000
@@ -71,7 +74,7 @@ https://tv03.zas.media:1936/rsplay/rsplay/chunklist_w920012675.m3u8
 #EXTINF:54, RunTime Cine Espanto
 #EXTVLCOPT:network-caching=1000
 https://run-th-br-lgchannels.otteravision.com/run/th_br/th_br.m3u8
-#EXTINF:60, RunTime ComÈdia
+#EXTINF:60, RunTime Com√©dia
 #EXTVLCOPT:network-caching=1000
 https://run-rc-br-lgchannels.otteravision.com/run/rc_br/rc_br.m3u8
 #EXTINF:60, RunTime Crime
@@ -98,13 +101,13 @@ https://amg00740-sofa-amg00740c9-lg-br-7304.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:29, TV Clube
 #EXTVLCOPT:network-caching=1000
 https://5c483b9d1019c.streamlock.net:443/8186/8186/playlist.m3u8
-#EXTINF:29, TV Di·rio de Santa Maria
+#EXTINF:29, TV Di√°rio de Santa Maria
 #EXTVLCOPT:network-caching=1000
 https://cdn-diariosm.ciclano.io:1443/diariosm/diariosm/chunklist_w332653834.m3u8
 #EXTINF:0, TV Erga Omnes
 #EXTVLCOPT:network-caching=1000
 https://video01.kshost.com.br:4443/erga9862/erga9862/chunklist_w2008369392.m3u8
-#EXTINF:60, TV EXPLOS√O S…RIES
+#EXTINF:60, TV EXPLOS√ÉO S√âRIES
 #EXTVLCOPT:network-caching=1000
 https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
 #EXTINF:60, TV Metropolitana
