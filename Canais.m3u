@@ -2,6 +2,18 @@
 #EXTINF:0, TV Difusão
 #EXTVLCOPT:network-caching=1000
 https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/chunklist_w1024179119.m3u8
+#EXTINF:0, Conect + TV
+#EXTVLCOPT:network-caching=1000
+https://adylnet.streampool.net/10324/live/hls/Conecta/tracks-v1a1/spntl=id=EteDyhVShfE-GedkHNndxIc~hmac=2f3a898662f8b916feced76471ea7f56f5949205508f15c2ecc076780dba4fb3/mono.ts.m3u8
+#EXTINF:0, N Sports
+#EXTVLCOPT:network-caching=1000
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:0, Nature Time
+#EXTVLCOPT:network-caching=1000
+https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
+#EXTINF:0, TV Gaucha
+#EXTVLCOPT:network-caching=1000
+https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8?hls_ctx=yd27538z
 #EXTINF:24, Adesso TV
 #EXTVLCOPT:network-caching=1000
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
